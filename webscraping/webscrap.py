@@ -44,8 +44,8 @@ for elem in elems:
 
 browser.close()
 
-# The first 220 and last 34 links are not useful
-links = links[220:len(links)-34]
+# The first 221 and last 34 links are not useful
+links = links[221:len(links)-34]
 
 # Creating lists to store each and every movie data
 movie_name = []
