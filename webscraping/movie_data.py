@@ -7,7 +7,7 @@ import pandas as pd
 from selenium import webdriver
 import time
 
-browser = webdriver.Chrome("Python/chromedriver")
+browser = webdriver.Chrome("webscraping/chromedriver")
 
 browser.maximize_window()
 
@@ -62,7 +62,7 @@ for link in links:
     name = name.replace("-", " ").title()
     movie_name.append(name)
 
-browser = webdriver.Chrome("Python/chromedriver")
+browser = webdriver.Chrome("webscraping/chromedriver")
 
 browser.maximize_window()
 
