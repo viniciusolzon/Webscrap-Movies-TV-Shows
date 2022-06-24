@@ -1,11 +1,9 @@
-# This file gathers additional data such as the rating of the movie according to IMDB votes and also the director's name.
-# However, I did not ended up making the csv file of it, because the scraping takes too long to do so, the reason why it's
-# because the response time from the selected URL takes much longer than expected. I'm working on it.
-
 from bs4 import BeautifulSoup
 import pandas as pd
 from selenium import webdriver
 import time
+import requests
+import re
 
 browser = webdriver.Chrome("webscraping/chromedriver")
 
@@ -53,38 +51,90 @@ links = links[221:len(links)-34]
 
 # Creating lists to store movie data
 movie_name = []
-movie_director = []
 movie_rating = []
+movie_genre = []
+movie_runtime = []
+movie_age_rating = []
+movie_director = []
 
 for link in links:
-    # Movie Name
-    name = link[35:]
-    name = name.replace("-", " ").title()
-    movie_name.append(name)
-
-browser = webdriver.Chrome("webscraping/chromedriver")
-
-browser.maximize_window()
-
-for link in links:
-    browser.get(str(link))
-    html = browser.page_source 
+    html = requests.get(str(link)).text
     soup = BeautifulSoup(html, "lxml")
-    # Movie Director
-    director = soup.find("a", class_ = 'title-credit-name')
-    movie_director.append(director.text[1:-1])
-    # IMDB rating of the movie
-    rating = browser.find_element_by_xpath("//div[@class='detail-infos__value']").text
-    rating = str(rating)
-    rating = rating[4:]
-    movie_rating.append(rating)
+    # Title
+    title = soup.find("div", class_ = 'title-block')
+    title = title.h1.text
+    title = title[1:-1]
+    movie_name.append(title)
+    # Debugger
+    print(title)
+    # IMDB rating
+    i = 0
+    x = soup.find_all("h3", class_ = 'detail-infos__subheading--label')
+    x = x[i].text
+    if (x == "Rating"):
+        x = soup.find('a', {'href': re.compile('https:\/\/www\.imdb\.com\/title\/([\w\d]+)\/\?ref_=ref_ext_justwatch')})
+        if (not(bool(x))):
+            print("it has no ratings yet")
+            movie_rating.append("NULL")
+        else:
+            imdb_rating = str(x.text)
+            movie_rating.append(imdb_rating[1:-1])
+            i+=1
+    else:
+        movie_rating.append("NULL")
+    # Genre
+    x = soup.find_all("h3", class_ = 'detail-infos__subheading--label')
+    x = x[i].text
+    if (x == "Genres"):
+        genre = soup.find_all("div", class_ = 'detail-infos__value')
+        genre = genre[i]
+        genre = genre.text
+        movie_genre.append(genre)
+        i+=1
+    else:
+        movie_genre.append("NULL")
+    # Runtime
+    x = soup.find_all("h3", class_ = 'detail-infos__subheading--label')
+    x = x[i].text
+    if (x == "Runtime"):
+        runtime = soup.find_all("div", class_ = 'detail-infos__value')
+        runtime = runtime[i]
+        runtime = runtime.text
+        movie_runtime.append(runtime)
+        i+=1
+    else:
+        movie_runtime.append("NULL")
+    # Age rating
+    x = soup.find_all("h3", class_ = 'detail-infos__subheading--label')
+    x = x[i].text
+    if (x == "Age rating"):
+        age_rating = soup.find_all("div", class_ = 'detail-infos__value')
+        age_rating = age_rating[i]
+        age_rating = age_rating.text
+        movie_age_rating.append(age_rating)
+        i+=1
+    else:
+        movie_age_rating.append("NULL")
+    # Director
+    x = soup.find_all("h3", class_ = 'detail-infos__subheading--label')
+    x = x[i].text
+    if (x == "Director"):
+        director = soup.find("a", class_ = 'title-credit-name')
+        director = str(director.text)
+        director = director[1:]
+        movie_director.append(director)
+    else:
+        movie_director.append("NULL")
 
-browser.close()
-time.sleep(2)
+time.sleep(1)
 
 df = pd.DataFrame()
 df['Movie title'] = movie_name
-df['Movie director'] = movie_director
 df['IMDB rating'] = movie_rating
+df['Genre'] = movie_genre
+df['Runtime'] = movie_runtime
+df['Age rating'] = movie_age_rating
+df['Director'] = movie_director
 
+print(df.head(20))
 df.to_csv('Movie_Data.csv')

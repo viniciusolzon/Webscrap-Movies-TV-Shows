@@ -1,0 +1,1961 @@
+,Movie title,IMDB rating,Genre,Runtime,Age rating,Director
+0,Hustle,7.4 (50k),"Comedy , Drama , Sport ",1h 57min,R,Jeremiah Zagar 
+1,RRR,8.1 (78k),"Action & Adventure , Drama ",3h 7min,R,S. S. Rajamouli 
+2,Spiderhead,5.4 (15k),"Science-Fiction , Mystery & Thriller , Action & Adventure , Crime , Drama ",1h 47min,R,Joseph Kosinski 
+3,Sing 2,7.4 (51k),"Animation , Drama , Fantasy , Music & Musical , Comedy , Kids & Family ",1h 50min,PG,Garth Jennings 
+4,Mission: Impossible,7.1 (417k),"Mystery & Thriller , Action & Adventure ",1h 50min,PG-13,Brian De Palma 
+5,Operation Mincemeat,6.6 (15k),"Drama , War & Military ",2h 7min,PG-13,John Madden 
+6,The Amazing Spider-Man,6.9 (642k),"Fantasy , Science-Fiction , Action & Adventure ",2h 16min,PG-13,Marc Webb 
+7,The Gentlemen,7.8 (321k),"Comedy , Action & Adventure , Crime ",1h 53min,R,Guy Ritchie 
+8,Mission: Impossible - Ghost Protocol,7.4 (483k),"Mystery & Thriller , Action & Adventure ",2h 13min,PG-13,Brad Bird 
+9,Interceptor,4.4 (16k),"Mystery & Thriller , Drama , Action & Adventure ",1h 38min,PG-13,Matthew Reilly 
+10,Saving Private Ryan,8.6 (1m),"Drama , War & Military ",2h 50min,R,Steven Spielberg 
+11,Anchorman: The Legend of Ron Burgundy,7.1 (351k),Comedy ,1h 34min,PG-13,Adam McKay 
+12,Mission: Impossible II,6.1 (336k),"Mystery & Thriller , Action & Adventure ",2h 3min,PG-13,John Woo 
+13,Norm Macdonald: Nothing Special,7.9,"Comedy , Documentary ",1h 27min,R,Jeff Tomsic 
+14,Ricky Gervais: SuperNature,7.8 (3k),Comedy ,1h 4min,NULL,John L. Spencer 
+15,Paddington,7.2 (112k),"Comedy , Kids & Family , Fantasy , Animation , Made in Europe ",1h 36min,PG,Paul King 
+16,Titanic,7.9 (1m),"Drama , Romance ",3h 14min,PG-13,James Cameron 
+17,Casino Royale,8.0 (646k),"Mystery & Thriller , Action & Adventure , Made in Europe ",2h 15min,NULL,Martin Campbell 
+18,The Departed,8.5 (1m),"Mystery & Thriller , Action & Adventure , Crime , Drama ",2h 31min,R,Martin Scorsese 
+19,Identity,7.3 (240k),Mystery & Thriller ,1h 30min,R,James Mangold 
+20,The Mist,7.1 (300k),"Horror , Science-Fiction , Mystery & Thriller ",2h 6min,R,Frank Darabont 
+21,Margin Call,7.1 (127k),"Drama , Mystery & Thriller ",1h 47min,R,J.C. Chandor 
+22,Forrest Gump,8.8 (2m),"Romance , Drama ",2h 22min,PG-13,Robert Zemeckis 
+23,The Adam Project,6.7 (174k),"Action & Adventure , Comedy , Science-Fiction , Drama , Fantasy ",1h 46min,PG-13,Shawn Levy 
+24,Blade Runner 2049,8.0 (545k),"Science-Fiction , Drama , Mystery & Thriller , Action & Adventure ",2h 44min,R,Denis Villeneuve 
+25,It,7.3 (520k),"Horror , Fantasy , Mystery & Thriller ",2h 15min,R,Andy Muschietti 
+26,War of the Worlds,6.5 (441k),"Mystery & Thriller , Action & Adventure , Science-Fiction ",1h 57min,PG-13,Steven Spielberg 
+27,Happy Gilmore,7.0 (219k),"Comedy , Sport ",1h 32min,PG-13,Dennis Dugan 
+28,Jackass 4.5,NULL,NULL,NULL,NULL,NULL
+29,Senior Year,5.5 (31k),"Comedy , Drama ",1h 52min,R,Alex Hardcastle 
+30,When Harry Met Sally...,7.7 (214k),"Drama , Romance , Comedy ",1h 36min,R,Rob Reiner 
+31,Léon: The Professional,8.5 (1m),"Crime , Drama , Mystery & Thriller , Action & Adventure , Made in Europe ",1h 51min,R,Luc Besson 
+32,Inception,8.8 (2m),"Science-Fiction , Music & Musical , Action & Adventure , Mystery & Thriller ",2h 28min,PG-13,Christopher Nolan 
+33,Stand by Me,8.1 (394k),Drama ,1h 28min,R,Rob Reiner 
+34,Hell or High Water,7.6 (226k),"Drama , Western , Action & Adventure , Crime , Mystery & Thriller ",1h 42min,R,David Mackenzie 
+35,Taxi Driver,8.2 (802k),"Drama , Crime ",1h 53min,R,Martin Scorsese 
+36,Forgetting Sarah Marshall,7.1 (281k),"Comedy , Drama , Romance ",1h 51min,R,Nicholas Stoller 
+37,Vice,7.2 (139k),"Drama , Comedy , Documentary ",2h 12min,R,Adam McKay 
+38,Dunkirk,7.8 (619k),"Action & Adventure , Drama , History , Mystery & Thriller , War & Military , Made in Europe ",1h 46min,PG-13,Christopher Nolan 
+39,Once Upon a Time in America,8.3 (344k),"Drama , Crime , Made in Europe ",3h 49min,R,Sergio Leone 
+40,The Hurt Locker,7.5 (445k),"Drama , Mystery & Thriller , War & Military ",2h 11min,R,Kathryn Bigelow 
+41,Disappearance at Clifton Hill,5.4 (3k),"Mystery & Thriller , Drama ",1h 40min,NULL,Albert Shin 
+42,Starship Troopers,7.3 (290k),"Mystery & Thriller , Science-Fiction , Action & Adventure ",2h 9min,R,Paul Verhoeven 
+43,Dumb and Dumber,7.3 (378k),Comedy ,1h 47min,PG-13,Peter Farrelly 
+44,The Other Guys,6.6 (264k),"Comedy , Crime , Action & Adventure ",1h 47min,NULL,Adam McKay 
+45,Charlie and the Chocolate Factory,6.7 (470k),"Fantasy , Comedy , Kids & Family ",1h 55min,PG,Tim Burton 
+46,Wind River,7.7 (242k),"Mystery & Thriller , Crime , Drama , Western ",1h 47min,R,Taylor Sheridan 
+47,The Quick and the Dead,6.5 (93k),"Western , Action & Adventure , Mystery & Thriller , Romance ",1h 47min,R,Sam Raimi 
+48,Hunt for the Wilderpeople,7.8 (126k),"Drama , Comedy ",1h 41min,PG-13,Taika Waititi 
+49,Forgotten,7.4 (30k),"Horror , Mystery & Thriller , Science-Fiction ",1h 49min,NULL,Jang Hang-jun 
+50,Full Metal Jacket,8.3 (726k),"Drama , War & Military ",1h 56min,R,Stanley Kubrick 
+51,Django Unchained,8.4 (1m),"Western , Drama ",2h 45min,R,Quentin Tarantino 
+52,Her,8.0 (595k),"Science-Fiction , Drama , Romance ",2h 6min,R,Spike Jonze 
+53,"Crazy, Stupid, Love.",7.4 (507k),"Romance , Drama , Comedy ",1h 58min,PG-13,John Requa 
+54,How to Train Your Dragon,8.1 (723k),"Fantasy , Animation , Action & Adventure , Comedy , Kids & Family , Drama ",1h 38min,PG,Chris Sanders 
+55,The Power of the Dog,6.8 (162k),"Romance , Western , Drama ",2h 6min,R,Jane Campion 
+56,Steel Magnolias,7.3 (54k),"Drama , Romance , Comedy ",1h 57min,PG,Herbert Ross 
+57,Killing Them Softly,6.2 (142k),"Mystery & Thriller , Crime , Drama ",1h 37min,R,Andrew Dominik 
+58,Quantum of Solace,6.6 (442k),"Mystery & Thriller , Action & Adventure ",1h 46min,PG-13,Marc Forster 
+59,Blow,7.5 (257k),"Crime , Drama ",2h 3min,R,Ted Demme 
+60,Troy,7.3 (525k),"Action & Adventure , History , War & Military , Drama , Made in Europe ",2h 43min,R,Wolfgang Petersen 
+61,Monty Python and the Holy Grail,8.2 (532k),"Fantasy , Comedy ",1h 31min,PG,Terry Jones 
+62,It Follows,6.8 (234k),"Horror , Mystery & Thriller ",1h 40min,R,David Robert Mitchell 
+63,A Nightmare on Elm Street,7.4 (232k),Horror ,1h 31min,R,Wes Craven 
+64,Gattaca,7.8 (299k),"Mystery & Thriller , Drama , Science-Fiction ",1h 46min,PG-13,Andrew Niccol 
+65,Windfall,5.7 (20k),"Crime , Drama , Mystery & Thriller ",1h 32min,R,Charlie McDowell 
+66,The Imitation Game,8.0 (752k),"War & Military , History , Drama , Mystery & Thriller ",1h 53min,PG-13,Morten Tyldum 
+67,"tick, tick... BOOM!",7.5 (98k),Drama ,2h 0min,PG-13,Lin-Manuel Miranda 
+68,Jennifer Lopez:  Halftime,6.5 (2k),"Documentary , Music & Musical ",1h 35min,NULL,Amanda Micheli 
+69,Don't Look Up,7.2 (508k),"Science-Fiction , Comedy , Drama ",2h 18min,R,Adam McKay 
+70,Nightcrawler,7.8 (527k),"Mystery & Thriller , Crime , Drama ",1h 57min,R,Dan Gilroy 
+71,Our Father,6.5 (8k),"Crime , Documentary ",1h 37min,NULL,Lucie Jourdan 
+72,Sorry to Bother You,6.9 (75k),"Fantasy , Science-Fiction , Drama , Comedy ",1h 51min,R,Boots Riley 
+73,Michael Clayton,7.2 (164k),"Mystery & Thriller , Drama , Crime ",1h 59min,R,Tony Gilroy 
+74,Road to Perdition,7.7 (264k),"Mystery & Thriller , Documentary , Crime , Drama ",1h 57min,R,Sam Mendes 
+75,Into the Wild,8.1 (613k),Drama ,2h 20min,R,Sean Penn 
+76,The Exorcist,8.1 (394k),Horror ,2h 2min,R,William Friedkin 
+77,Phantom Thread,7.4 (129k),"Romance , Drama ",2h 10min,R,Paul Thomas Anderson 
+78,Donnie Brasco,7.7 (302k),"Mystery & Thriller , Crime , Drama ",2h 7min,R,Mike Newell 
+79,Looper,7.4 (568k),"Mystery & Thriller , Documentary , Action & Adventure , Drama , Science-Fiction , Crime ",1h 59min,R,Rian Johnson 
+80,The Boy,6.0 (90k),"Mystery & Thriller , Horror ",1h 37min,PG-13,William Brent Bell 
+81,Den of Thieves,7.0 (108k),"Mystery & Thriller , Action & Adventure , Crime , Drama ",2h 20min,R,Christian Gudegast 
+82,The Mitchells vs. the Machines,7.6 (102k),"Animation , Action & Adventure , Comedy , Kids & Family , Science-Fiction ",1h 50min,PG,Michael Rianda 
+83,The Last Samurai,7.8 (431k),"Drama , History , Action & Adventure , War & Military ",2h 34min,R,Edward Zwick 
+84,Won't You Be My Neighbor?,8.4 (25k),Documentary ,1h 35min,PG-13,Morgan Neville 
+85,Les Misérables,7.5 (325k),"Drama , War & Military , Romance , History ",2h 38min,PG-13,Tom Hooper 
+86,Midnight in Paris,7.7 (415k),"Fantasy , Comedy , Romance ",1h 34min,PG-13,Woody Allen 
+87,You've Got Mail,6.7 (210k),"Romance , Comedy , Drama ",1h 59min,PG,Nora Ephron 
+88,Nocturnal Animals,7.5 (264k),"Mystery & Thriller , Drama ",1h 56min,R,Tom Ford 
+89,Kung Fu Panda 2,7.2 (278k),"Kids & Family , Animation , Drama , Action & Adventure , Comedy , Fantasy ",1h 31min,PG,Jennifer Yuh Nelson 
+90,Red Notice,6.3 (260k),"Comedy , Mystery & Thriller , Crime , Action & Adventure ",1h 57min,PG-13,Rawson Marshall Thurber 
+91,Rush,8.1 (470k),"Drama , Action & Adventure , Sport , Made in Europe ",2h 3min,R,Ron Howard 
+92,Jackass: The Movie,6.6 (93k),"Comedy , Documentary , Action & Adventure ",1h 28min,R,Jeff Tremaine 
+93,True Grit,7.6 (334k),"Western , Drama ",1h 50min,PG-13,Ethan Coen 
+94,The Social Network,7.8 (685k),Drama ,2h 0min,PG-13,David Fincher 
+95,Love Actually,7.6 (475k),"Drama , Comedy , Romance ",2h 14min,R,Richard Curtis 
+96,Big Fish,8.0 (436k),"Fantasy , Drama , Romance ",2h 5min,PG-13,Tim Burton 
+97,The Girl Next Door,6.7 (222k),"Comedy , Romance , Drama ",1h 40min,NULL,Luke Greenfield 
+98,Raw,7.0 (72k),"Drama , Horror , Fantasy , Made in Europe ",1h 39min,R,Julia Ducournau 
+99,War Dogs,7.1 (209k),"Crime , Drama , War & Military , Comedy ",1h 54min,R,Todd Phillips 
+100,The Gift,7.0 (154k),"Mystery & Thriller , Documentary , Drama ",1h 48min,R,NULL
+101,I'm Thinking of Ending Things,6.6 (81k),"Fantasy , Mystery & Thriller , Drama ",2h 14min,R,Charlie Kaufman 
+102,Legend,6.9 (176k),"Crime , Mystery & Thriller , Drama , Made in Europe ",2h 11min,R,Brian Helgeland 
+103,The House,6.8 (13k),"Animation , Horror , Fantasy , Comedy , Drama , Mystery & Thriller ",1h 37min,R,Paloma Baeza 
+104,Oldboy,5.7 (75k),"Mystery & Thriller , Action & Adventure , Drama ",1h 44min,R,Spike Lee 
+105,Contagion,6.8 (300k),"Mystery & Thriller , Science-Fiction , Action & Adventure , Drama ",1h 46min,PG-13,Steven Soderbergh 
+106,Argo,7.7 (600k),"Mystery & Thriller , Drama ",2h 0min,R,Ben Affleck 
+107,The Bubble,4.7 (21k),Comedy ,2h 6min,R,Judd Apatow 
+108,Molly's Game,7.4 (165k),"Drama , Sport , Crime ",2h 19min,R,Aaron Sorkin 
+109,The Lost Daughter,6.7 (58k),Drama ,2h 2min,R,Maggie Gyllenhaal 
+110,Public Enemies,7.0 (299k),"Crime , Action & Adventure , Drama , History , Made in Europe ",2h 20min,R,Michael Mann 
+111,The Girl with the Dragon Tattoo,7.8 (456k),"Crime , Mystery & Thriller , Drama ",2h 38min,R,David Fincher 
+112,Blade Runner: The Final Cut,NULL,NULL,NULL,NULL,NULL
+113,The Ring,7.1 (343k),"Horror , Made in Europe ",1h 55min,PG-13,Gore Verbinski 
+114,Brahms: The Boy II,4.7 (16k),"Mystery & Thriller , Drama , Horror ",1h 26min,PG-13,William Brent Bell 
+115,The Hateful Eight,7.8 (570k),"Western , Crime , Drama , Mystery & Thriller ",3h 8min,R,Quentin Tarantino 
+116,A Perfect Pairing,6.1 (8k),"Comedy , Romance ",1h 41min,NULL,Stuart McDonald 
+117,Apollo 10½:  A Space Age Childhood,7.3 (4k),"Science-Fiction , Horror , Drama , Comedy , Kids & Family , Romance , Animation , Action & Adventure ",1h 38min,PG-13,Richard Linklater 
+118,"Girl, Interrupted",7.3 (181k),"Drama , Made in Europe ",2h 7min,R,James Mangold 
+119,The Colony,5.3 (7k),"Science-Fiction , Action & Adventure , Mystery & Thriller ",1h 44min,R,Tim Fehlbaum 
+120,Apocalypse Now Redux,NULL,NULL,NULL,NULL,NULL
+121,Vegas Vacation,5.9 (49k),Comedy ,1h 35min,PG,Stephen Kessler 
+122,Eraser,6.1 (110k),"Mystery & Thriller , Action & Adventure , Crime , Drama ",1h 55min,R,Chuck Russell 
+123,Grown Ups,5.9 (248k),"Comedy , Drama , Made in Europe ",1h 42min,PG-13,Dennis Dugan 
+124,My Fair Lady,7.8 (94k),"Drama , Kids & Family , Romance ",2h 50min,G,George Cukor 
+125,The Wrath of God,5.7 (1k),"Drama , Mystery & Thriller ",1h 38min,NULL,Sebastián Schindel 
+126,The Invisible Guest,8.0 (171k),"Drama , Mystery & Thriller , Crime , Made in Europe ",1h 47min,R,Oriol Paulo 
+127,The Conjuring,7.5 (493k),"Horror , Mystery & Thriller ",1h 51min,R,James Wan 
+128,The Fighter,NULL,NULL,NULL,NULL,NULL
+129,Lunana: A Yak in the Classroom,7.4 (2k),"Drama , Kids & Family ",1h 49min,NULL,Pawo Choyning Dorji 
+130,Synchronic,6.2 (28k),"Science-Fiction , Mystery & Thriller , Drama , Horror ",1h 42min,R,Aaron Moorhead 
+131,Annie,6.6 (45k),"Drama , Comedy , Kids & Family ",2h 7min,PG,John Huston 
+132,Metal Lords,6.7 (23k),"Drama , Comedy , Music & Musical ",1h 37min,R,Peter Sollett 
+133,Shrek Forever After,6.3 (201k),"Fantasy , Comedy , Kids & Family , Romance , Animation ",1h 33min,PG,Mike Mitchell 
+134,Straight Up,6.8 (2k),"Comedy , Romance ",1h 35min,NULL,James Sweeney 
+135,Bill Burr Presents: Friends Who Kill,4.4,"Comedy , Documentary ",1h 13min,PG-13,Ryan Polito 
+136,Bāhubali: The Beginning,8.0 (118k),"Action & Adventure , Drama , Fantasy ",2h 18min,PG-13,S. S. Rajamouli 
+137,Pete Davidson Presents: The Best Friends,NULL,NULL,NULL,NULL,NULL
+138,The Unforgivable,7.1 (103k),"Drama , Crime ",1h 52min,R,Nora Fingscheidt 
+139,The Platform,7.0 (210k),"Mystery & Thriller , Science-Fiction , Horror , Made in Europe ",1h 35min,NULL,Galder Gaztelu-Urrutia 
+140,Christine,6.7 (81k),"Horror , Mystery & Thriller , Made in Europe ",1h 50min,R,John Carpenter 
+141,The Alpinist,8.0 (7k),Documentary ,1h 32min,PG-13,Nick Rosen 
+142,Life of Brian,8.0 (393k),Comedy ,1h 34min,R,Terry Jones 
+143,The Irishman,7.8 (373k),"Drama , History , Crime , Mystery & Thriller ",3h 29min,R,Martin Scorsese 
+144,A River Runs Through It,7.2 (59k),Drama ,2h 3min,PG,Robert Redford 
+145,Crimson Peak,6.5 (145k),"Mystery & Thriller , Romance , Fantasy , Drama , Horror ",1h 59min,R,Guillermo del Toro 
+146,Marriage Story,7.9 (293k),"Drama , Romance , Comedy ",2h 16min,R,Noah Baumbach 
+147,Who We Are: A Chronicle of Racism in America,5.6,Documentary ,1h 57min,PG-13,Emily Kunstler 
+148,The Nightingale,7.3 (29k),"Mystery & Thriller , Drama , Horror ",2h 16min,R,Jennifer Kent 
+149,The Patriot,7.2 (271k),"Drama , Action & Adventure , History , War & Military ",2h 16min,R,Roland Emmerich 
+150,Just Go with It,6.4 (240k),"Comedy , Romance ",1h 57min,PG-13,Dennis Dugan 
+151,The Harder They Fall,6.5 (58k),"Action & Adventure , Drama , Western ",2h 19min,R,Jeymes Samuel 
+152,Last Action Hero,6.4 (149k),"Fantasy , Action & Adventure , Comedy ",2h 10min,PG-13,John McTiernan 
+153,Gantz:O,7.1 (14k),"Science-Fiction , Mystery & Thriller , Horror , Animation , Action & Adventure , Drama , Fantasy ",1h 35min,NC-17,Keiichi Sato 
+154,The Old Guard,6.6 (158k),"Fantasy , Mystery & Thriller , Action & Adventure ",2h 5min,R,Gina Prince-Bythewood 
+155,Darkest Hour,7.4 (193k),"Drama , History , War & Military , Kids & Family , Mystery & Thriller ",2h 5min,PG-13,Joe Wright 
+156,Something's Gotta Give,6.7 (120k),"Drama , Comedy , Romance ",2h 3min,PG-13,Nancy Meyers 
+157,Rambo,7.0 (229k),"Mystery & Thriller , War & Military , Action & Adventure , Made in Europe ",1h 33min,R,Sylvester Stallone 
+158,Bo Burnham: Inside,8.7 (44k),"Comedy , Music & Musical , Drama , Reality TV ",1h 27min,R,Bo Burnham 
+159,Tangerine,7.1 (31k),"Comedy , Drama , Crime ",1h 27min,R,Sean Baker 
+160,The Rental,5.7 (30k),"Drama , Horror , Mystery & Thriller ",1h 28min,R,Dave Franco 
+161,Amy Schumer Presents: Parental Advisory,NULL,NULL,NULL,NULL,NULL
+162,Thir13en Ghosts,5.6 (86k),"Horror , Mystery & Thriller , Fantasy ",1h 31min,R,Steve Beck 
+163,National Lampoon's Christmas Vacation,7.5 (185k),"Comedy , Made in Europe ",1h 33min,PG-13,Jeremiah S. Chechik 
+164,Dark Shadows,6.2 (264k),"Fantasy , Comedy , Horror ",1h 53min,PG-13,Tim Burton 
+165,Desperado,7.1 (184k),"Mystery & Thriller , Crime , Western , Action & Adventure , Made in Europe ",1h 44min,R,Robert Rodriguez 
+166,Fractured,6.4 (71k),Mystery & Thriller ,1h 39min,R,Brad Anderson 
+167,The Martha Mitchell Effect,NULL,NULL,NULL,NULL,NULL
+168,Summerland,7.0 (6k),"Drama , Romance , War & Military ",1h 39min,PG,Jessica Swale 
+169,Lean On Me,7.4 (20k),Drama ,1h 48min,PG-13,Nathaniel Jareth Nonis 
+170,How to Train Your Dragon 2,7.8 (329k),"Action & Adventure , Animation , Kids & Family , Fantasy , Comedy ",1h 32min,PG,Dean DeBlois 
+171,Blackhat,5.4 (58k),"Mystery & Thriller , Crime , Action & Adventure ",2h 13min,R,Michael Mann 
+172,Dirty Harry,7.7 (154k),"Mystery & Thriller , Action & Adventure , Crime ",1h 42min,R,Don Siegel 
+173,The Devil All the Time,7.1 (122k),"Drama , Crime , Mystery & Thriller , Horror ",2h 18min,R,Antonio Campos 
+174,The Bad Batch,5.2 (30k),"Horror , Science-Fiction , Romance , Drama , Action & Adventure ",1h 58min,R,Ana Lily Amirpour 
+175,Munich: The Edge of War,6.8 (27k),"Drama , History , Mystery & Thriller ",2h 9min,PG-13,Christian Schwochow 
+176,Dirty Daddy: The Bob Saget Tribute,NULL,NULL,NULL,NULL,NULL
+177,Kung Fu Panda 3,7.1 (154k),"Comedy , Action & Adventure , Kids & Family , Fantasy , Drama , Animation ",1h 35min,PG,Jennifer Yuh Nelson 
+178,Monster,7.3 (149k),"Crime , Drama , Mystery & Thriller , Made in Europe ",1h 50min,R,Patty Jenkins 
+179,Not Another Teen Movie,5.7 (104k),Comedy ,1h 29min,R,Joel Gallen 
+180,Closet Monster,7.0 (8k),"Drama , Fantasy ",1h 30min,NULL,Stephen Dunn 
+181,My Octopus Teacher,8.1 (52k),Documentary ,1h 24min,NULL,Philippa Ehrlich 
+182,Cloudy with a Chance of Meatballs,6.9 (227k),"Comedy , Kids & Family , Animation , Fantasy , Science-Fiction , Drama , Romance ",1h 30min,PG,Phil Lord 
+183,Once Upon a Time in Mexico,6.3 (161k),"Drama , Mystery & Thriller , Action & Adventure , Crime ",1h 42min,R,Robert Rodriguez 
+184,The DUFF,6.4 (92k),"Comedy , Romance ",1h 40min,PG-13,Ari Sandel 
+185,Begin Again,7.4 (154k),"Drama , Comedy , Romance , Music & Musical ",1h 44min,R,John Carney 
+186,The Ritual,6.3 (94k),"Mystery & Thriller , Horror ",1h 34min,R,David Bruckner 
+187,Chickenhare and the Hamster of Darkness,6.4,"Kids & Family , Romance , Animation , Comedy , Fantasy ",1h 31min,NULL,Ben Stassen 
+188,Freaks,6.7 (34k),"Drama , Mystery & Thriller , Science-Fiction ",1h 45min,R,Adam B. Stein 
+189,U.S. Marshals,6.5 (104k),"Mystery & Thriller , Action & Adventure , Crime ",2h 6min,PG-13,Stuart Baird 
+190,42,7.5 (94k),"Drama , Sport ",2h 8min,PG-13,Brian Helgeland 
+191,Olympus Has Fallen,6.5 (273k),"Mystery & Thriller , Action & Adventure , Drama ",1h 59min,R,Antoine Fuqua 
+192,The Ballad of Buster Scruggs,7.3 (142k),"Comedy , Drama , Western , Romance ",2h 12min,R,Joel Coen 
+193,Without a Paddle,5.8 (47k),"Mystery & Thriller , Comedy ",1h 35min,PG-13,Steven Brill 
+194,A Silent Voice: The Movie,8.1 (76k),"Animation , Drama , Kids & Family , Romance ",2h 10min,PG-13,Naoko Yamada 
+195,"Hail, Caesar!",6.3 (133k),"Comedy , Drama , Music & Musical ",1h 46min,PG-13,Joel Coen 
+196,Toscana,5.7 (4k),"Comedy , Drama , Romance ",1h 30min,NULL,Mehdi Avaz 
+197,The Outpost,6.8 (32k),"Drama , History , War & Military , Action & Adventure ",2h 3min,R,Rod Lurie 
+198,Project X,6.6 (206k),Comedy ,1h 28min,R,Nima Nourizadeh 
+199,Beerfest,6.2 (68k),Comedy ,1h 50min,R,Jay Chandrasekhar 
+200,The Book of Eli,6.8 (313k),"Action & Adventure , Mystery & Thriller , Drama , Made in Europe ",1h 58min,R,Allen Hughes 
+201,The Giver,6.4 (118k),"Science-Fiction , Romance , Mystery & Thriller , Drama ",1h 37min,PG-13,Phillip Noyce 
+202,I Care a Lot,6.3 (129k),"Mystery & Thriller , Comedy , Crime , Drama ",1h 58min,R,J Blakeson 
+203,Tully,7.0 (57k),"Drama , Comedy ",1h 36min,R,Jason Reitman 
+204,In the Line of Fire,7.2 (102k),"Mystery & Thriller , Action & Adventure , Crime , Drama ",2h 8min,R,Wolfgang Petersen 
+205,The Takedown,5.7 (5k),"Comedy , Crime , Drama , Action & Adventure ",1h 59min,NULL,Louis Leterrier 
+206,The Guilty,6.3 (115k),"Mystery & Thriller , Drama , Action & Adventure , Crime ",1h 31min,R,Antoine Fuqua 
+207,Harold & Kumar Go to White Castle,7.0 (194k),Comedy ,1h 28min,R,Danny Leiner 
+208,Edge of Seventeen,6.8 (6k),"Romance , Comedy , Drama ",1h 44min,R,David Moreton 
+209,The Edge of Seventeen,7.3 (123k),"Comedy , Drama ",1h 44min,R,Kelly Fremon Craig 
+210,Rambo: Last Blood,6.1 (96k),"Mystery & Thriller , Western , Action & Adventure , Crime ",1h 41min,R,Adrian Grünberg 
+211,Against the Ice,6.5 (19k),"Drama , History ",1h 42min,NULL,Peter Flinth 
+212,Coming Home in the Dark,5.7 (4k),"Mystery & Thriller , Crime , Horror ",1h 33min,NULL,James Ashcroft 
+213,"10,000 BC",5.1 (130k),"Fantasy , Mystery & Thriller , Action & Adventure , Drama , History ",1h 49min,PG-13,Roland Emmerich 
+214,Bubble,6.4 (4k),"Science-Fiction , Romance , Sport , Mystery & Thriller , Animation , Action & Adventure , Drama , Fantasy ",1h 41min,PG,Tetsuro Araki 
+215,"Yes, God, Yes",6.1 (14k),"Drama , Comedy ",1h 18min,R,Karen Maine 
+216,The Weekend Away,5.6 (21k),"Mystery & Thriller , Crime , Drama ",1h 30min,NULL,Kim Farrant 
+217,Road Trip,6.5 (168k),Comedy ,1h 33min,R,Todd Phillips 
+218,The Cat in the Hat,4.0 (82k),"Fantasy , Comedy , Kids & Family ",1h 22min,PG,Bo Welch 
+219,Bigbug,5.4 (7k),"Science-Fiction , Fantasy , Comedy ",1h 51min,R,Jean-Pierre Jeunet 
+220,Awakenings,7.8 (138k),"Drama , Made in Europe ",2h 1min,PG-13,Penny Marshall 
+221,Mr. Bean's Holiday,6.4 (124k),"Comedy , Kids & Family , Made in Europe ",1h 30min,G,Steve Bendelack 
+222,21 Bridges,6.6 (64k),"Drama , Mystery & Thriller , Crime , Action & Adventure ",1h 39min,R,Brian Kirk 
+223,How Do You Know,5.4 (50k),"Romance , Comedy , Drama ",2h 1min,PG-13,James L. Brooks 
+224,The Trip,6.9 (20k),"Action & Adventure , Mystery & Thriller , Horror , Comedy ",1h 54min,NULL,Tommy Wirkola 
+225,Ghostland,6.4 (31k),"Mystery & Thriller , Horror , Drama , Made in Europe ",1h 31min,R,Pascal Laugier 
+226,St. Vincent,7.2 (102k),"Comedy , Drama ",1h 43min,PG-13,Theodore Melfi 
+227,Black Crab,5.6 (18k),"Science-Fiction , Mystery & Thriller , War & Military , Action & Adventure , Drama ",1h 54min,NULL,Adam Berg 
+228,Mr. Right,6.3 (55k),"Crime , Comedy , Action & Adventure , Romance ",1h 35min,R,Paco Cabezas 
+229,Seven Years in Tibet,7.1 (142k),"Drama , History , War & Military ",2h 19min,PG-13,Jean-Jacques Annaud 
+230,London Has Fallen,5.9 (156k),"Mystery & Thriller , Crime , Drama , Action & Adventure ",1h 39min,R,Babak Najafi 
+231,Heist,6.5 (36k),"Mystery & Thriller , Drama , Action & Adventure , Crime , Made in Europe ",1h 47min,R,Piotr Starzak 
+232,Borrego,5.4 (2k),Mystery & Thriller ,1h 42min,R,Jesse Harris 
+233,Philomena,7.6 (99k),"Drama , Comedy , Made in Europe ",1h 37min,PG-13,Stephen Frears 
+234,The Hand of God,7.4 (30k),Drama ,2h 10min,R,Paolo Sorrentino 
+235,Dark Skies,6.3 (75k),"Mystery & Thriller , Horror , Science-Fiction , Documentary ",1h 37min,PG-13,Scott Stewart 
+236,Gunpowder Milkshake,6.0 (42k),"Action & Adventure , Mystery & Thriller , Crime ",1h 54min,R,Navot Papushado 
+237,Rise of the Guardians,7.2 (172k),"Fantasy , Action & Adventure , Comedy , Mystery & Thriller , Drama , Kids & Family , Science-Fiction , Animation , Made in Europe ",1h 30min,PG,Peter Ramsey 
+238,We Are Marshall,7.0 (60k),"Drama , Sport ",2h 4min,PG,McG 
+239,I Am Not Your Negro,7.9 (21k),"Documentary , History , Made in Europe ",1h 33min,R,Raoul Peck 
+240,Enola Holmes,6.6 (160k),"Crime , Drama , Action & Adventure ",2h 3min,PG-13,Harry Bradbeer 
+241,Along for the Ride,6.1 (4k),"Drama , Romance ",1h 46min,NULL,Sofia Alvarez 
+242,Eurovision Song Contest: The Story of Fire Saga,6.5 (91k),"Comedy , Music & Musical ",2h 1min,PG-13,David Dobkin 
+243,The Golden Compass,6.1 (187k),"Fantasy , Kids & Family ",1h 53min,PG-13,Chris Weitz 
+244,Passing,6.7 (13k),"Drama , Mystery & Thriller ",1h 38min,PG-13,Rebecca Hall 
+245,Ammar,2.5,Horror ,1h 30min,NULL,Mahmoud Kamel 
+246,The King,7.2 (123k),"Drama , History , Romance , War & Military ",2h 20min,R,David Michôd 
+247,Insidious: Chapter 2,6.5 (168k),"Mystery & Thriller , Horror ",1h 46min,PG-13,James Wan 
+248,Blood Diamond,8.0 (538k),"Drama , Mystery & Thriller ",2h 23min,R,Edward Zwick 
+249,My Girl,6.9 (80k),"Drama , Comedy , Kids & Family , Romance , Made in Europe ",1h 42min,PG,Howard Zieff 
+250,Corpse Bride,7.3 (266k),"Fantasy , Romance , Animation , Drama , Kids & Family ",1h 17min,PG,Tim Burton 
+251,3 Idiots,8.4 (388k),"Drama , Comedy ",2h 50min,PG-13,Rajkumar Hirani 
+252,Any Given Sunday,6.9 (118k),"Drama , Sport ",2h 42min,R,Oliver Stone 
+253,Johnny Mnemonic,5.6 (71k),"Science-Fiction , Mystery & Thriller , Action & Adventure , Drama ",1h 37min,R,Robert Longo 
+254,The Lake House,6.8 (148k),"Drama , Fantasy , Romance , Documentary ",1h 39min,PG,Alejandro Agresti 
+255,21,6.8 (248k),"Drama , History , Mystery & Thriller , Crime ",2h 3min,PG-13,Robert Luketic 
+256,Texas Chainsaw Massacre,4.8 (47k),"Horror , Mystery & Thriller , Crime ",1h 23min,R,David Blue Garcia 
+257,Let Me In,7.1 (120k),"Drama , Horror , Mystery & Thriller , Fantasy , Made in Europe ",1h 56min,R,Matt Reeves 
+258,Total Recall,6.2 (252k),"Mystery & Thriller , Crime , Action & Adventure , Science-Fiction ",2h 1min,PG-13,Len Wiseman 
+259,The Blue Lagoon,5.8 (69k),"Romance , Drama ",1h 44min,R,Randal Kleiser 
+260,Godzilla,5.4 (192k),"Mystery & Thriller , Action & Adventure , Science-Fiction ",2h 19min,PG-13,Roland Emmerich 
+261,Ip Man,8.0 (221k),"Drama , Fantasy , Action & Adventure , History ",1h 46min,R,Wilson Yip 
+262,Anaconda,4.8 (103k),"Mystery & Thriller , Horror , Action & Adventure ",1h 29min,PG-13,Luis Llosa 
+263,Chappie,6.8 (248k),"Action & Adventure , Science-Fiction , Crime , Mystery & Thriller , Drama ",2h 0min,R,Neill Blomkamp 
+264,Ouija: Origin of Evil,5.3,"Horror , Mystery & Thriller , Drama ",1h 39min,PG-13,Mike Flanagan 
+265,Till Death,5.8 (19k),"Horror , Mystery & Thriller ",1h 29min,R,SK Dale 
+266,14 Peaks: Nothing Is Impossible,7.7 (23k),"Documentary , Sport ",1h 41min,NULL,Torquil Jones 
+267,Jackass 2.5,NULL,NULL,NULL,NULL,NULL
+268,Little Women,7.3 (57k),"Romance , Drama , Kids & Family ",1h 55min,PG,Gillian Armstrong 
+269,"Hello, My Name Is Doris",6.6 (20k),"Drama , Comedy , Romance ",1h 35min,R,Michael Showalter 
+270,Bonnie and Clyde,7.7 (111k),"Drama , Action & Adventure , Crime ",1h 51min,R,Arthur Penn 
+271,Speed Kills,4.2 (3k),"Mystery & Thriller , Crime , Drama , Action & Adventure ",1h 42min,R,Jodi Scurfield 
+272,The Shadow in My Eye,7.3 (8k),"Drama , History , War & Military ",1h 47min,NULL,Ole Bornedal 
+273,Fatherhood,6.6 (34k),"Comedy , Drama ",1h 50min,PG-13,Paul Weitz 
+274,Kate,6.2 (58k),"Action & Adventure , Mystery & Thriller , Crime , Drama ",1h 46min,R,Cedric Nicolas-Troyan 
+275,Rescued by Ruby,7.1 (7k),"Drama , Kids & Family ",1h 33min,NULL,Katt Shea 
+276,The Mystery of Marilyn Monroe: The Unheard Tapes,6.2 (3k),Documentary ,1h 41min,R,Emma Cooper 
+277,Puss in Boots,6.6 (156k),"Comedy , Animation , Kids & Family , Fantasy , Action & Adventure ",1h 30min,PG,Chris Miller 
+278,Fantastic Fungi,7.4 (7k),Documentary ,1h 21min,NULL,Louie Schwartzberg 
+279,Home,6.6 (101k),"Fantasy , Science-Fiction , Kids & Family , Animation , Comedy ",1h 34min,PG,Tim Johnson 
+280,The Space Between Us,6.4 (52k),"Science-Fiction , Drama , Romance ",2h 1min,PG-13,Peter Chelsom 
+281,Scary Stories to Tell in the Dark,6.2 (74k),"Horror , Mystery & Thriller ",1h 48min,PG-13,André Øvredal 
+282,Big Eyes,7.2,"Drama , Documentary , Romance , Crime ",1h 46min,PG-13,Tim Burton 
+283,Cliffhanger,6.5 (128k),"Mystery & Thriller , Comedy , Action & Adventure ",1h 52min,R,Diederick Geers 
+284,Roma,7.7 (154k),"Drama , Made in Europe ",2h 15min,R,Alfonso Cuarón 
+285,A Nightmare on Elm Street,5.2 (99k),"Mystery & Thriller , Crime , Drama , Horror ",1h 35min,R,Samuel Bayer 
+286,Mank,6.8 (71k),"Comedy , Drama ",2h 11min,R,David Fincher 
+287,John Q,7.0 (132k),"Drama , Crime , Mystery & Thriller ",1h 56min,PG-13,Nick Cassavetes 
+288,White Hot: The Rise & Fall of Abercrombie & Fitch,5.7 (3k),Documentary ,1h 28min,R,Alison Klayman 
+289,The Girl Next Door,6.5 (26k),"Mystery & Thriller , Crime , Drama , Horror ",1h 31min,R,Gregory Wilson 
+290,Halloween,6.0 (119k),Horror ,1h 49min,R,Rob Zombie 
+291,The Replacements,6.6 (64k),"Comedy , Sport ",1h 58min,PG-13,Howard Deutch 
+292,Steve Jobs,7.2 (167k),Drama ,2h 2min,R,Danny Boyle 
+293,Gerald's Game,6.5 (104k),"Mystery & Thriller , Horror , Drama ",1h 43min,NULL,Mike Flanagan 
+294,The Green Inferno,5.3 (43k),"Mystery & Thriller , Horror ",1h 40min,R,Eli Roth 
+295,6 Underground,6.1 (170k),"Mystery & Thriller , Comedy , Action & Adventure ",2h 8min,R,Michael Bay 
+296,The Danish Girl,7.1 (182k),"Drama , Romance , Made in Europe ",2h 0min,R,Tom Hooper 
+297,Jane Fonda & Lily Tomlin: Ladies Night Live,NULL,NULL,NULL,NULL,NULL
+298,The Trial of the Chicago 7,7.7 (172k),"Drama , Mystery & Thriller , History ",2h 10min,R,Aaron Sorkin 
+299,Beast,5.3 (29k),"Mystery & Thriller , Crime , Action & Adventure , Comedy ",2h 42min,NULL,Nelson Dilipkumar 
+300,The One,5.9 (91k),"Science-Fiction , Mystery & Thriller , Action & Adventure ",1h 27min,PG-13,James Wong 
+301,Creep,6.3 (52k),"Horror , Mystery & Thriller ",1h 22min,R,Patrick Brice 
+302,Trees of Peace,6.4,Drama ,1h 37min,NC-17,Alanna Brown 
+303,His House,6.5 (39k),"Horror , Mystery & Thriller , Drama ",1h 33min,NULL,Remi Weekes 
+304,Results,5.4 (7k),"Comedy , Romance ",1h 45min,R,Andrew Bujalski 
+305,The Meyerowitz Stories (New and Selected),6.9 (47k),"Drama , Comedy ",1h 50min,NULL,Noah Baumbach 
+306,Set It Up,6.5 (50k),"Comedy , Romance ",1h 45min,PG-13,Claire Scanlon 
+307,The Midnight Sky,5.6 (82k),"Science-Fiction , Mystery & Thriller , Fantasy , Drama ",1h 58min,PG-13,George Clooney 
+308,El Camino: A Breaking Bad Movie,7.3 (216k),"Crime , Drama , Mystery & Thriller , Action & Adventure ",2h 3min,R,Vince Gilligan 
+309,The Debt Collector,5.8 (7k),"Action & Adventure , Comedy ",1h 36min,NULL,Jesse V. Johnson 
+310,The Other Boleyn Girl,6.7 (112k),"Drama , History , Romance ",1h 55min,PG-13,Justin Chadwick 
+311,365 Days,3.3 (83k),"Romance , Drama , Made in Europe ",1h 54min,NULL,Tomasz Mandes 
+312,The Sweetest Thing,5.1 (58k),"Comedy , Romance ",1h 24min,R,Roger Kumble 
+313,Army of Thieves,6.4 (72k),"Crime , Action & Adventure , Comedy , Mystery & Thriller , Romance , Science-Fiction , Horror ",2h 7min,R,Matthias Schweighöfer 
+314,The Sparks Brothers,7.8 (4k),"Music & Musical , Documentary , Comedy , History ",2h 20min,R,Edgar Wright 
+315,A Monster Calls,7.4 (87k),"Drama , Kids & Family , Fantasy , Mystery & Thriller , Animation , Made in Europe ",1h 48min,PG-13,J. A. Bayona 
+316,Friday the 13th,5.5 (106k),"Horror , Mystery & Thriller ",1h 37min,R,Marcus Nispel 
+317,The Bucket List,7.4 (243k),"Comedy , Drama , Made in Europe ",1h 37min,PG-13,Rob Reiner 
+318,Four Brothers,6.8 (145k),"Crime , Mystery & Thriller , Action & Adventure , Drama ",1h 49min,R,John Singleton 
+319,Freddy vs. Jason,5.7 (118k),"Horror , Action & Adventure ",1h 37min,R,Ronny Yu 
+320,The Guernsey Literary & Potato Peel Pie Society,7.3 (45k),"Drama , History , Romance , War & Military ",2h 4min,NULL,Mike Newell 
+321,Life As We Know It,6.5 (131k),"Comedy , Drama , Romance ",1h 55min,PG-13,Greg Berlanti 
+322,Oxygen,6.5 (37k),"Mystery & Thriller , Horror , Science-Fiction , Drama , Fantasy ",1h 40min,NULL,Alexandre Aja 
+323,The Call,7.1 (30k),"Mystery & Thriller , Drama , Crime , Horror , Science-Fiction ",1h 52min,NULL,Emil Atageldijev 
+324,Hush,6.6 (123k),"Horror , Mystery & Thriller ",1h 22min,R,Mike Flanagan 
+325,The Guns of Navarone,7.5 (50k),"Action & Adventure , Drama , War & Military ",2h 38min,NULL,J. Lee Thompson 
+326,Menace II Society,7.5 (57k),"Drama , Crime , Mystery & Thriller ",1h 37min,R,Albert Hughes 
+327,Civil: Ben Crump,NULL,NULL,NULL,NULL,NULL
+328,A Walk Among the Tombstones,6.5 (120k),"Crime , Mystery & Thriller , Drama , Action & Adventure ",1h 54min,R,Scott Frank 
+329,Extraction,6.7 (194k),"Crime , Drama , Action & Adventure , Mystery & Thriller ",1h 56min,R,Sam Hargrave 
+330,Memoirs of a Geisha,7.3 (147k),"Romance , Drama , Made in Europe ",2h 26min,PG-13,Rob Marshall 
+331,Bird Box,6.6 (328k),"Science-Fiction , Mystery & Thriller , Drama , Horror ",2h 4min,R,Susanne Bier 
+332,Choose or Die,4.7 (17k),"Horror , Mystery & Thriller , Drama ",1h 25min,NULL,Toby Meakins 
+333,Occupation: Rainfall,5.2 (14k),"Action & Adventure , Science-Fiction ",2h 8min,R,Luke Sparke 
+334,Doom of Love,4.8,"Romance , Drama ",1h 40min,NULL,Hilal Saral 
+335,Cleaner,6.1 (41k),"Mystery & Thriller , Crime ",1h 28min,R,Renny Harlin 
+336,Official Secrets,7.3 (46k),"Mystery & Thriller , Crime , Drama , War & Military , Romance ",1h 52min,R,Gavin Hood 
+337,Triple Frontier,6.4 (125k),"Mystery & Thriller , Action & Adventure , Crime , Drama ",2h 5min,R,J.C. Chandor 
+338,Jackass 3.5,NULL,NULL,NULL,NULL,NULL
+339,The Net,5.9 (66k),"Mystery & Thriller , Action & Adventure , Crime , Drama ",1h 54min,PG-13,Irwin Winkler 
+340,Christine,6.9 (14k),Drama ,2h 3min,R,Antonio Campos 
+341,Level 16,6.0 (11k),"Mystery & Thriller , Drama , Science-Fiction , Made in Europe ",1h 42min,NULL,Danishka Esterhazy 
+342,Tread,7.1 (2k),"Crime , Documentary ",1h 28min,NULL,Paul Solet 
+343,In the Shadow of the Moon,6.2 (51k),"Mystery & Thriller , Crime , Science-Fiction ",1h 55min,R,Jim Mickle 
+344,Just Like Heaven,6.7 (107k),"Drama , Comedy , Romance , Fantasy ",1h 35min,PG-13,Mark Waters 
+345,Return to Space,7.3 (3k),Documentary ,2h 8min,NULL,Elizabeth Chai Vasarhelyi 
+346,Captain Nova,5.5 (1k),"Science-Fiction , Kids & Family ",1h 26min,NULL,Maurice Trouwborst 
+347,Collision,3.8,"Mystery & Thriller , Crime , Drama ",1h 39min,NULL,Fabien Martorell 
+348,Loving,7.0 (34k),"Romance , Drama ",2h 3min,PG-13,Jeff Nichols 
+349,Cyber Hell: Exposing an Internet Horror,6.5 (1k),"Documentary , Crime ",1h 45min,NULL,Lee Min-young 
+350,Fear Street: Part One - 1994,6.2 (75k),"Drama , Horror ",1h 47min,NULL,Leigh Janiak 
+351,The Foreigner,7.0 (113k),"Mystery & Thriller , Action & Adventure , Crime , Drama , Made in Europe ",1h 53min,R,Martin Campbell 
+352,Downfall: The Case Against Boeing,7.4 (10k),Documentary ,1h 29min,R,Rory Kennedy 
+353,Outlaw King,6.9 (70k),"Drama , War & Military , Action & Adventure , History ",2h 2min,R,David Mackenzie 
+354,Crooked House,6.3 (23k),"Drama , Crime ",1h 55min,PG-13,Gilles Paquet-Brenner 
+355,Gladbeck: The Hostage Crisis,7.5 (1k),"Documentary , Crime ",1h 31min,NULL,Volker Heise 
+356,Adrift,6.6 (55k),"Mystery & Thriller , Drama , Romance , Action & Adventure , Made in Europe ",1h 36min,PG-13,Baltasar Kormákur 
+357,Unfriended,5.5 (73k),"Mystery & Thriller , Horror , Drama ",1h 22min,R,Levan Gabriadze 
+358,The Men Who Stare at Goats,6.2 (131k),"Comedy , War & Military ",1h 34min,R,Grant Heslov 
+359,Penguins of Madagascar,6.6 (89k),"Comedy , Animation , Kids & Family , Science-Fiction ",1h 32min,PG,Simon J. Smith 
+360,What Happened to Monday,6.8 (121k),"Mystery & Thriller , Action & Adventure , Crime , Fantasy , Science-Fiction , Drama ",2h 3min,R,Tommy Wirkola 
+361,Always Be My Maybe,6.8 (54k),"Romance , Comedy ",1h 41min,PG-13,Nahnatchka Khan 
+362,Okja,7.3 (116k),"Science-Fiction , Action & Adventure , Drama ",2h 2min,PG-13,Bong Joon-ho 
+363,Home Team,6.0 (17k),"Comedy , Sport ",1h 35min,PG,Charles Kinnane 
+364,The Social Dilemma,7.6 (80k),"Documentary , Drama ",1h 34min,PG-13,Jeff Orlowski 
+365,The Forgotten Battle,7.1 (26k),"Drama , War & Military , History , Documentary , Made in Europe ",2h 4min,NULL,Matthijs van Heijningen Jr. 
+366,We Have Always Lived in the Castle,5.6 (7k),"Mystery & Thriller , Drama ",1h 36min,NULL,Stacie Passon 
+367,Seventh Son,5.5 (76k),"Fantasy , Action & Adventure ",1h 42min,PG-13,Sergei Bodrov 
+368,Ben Is Back,6.7 (21k),"Drama , Made in Europe ",1h 43min,R,Peter Hedges 
+369,Due Date,6.5 (340k),"Comedy , Drama ",1h 35min,R,Todd Phillips 
+370,Army of the Dead,5.7 (168k),"Horror , Mystery & Thriller , Action & Adventure , Crime , Science-Fiction ",2h 28min,R,Zack Snyder 
+371,Bhool Bhulaiyaa 2,6.3 (21k),"Horror , Comedy ",2h 5min,NULL,Anees Bazmee 
+372,Outlaws,6.9 (3k),"Crime , Action & Adventure , Mystery & Thriller ",2h 5min,R,Daniel Monzón 
+373,Savages,6.4 (129k),"Mystery & Thriller , Drama , Action & Adventure , Crime ",2h 11min,R,Oliver Stone 
+374,Hollow Man,5.8 (130k),"Mystery & Thriller , Science-Fiction , Action & Adventure , Horror ",1h 52min,R,Paul Verhoeven 
+375,Osmosis Jones,6.3 (35k),"Comedy , Crime , Kids & Family , Fantasy , Science-Fiction , Animation , Action & Adventure ",1h 35min,PG,Peter Farrelly 
+376,The Package,5.5 (17k),"Comedy , Drama , Mystery & Thriller ",1h 34min,R,Jake Szymanski 
+377,Godspeed,6.6 (1k),Drama ,1h 59min,NULL,Mehmet Ada Öztekin 
+378,Hillbilly Elegy,6.7 (41k),Drama ,1h 57min,R,Ron Howard 
+379,365 Days: This Day,2.5 (15k),"Drama , Romance ",1h 51min,NULL,Tomasz Mandes 
+380,Stand Out: An LGBTQ+ Celebration,NULL,NULL,NULL,NULL,NULL
+381,The Woman in the Window,5.7 (72k),"Mystery & Thriller , Drama , Crime ",1h 42min,R,Joe Wright 
+382,Annabelle: Creation,6.5 (130k),"Horror , Mystery & Thriller ",1h 50min,R,David F. Sandberg 
+383,Murder Mystery,6.0 (123k),"Comedy , Action & Adventure , Crime , Romance ",1h 37min,PG-13,Kyle Newacheck 
+384,The Conjuring 2,7.3 (262k),"Horror , Mystery & Thriller , Drama ",2h 13min,R,James Wan 
+385,The Cloverfield Paradox,5.5 (103k),"Horror , Mystery & Thriller , Drama , Action & Adventure , Science-Fiction ",1h 42min,PG-13,Julius Onah 
+386,Zone 414,4.9 (4k),"Science-Fiction , Mystery & Thriller ",1h 38min,R,Andrew Baird 
+387,Sinister 2,5.3 (54k),"Horror , Mystery & Thriller ",1h 37min,R,Ciarán Foy 
+388,Ma Rainey's Black Bottom,6.9 (50k),"Drama , Music & Musical ",1h 34min,R,George C. Wolfe 
+389,The Butler,7.2 (114k),"Drama , Made in Europe ",2h 12min,PG-13,Lee Daniels 
+390,13th,8.2 (35k),"Documentary , Crime , History ",1h 40min,NULL,Ava DuVernay 
+391,Kodachrome,6.8 (16k),"Drama , Comedy , Made in Europe ",1h 45min,NULL,Mark Raso 
+392,The Texas Chainsaw Massacre,6.2 (141k),"Horror , Crime ",1h 38min,R,Marcus Nispel 
+393,The Tinder Swindler,7.2 (59k),"Crime , Documentary ",1h 54min,NULL,Felicity Morris 
+394,The Beguiled,6.8,"Drama , Documentary , Mystery & Thriller , War & Military ",1h 34min,R,Sofia Coppola 
+395,Takers,6.2 (62k),"Mystery & Thriller , Action & Adventure , Crime ",1h 47min,PG-13,John Luessenhop 
+396,Spawn,5.2 (67k),"Fantasy , Horror , Mystery & Thriller , Action & Adventure , Drama ",1h 36min,PG-13,Mark A.Z. Dippé 
+397,Nightbooks,5.7 (8k),"Kids & Family , Fantasy , Horror ",1h 43min,NULL,David Yarovesky 
+398,Code 8,6.1 (39k),"Mystery & Thriller , Crime , Drama , Science-Fiction , Action & Adventure ",1h 39min,NULL,Jeff Chan 
+399,The Night Comes for Us,6.9 (25k),"Mystery & Thriller , Action & Adventure ",2h 1min,R,Timo Tjahjanto 
+400,The Book of Henry,6.5 (27k),"Drama , Mystery & Thriller , Crime ",1h 46min,PG-13,Colin Trevorrow 
+401,The Ice Road,5.6 (38k),"Mystery & Thriller , Drama , Action & Adventure ",1h 43min,PG-13,Jonathan Hensleigh 
+402,The Dig,7.1 (72k),"Drama , History ",1h 52min,PG-13,Simon Stone 
+403,Mirage,7.4 (53k),"Science-Fiction , Mystery & Thriller , Documentary , Fantasy , Music & Musical , Romance , Drama , Made in Europe ",2h 9min,R,Oriol Paulo 
+404,I Don't Feel at Home in This World Anymore,6.9 (55k),"Mystery & Thriller , Crime , Drama , Comedy , Made in Europe ",1h 36min,NULL,Macon Blair 
+405,Scary Movie 4,5.1 (120k),"Comedy , Horror ",1h 23min,PG-13,David Zucker 
+406,Spectral,6.3 (58k),"Mystery & Thriller , Science-Fiction , Action & Adventure ",1h 48min,PG-13,Nic Mathieu 
+407,Apostle,6.3 (51k),"Mystery & Thriller , Drama , Horror , Fantasy ",2h 10min,R,Gareth Evans 
+408,In a Valley of Violence,6.0 (18k),"Mystery & Thriller , Western , Action & Adventure , Crime , Drama ",1h 44min,R,Ti West 
+409,Peter Rabbit 2: The Runaway,6.2 (11k),"Fantasy , Action & Adventure , Kids & Family , Comedy , Crime , Drama , Animation ",1h 33min,PG,Will Gluck 
+410,Fast Color,6.0 (6k),"Mystery & Thriller , Science-Fiction , Drama ",1h 42min,PG-13,Julia Hart 
+411,Pieces of a Woman,7.0 (48k),Drama ,2h 7min,R,Kornél Mundruczó 
+412,3 Ninjas Kick Back,4.5 (9k),"Action & Adventure , Comedy , Kids & Family , Sport ",1h 33min,PG,Charles T. Kanganis 
+413,Rebecca,6.0 (40k),"Mystery & Thriller , Drama , Romance ",2h 1min,PG-13,Ben Wheatley 
+414,Dear John,6.3 (147k),"Drama , Romance , Mystery & Thriller , War & Military ",1h 48min,PG-13,Lasse Hallström 
+415,Ava,5.4 (53k),"Mystery & Thriller , Drama , Crime , Action & Adventure ",1h 36min,R,Tate Taylor 
+416,Redemption,NULL,NULL,NULL,NULL,NULL
+417,The Vault,6.4 (21k),"Action & Adventure , Mystery & Thriller , Crime , Fantasy ",1h 58min,R,Jaume Balagueró 
+418,No One Gets Out Alive,5.3 (14k),"Horror , Mystery & Thriller , Drama ",1h 25min,R,Santiago Menghini 
+419,Last Man Down,4.3 (11k),"Action & Adventure , Mystery & Thriller , Science-Fiction ",1h 27min,R,Fansu Njie 
+420,Catch and Release,5.9 (26k),"Romance , Comedy , Drama ",1h 51min,PG-13,Susannah Grant 
+421,The Shack,6.2 (35k),"Fantasy , Drama ",2h 12min,PG-13,Stuart Hazeldine 
+422,Rurouni Kenshin Part I: Origins,7.4 (25k),"Drama , History , War & Military , Action & Adventure ",2h 14min,PG-13,Keishi Ōtomo 
+423,Scary Movie 5,3.5 (71k),"Comedy , Horror ",1h 26min,PG-13,Malcolm D. Lee 
+424,Soul Surfer,7.0 (49k),"Drama , Kids & Family , Sport ",1h 52min,PG,Sean McNamara 
+425,The Half of It,6.9 (35k),"Comedy , Drama , Romance ",1h 44min,PG-13,Alice Wu 
+426,Destination Wedding,6.0 (29k),"Romance , Comedy , Drama ",1h 30min,R,Victor Levin 
+427,The Dirt,6.9 (48k),"Drama , Music & Musical , Comedy ",1h 48min,R,Jeff Tremaine 
+428,Worth,6.8 (13k),"History , Drama ",1h 58min,PG-13,Sara Colangelo 
+429,Starsky & Hutch,6.1 (146k),"Comedy , Crime ",1h 41min,PG-13,Todd Phillips 
+430,The Discovery,6.2 (33k),"Mystery & Thriller , Drama , Science-Fiction , Romance ",1h 36min,NULL,Charlie McDowell 
+431,Fear Street: Part Two - 1978,6.7 (59k),"Horror , Drama ",1h 49min,NULL,Leigh Janiak 
+432,Berserk: The Golden Age Arc I - The Egg of the King,7.5 (12k),"Fantasy , Animation , Action & Adventure , Drama , Horror , War & Military ",1h 16min,NC-17,Toshiyuki Kubooka 
+433,We Die Young,5.2 (4k),"Mystery & Thriller , Action & Adventure , Crime , Drama , Made in Europe ",1h 33min,R,Lior Geller 
+434,Endless Love,4.9 (8k),"Drama , Romance ",1h 56min,R,Franco Zeffirelli 
+435,The Professionals,7.3 (16k),"Western , Action & Adventure , Made in Europe ",1h 57min,PG-13,Richard Brooks 
+436,Aftermath,5.3 (15k),"Horror , Mystery & Thriller , Drama ",1h 54min,NULL,Peter Winther 
+437,The Players Club,5.9 (6k),"Drama , Comedy ",1h 44min,R,Ice Cube 
+438,Can You Keep a Secret?,5.3 (16k),"Romance , Comedy ",1h 34min,NULL,Elise Duran 
+439,I Am Mother,6.7 (89k),"Science-Fiction , Mystery & Thriller , Horror , Drama ",1h 54min,PG-13,Grant Sputore 
+440,The Devil's Own,6.2 (64k),"Mystery & Thriller , Drama , Action & Adventure , Crime , Made in Europe ",1h 47min,R,Alan J. Pakula 
+441,Beirut,6.4 (21k),"Mystery & Thriller , Drama , Action & Adventure , Crime ",1h 50min,R,Brad Anderson 
+442,The Paper Tigers,6.3 (4k),"Comedy , Action & Adventure ",1h 48min,PG-13,Quoc Bao Tran 
+443,Good Luck Chuck,5.6 (90k),"Comedy , Romance ",1h 41min,NULL,Mark Helfrich 
+444,"Bob Ross: Happy Accidents, Betrayal & Greed",6.9 (5k),Documentary ,1h 32min,PG-13,Joshua Rofé 
+445,Back to the Outback,6.5 (7k),"Comedy , Kids & Family , Animation ",1h 35min,PG,Harry Cripps 
+446,Under Suspicion,6.4 (25k),"Mystery & Thriller , Crime , Drama , Made in Europe ",1h 46min,R,Stephen Hopkins 
+447,The Last Letter From Your Lover,6.6 (16k),"Drama , Romance ",1h 50min,NULL,Augustine Frizzell 
+448,My Little Pony: A New Generation,6.8 (3k),"Fantasy , Comedy , Kids & Family , Action & Adventure , Animation , Science-Fiction , Drama ",1h 31min,PG,Robert Cullen 
+449,Neon Genesis Evangelion: The End of Evangelion,8.0 (52k),"Drama , Science-Fiction , Fantasy , Animation , Action & Adventure ",1h 27min,NULL,Hideaki Anno 
+450,Vivo,6.7 (17k),"Animation , Kids & Family , Comedy , Drama ",1h 39min,PG,Kirk DeMicco 
+451,The Witcher: Nightmare of the Wolf,7.2 (42k),"Action & Adventure , Drama , Fantasy , Science-Fiction , Animation ",1h 23min,NULL,Han Kwang-il 
+452,Fun with Dick and Jane,6.1 (144k),"Comedy , Crime ",1h 30min,PG-13,Dean Parisot 
+453,Other People,6.8 (11k),"Drama , Comedy ",1h 37min,NULL,Chris Kelly 
+454,The Perfection,6.1 (41k),"Horror , Mystery & Thriller , Music & Musical , Drama ",1h 30min,NULL,Richard Shepard 
+455,Bad Trip,6.5 (24k),"Comedy , Reality TV ",1h 27min,NULL,Kitao Sakurai 
+456,After,5.2 (52k),"Drama , Romance ",1h 46min,PG-13,Jenny Gage 
+457,Abducted in Plain Sight,6.8 (18k),"Crime , Documentary , Mystery & Thriller , Drama ",1h 31min,G,Skye Borgman 
+458,Extinction,5.8 (52k),"Science-Fiction , Mystery & Thriller , Action & Adventure , Drama ",1h 35min,R,Ben Young 
+459,Shrek the Musical,6.9 (3k),"Fantasy , Comedy , Kids & Family ",2h 10min,PG-13,Michael John Warren 
+460,Cam,5.9 (31k),"Mystery & Thriller , Drama , Horror ",1h 34min,NULL,Daniel Goldhaber 
+461,Eagle Eye,6.6 (185k),"Action & Adventure , Mystery & Thriller , Made in Europe ",1h 58min,PG-13,D. J. Caruso 
+462,Cloudy with a Chance of Meatballs 2,6.3 (101k),"Comedy , Fantasy , Science-Fiction , Drama , Animation , Kids & Family ",1h 45min,PG,Kris Pearn 
+463,American Ultra,6.1 (89k),"Action & Adventure , Science-Fiction , Comedy ",1h 36min,R,Nima Nourizadeh 
+464,Home2Home,8.2,"Documentary , Action & Adventure , Made in Europe ",1h 50min,NULL,Dennis Kailing 
+465,Monster House,6.6 (115k),"Fantasy , Animation , Comedy , Kids & Family ",1h 31min,PG,Gil Kenan 
+466,"Extremely Wicked, Shockingly Evil and Vile",6.7 (91k),"Crime , Drama , Mystery & Thriller ",1h 51min,R,Joe Berlinger 
+467,The Frozen Ground,6.4 (62k),"Mystery & Thriller , Crime , Drama ",1h 45min,R,Scott Walker 
+468,Soul Plane,4.5 (22k),"Romance , Comedy ",1h 26min,R,Jessy Terrero 
+469,Joel Kim Booster: Psychosexual,NULL,NULL,NULL,NULL,NULL
+470,The Highwaymen,6.9 (89k),"Mystery & Thriller , Drama , Crime ",2h 12min,R,John Lee Hancock 
+471,Things Heard & Seen,5.3 (30k),"Horror , Mystery & Thriller , Drama ",2h 1min,NULL,Shari Springer Berman 
+472,The Summit of the Gods,7.5 (4k),"Animation , Drama , Sport , History ",1h 35min,PG,Patrick Imbert 
+473,Premonition,5.9 (78k),"Mystery & Thriller , Drama , Fantasy ",1h 36min,PG-13,Mennan Yapo 
+474,Prayers for the Stolen,7.3 (1k),Drama ,1h 50min,R,Tatiana Huezo 
+475,Countdown,NULL,NULL,NULL,NULL,NULL
+476,Under the Shadow,6.8 (27k),"Mystery & Thriller , Horror , War & Military , Drama , Fantasy ",1h 24min,PG-13,Babak Anvari 
+477,The Call,6.7 (121k),"Mystery & Thriller , Crime , Drama , Horror , Made in Europe ",1h 34min,R,Brad Anderson 
+478,New York Minute,4.9 (23k),"Comedy , Romance , Crime , Kids & Family ",1h 31min,PG,Dennie Gordon 
+479,Hypnotic,5.3 (15k),"Mystery & Thriller , Horror , Drama ",1h 28min,NULL,Matt Angel 
+480,The Block Island Sound,5.3 (7k),"Science-Fiction , Horror , Mystery & Thriller ",1h 43min,NULL,Kevin McManus 
+481,Unknown,6.8 (260k),"Mystery & Thriller , Action & Adventure , Made in Europe ",1h 53min,PG-13,Jaume Collet-Serra 
+482,Sword of Trust,6.3 (3k),"Comedy , Drama ",1h 28min,R,Lynn Shelton 
+483,Lagaan: Once Upon a Time in India,8.1 (111k),"Drama , Romance , Sport ",3h 44min,PG,Ashutosh Gowariker 
+484,Everything Must Go,6.4 (50k),"Drama , Romance , Comedy ",1h 37min,R,Dan Rush 
+485,The Babysitter,6.4 (86k),"Horror , Comedy ",1h 25min,R,McG 
+486,Dave Chappelle: The Closer,8.0 (25k),Comedy ,1h 12min,NULL,Stan Lathan 
+487,Like A Rolling Stone: The Life & Times of Ben Fong-Torres,7.9,Documentary ,1h 42min,NULL,Suzanne Joe Kai 
+488,Stowaway,5.6 (44k),"Mystery & Thriller , Drama , Science-Fiction ",1h 57min,PG-13,Joe Penna 
+489,Five Feet Apart,7.2 (62k),"Drama , Romance ",1h 56min,PG-13,Justin Baldoni 
+490,After We Fell,4.6 (12k),"Romance , Drama ",1h 39min,R,Castille Landon 
+491,Self/less,6.5 (98k),"Mystery & Thriller , Science-Fiction , Action & Adventure , Drama ",1h 57min,PG-13,Tarsem Singh 
+492,The Wandering Earth,5.9 (30k),"Science-Fiction , Action & Adventure , Mystery & Thriller , Drama ",2h 6min,PG-13,Frant Gwo 
+493,There's Someone Inside Your House,4.8 (14k),"Horror , Mystery & Thriller ",1h 36min,NULL,Patrick Brice 
+494,Procession,7.2 (1k),Documentary ,1h 58min,R,Robert Greene 
+495,The Starling,6.3 (12k),"Drama , Fantasy , Comedy ",1h 42min,PG-13,Theodore Melfi 
+496,The Old Ways,5.4 (5k),"Fantasy , Mystery & Thriller , Drama , Horror ",1h 30min,R,Christopher Alender 
+497,The Wrong Missy,5.7 (38k),"Romance , Comedy ",1h 29min,R,Tyler Spindel 
+498,Tears of the Sun,6.6 (121k),"Drama , War & Military , Action & Adventure , Mystery & Thriller ",2h 1min,R,Antoine Fuqua 
+499,The Fundamentals of Caring,7.3 (71k),"Comedy , Drama ",1h 37min,R,Rob Burnett 
+500,Bad Genius,7.6 (20k),"Comedy , Drama , Crime , Mystery & Thriller ",2h 10min,PG-13,Nattawut Poonpiriya 
+501,The Contractor,NULL,NULL,NULL,NULL,NULL
+502,Pokémon the Movie: Secrets of the Jungle,6.4 (1k),"Animation , Action & Adventure , Kids & Family , Fantasy , Science-Fiction ",1h 39min,NULL,Tetsuo Yajima 
+503,Berlin Syndrome,6.2 (24k),"Horror , Mystery & Thriller , Drama ",1h 56min,R,Cate Shortland 
+504,Velvet Buzzsaw,5.7 (60k),"Mystery & Thriller , Horror , Comedy ",1h 53min,R,Dan Gilroy 
+505,The White Tiger,7.1 (58k),"Drama , Crime ",2h 5min,R,Ramin Bahrani 
+506,Mirai,7.0 (14k),"Fantasy , Animation , Drama , Kids & Family ",1h 38min,PG,Mamoru Hosoda 
+507,The Railway Man,7.1 (40k),"History , Drama , Made in Europe , Romance , War & Military ",1h 56min,R,Jonathan Teplitzky 
+508,Polar,6.3 (87k),"Drama , Crime , Mystery & Thriller , Action & Adventure , Made in Europe ",1h 58min,R,Jonas Åkerlund 
+509,Veronica,6.2 (40k),Horror ,1h 45min,R,Paco Plaza 
+510,The Cave,5.1 (38k),"Horror , Mystery & Thriller , Action & Adventure , Science-Fiction , Made in Europe ",1h 37min,PG-13,Bruce Hunt 
+511,She's Gotta Have It,6.7 (14k),"Romance , Comedy ",1h 24min,R,Spike Lee 
+512,Love & Gelato,NULL,NULL,NULL,NULL,NULL
+513,The Trip 6,3.1,Comedy ,1h 37min,NULL,Rodrigo Triana 
+514,Space Sweepers,6.5 (24k),"Fantasy , Science-Fiction , Action & Adventure , Drama ",2h 16min,R,Jo Sung-hee 
+515,Mean Girls 2,4.1 (23k),Comedy ,1h 36min,PG-13,Melanie Mayron 
+516,Dolemite Is My Name,7.2 (59k),"Drama , Comedy ",1h 58min,R,Craig Brewer 
+517,Home Again,5.8 (32k),"Romance , Comedy , Drama ",1h 37min,PG-13,Hallie Meyers-Shyer 
+518,Icarus,7.9 (48k),"Documentary , Sport , Mystery & Thriller ",2h 1min,NULL,Bryan Fogel 
+519,The Getaway King,6.5 (1k),"Drama , Action & Adventure , Comedy , Crime ",1h 40min,NULL,Mateusz Rakowicz 
+520,In the Tall Grass,5.4 (54k),"Drama , Mystery & Thriller , Science-Fiction , Horror ",1h 42min,NULL,Vincenzo Natali 
+521,Jackass Presents: Bad Grandpa .5,6.3,Comedy ,1h 26min,PG-13,Jeff Tremaine 
+522,SAS: Red Notice,5.2 (17k),"Action & Adventure , Mystery & Thriller ",2h 4min,R,Magnus Martens 
+523,#Alive,6.3 (37k),"Mystery & Thriller , Horror , Action & Adventure , Drama ",1h 48min,NULL,Cho Il 
+524,Da 5 Bloods,6.5 (50k),"Drama , War & Military ",2h 36min,R,Spike Lee 
+525,The Lovebirds,6.0 (25k),"Romance , Mystery & Thriller , Action & Adventure , Comedy , Crime ",1h 26min,R,Michael Showalter 
+526,The Laundromat,6.3 (49k),"Crime , Drama , History , Comedy ",1h 36min,R,Steven Soderbergh 
+527,Restless,5.8 (3k),"Mystery & Thriller , Action & Adventure , Crime ",1h 35min,R,NULL
+528,Snoop Dogg's F*cn Around Comedy Special,NULL,NULL,NULL,NULL,NULL
+529,Fistful of Vengeance,4.4 (6k),"Crime , Drama , Fantasy , Action & Adventure ",1h 34min,R,Roel Reiné 
+530,Between Two Ferns: The Movie,6.1 (31k),Comedy ,1h 22min,NULL,Scott Aukerman 
+531,Kiss the Ground,8.2 (6k),Documentary ,1h 25min,NULL,Rebecca Harrell Tickell 
+532,Charlie Says,5.9 (4k),"Drama , Crime , Documentary ",1h 44min,R,Mary Harron 
+533,Ben & Jody,8.0,"Action & Adventure , Drama , Fantasy , Mystery & Thriller ",1h 54min,NULL,Angga Dwimas Sasongko 
+534,Taylor Tomlinson: Look at You,7.3 (1k),"Comedy , Documentary ",1h 0min,NULL,Kristian Mercado 
+535,Toolsidas Junior,7.5 (1k),"Drama , Kids & Family , Sport ",2h 10min,NULL,Mridul 
+536,David Spade: Nothing Personal,5.8,"Comedy , Documentary ",1h 6min,NULL,Ryan Polito 
+537,Brazen,4.1 (11k),"Mystery & Thriller , Crime , Drama , Romance ",1h 34min,NULL,Monika Mitchell 
+538,A Babysitter's Guide to Monster Hunting,5.4 (4k),"Fantasy , Kids & Family , Comedy ",1h 34min,PG,Rachel Talalay 
+539,CBI 5: The Brain,6.3 (1k),"Mystery & Thriller , Crime ",2h 43min,NULL,K. Madhu 
+540,Radium Girls,6.2 (1k),"Drama , History ",1h 42min,NULL,Ginny Mohler 
+541,Legend of the Guardians: The Owls of Ga'Hoole,6.9 (82k),"Fantasy , Drama , Kids & Family , Mystery & Thriller , War & Military , Animation , Action & Adventure ",1h 40min,PG,Zack Snyder 
+542,Night Teeth,5.6 (17k),"Fantasy , Horror , Mystery & Thriller , Comedy , Action & Adventure , Crime , Drama ",1h 47min,NULL,Adam Randall 
+543,Croupier,7.0 (21k),"Mystery & Thriller , Made in Europe , Crime , Drama ",1h 34min,R,Mike Hodges 
+544,Before I Wake,6.2 (45k),"Mystery & Thriller , Drama , Fantasy , Horror ",1h 37min,PG-13,Mike Flanagan 
+545,Don,7.6 (3k),"Comedy , Romance , Action & Adventure ",2h 44min,NULL,Cibi Chakaravarthi 
+546,IO,4.7 (33k),"Science-Fiction , Drama , Romance ",1h 36min,PG-13,Jonathan Helpert 
+547,After We Collided,5.0 (30k),"Drama , Romance ",1h 45min,R,Roger Kumble 
+548,Mudbound,7.4 (47k),"Drama , War & Military ",2h 15min,R,Dee Rees 
+549,Hostel: Part III,NULL,NULL,NULL,NULL,NULL
+550,The Long Riders,6.9 (11k),"Western , Crime ",1h 39min,R,Walter Hill 
+551,He Never Died,6.3 (20k),"Drama , Comedy , Fantasy , Horror , Mystery & Thriller ",1h 39min,R,Jason Krawczyk 
+552,Ophelia,6.6 (10k),"Drama , Romance , History , Mystery & Thriller , War & Military ",1h 46min,PG-13,Claire McCarthy 
+553,The Wind,5.5 (8k),"Mystery & Thriller , Western , Horror ",1h 26min,R,Emma Tammi 
+554,American Pie Presents: Girls' Rules,NULL,NULL,NULL,NULL,NULL
+555,Avengement,6.5 (15k),"Action & Adventure , Crime , Mystery & Thriller ",1h 30min,NULL,Jesse V. Johnson 
+556,To All the Boys I've Loved Before,7.1 (101k),"Comedy , Drama , Romance ",1h 40min,PG-13,Susan Johnson 
+557,Circle,6.0 (52k),"Mystery & Thriller , Drama , Horror , Science-Fiction , Made in Europe ",1h 27min,NULL,Mario Miscione 
+558,The Red Sea Diving Resort,6.6 (28k),"Mystery & Thriller , Drama , History ",2h 10min,R,Gideon Raff 
+559,King of Thieves,5.5 (14k),"Drama , Crime , History ",1h 48min,R,James Marsh 
+560,The Smurfs,5.4 (89k),"Fantasy , Comedy , Kids & Family , Animation ",1h 43min,PG,Raja Gosnell 
+561,Long Story Short,6.5 (4k),"Fantasy , Comedy , Romance ",1h 30min,R,Josh Lawson 
+562,A Bad Moms Christmas,5.6 (49k),Comedy ,1h 44min,R,Jon Lucas 
+563,Buster's Mal Heart,6.2 (10k),"Drama , Mystery & Thriller , Crime ",1h 36min,NULL,Sarah Adina Smith 
+564,Blood Red Sky,6.1 (44k),"Action & Adventure , Fantasy , Horror , Mystery & Thriller ",2h 1min,NULL,Peter Thorwarth 
+565,Aziz Ansari: Nightclub Comedian,7.0 (2k),Comedy ,29min,R,Aziz Ansari 
+566,1BR,5.8 (11k),"Horror , Mystery & Thriller , Drama ",1h 30min,NULL,David Marmor 
+567,We the Animals,6.9 (4k),Drama ,1h 34min,R,Jeremiah Zagar 
+568,The God Committee,5.8 (3k),"Mystery & Thriller , Drama ",1h 38min,NULL,Austin Stark 
+569,Malevolent,4.8 (13k),"Horror , Mystery & Thriller ",1h 29min,NULL,Olaf de Fleur Johannesson 
+570,Eddie Murphy Raw,7.6 (19k),"Comedy , Documentary ",1h 33min,R,Robert Townsend 
+571,Silverton Siege,6.2 (3k),"Crime , Drama , Action & Adventure , Mystery & Thriller ",1h 40min,PG-13,"Mandlakayise Walter Dube, Jr. "
+572,The Texas Chainsaw Massacre: The Beginning,5.8 (72k),"Horror , Mystery & Thriller , Documentary ",1h 31min,R,Jonathan Liebesman 
+573,Replicas,5.5 (37k),"Science-Fiction , Mystery & Thriller , Drama ",1h 47min,PG-13,Jeffrey Nachmanoff 
+574,Cargo,6.3 (42k),"Mystery & Thriller , Science-Fiction , Drama , Horror ",1h 45min,NULL,Ben Howling 
+575,Rumor Has It...,5.5 (58k),"Comedy , Drama , Romance ",1h 37min,PG-13,Rob Reiner 
+576,Gangubai Kathiawadi,7.0 (49k),"Drama , Crime ",2h 37min,NULL,Sanjay Leela Bhansali 
+577,Everybody Knows,6.9 (34k),"Drama , Crime , Mystery & Thriller , Made in Europe ",2h 12min,R,Asghar Farhadi 
+578,Black Mirror: Bandersnatch,7.1 (124k),"Science-Fiction , Mystery & Thriller , Drama , Fantasy ",1h 33min,R,David Slade 
+579,A-X-L,NULL,"Action & Adventure , Drama , Kids & Family , Science-Fiction , Mystery & Thriller ",1h 35min,PG-13,NULL
+580,Crip Camp: A Disability Revolution,7.7 (7k),"Documentary , History ",1h 47min,R,Nicole Newnham 
+581,The Boy Who Harnessed the Wind,7.6 (37k),"Drama , History ",1h 53min,NULL,Chiwetel Ejiofor 
+582,I Now Pronounce You Chuck & Larry,5.9 (147k),"Comedy , Romance ",1h 55min,PG-13,Dennis Dugan 
+583,Ricky Gervais: Humanity,8.0 (19k),Comedy ,1h 19min,R,John L. Spencer 
+584,The Strangers: Prey at Night,5.2 (30k),"Mystery & Thriller , Horror ",1h 25min,NULL,Johannes Roberts 
+585,Beasts of No Nation,7.7 (80k),"Drama , War & Military ",2h 17min,R,Cary Joji Fukunaga 
+586,1922,6.2 (62k),"Drama , Documentary , Horror , Mystery & Thriller , Crime ",1h 42min,NULL,Zak Hilditch 
+587,Someone Great,6.1 (22k),"Romance , Comedy ",1h 32min,R,Jennifer Kaytin Robinson 
+588,The Prom,5.9 (26k),"Comedy , Drama , Music & Musical , Romance ",2h 10min,PG-13,Ryan Murphy 
+589,The Hall: Honoring the Greats of Stand-Up,6.2,Comedy ,1h 10min,NULL,Marty Callner 
+590,Girl,7.1 (14k),"Drama , Made in Europe ",1h 45min,R,Lukas Dhont 
+591,Robin Robin,7.2 (1k),"Animation , Comedy , Kids & Family ",30min,G,Daniel Ojari 
+592,David Attenborough: A Life on Our Planet,8.9 (31k),Documentary ,1h 23min,PG,Keith Scholey 
+593,Dreamer: Inspired By a True Story,6.8 (13k),"Drama , Kids & Family , Sport , Fantasy ",1h 46min,PG,İpek Karan 
+594,"Crouching Tiger, Hidden Dragon: Sword of Destiny",6.1 (19k),"Action & Adventure , Drama , Fantasy ",1h 36min,PG-13,Yuen Woo-ping 
+595,Intrusion,5.2 (15k),"Mystery & Thriller , Drama ",1h 32min,NULL,Adam Salky 
+596,Last Breath,7.7 (5k),"Documentary , Made in Europe ",1h 25min,NULL,Alex Parkinson 
+597,Klaus,8.1 (141k),"Fantasy , Kids & Family , Animation , Comedy , Made in Europe ",1h 36min,PG,Sergio Pablos 
+598,Richard Pryor: Live in Concert,8.1 (5k),"Comedy , Documentary ",1h 18min,R,Jeff Margolis 
+599,Metallica: Through the Never,7.1 (17k),Music & Musical ,1h 33min,R,Nimród Antal 
+600,Ravenous,5.8 (9k),"Horror , Science-Fiction , Animation , Mystery & Thriller , Action & Adventure , Drama , Documentary ",1h 43min,NULL,Robin Aubert 
+601,Jana Gana Mana,8.4 (5k),"Mystery & Thriller , Drama , Crime ",2h 42min,NULL,Dijo Jose Antony 
+602,Ip Man 4: The Finale,7.0 (31k),"Drama , Action & Adventure , History ",1h 33min,PG,Wilson Yip 
+603,Jim Gaffigan: Comedy Monster,6.8 (1k),Comedy ,1h 10min,NULL,Jim Gaffigan 
+604,A Cop Movie,7.0 (1k),"Drama , Documentary , Action & Adventure , Crime , Mystery & Thriller ",1h 47min,R,Alonso Ruizpalacios 
+605,Team Foxcatcher,7.3 (6k),"Documentary , Sport , Crime , History ",1h 31min,NULL,Jon Greenhalgh 
+606,Trust No One: The Hunt for the Crypto King,6.3 (4k),"Crime , Documentary ",1h 30min,R,Luke Sewell 
+607,Red Joan,6.4 (12k),"Mystery & Thriller , Drama , History , Romance ",1h 41min,R,Trevor Nunn 
+608,Jack and Jill,3.3 (83k),"Comedy , Horror ",1h 31min,PG,Dennis Dugan 
+609,Bāhubali 2: The Conclusion,8.2 (93k),"Fantasy , Drama , Action & Adventure ",2h 48min,NULL,S. S. Rajamouli 
+610,Private Life,7.2 (19k),"Comedy , Drama ",2h 4min,R,Tamara Jenkins 
+611,The Take,6.3 (43k),"Action & Adventure , Drama , Crime , Mystery & Thriller ",1h 32min,R,James Watkins 
+612,Love Hard,6.3 (49k),"Comedy , Romance ",1h 44min,NULL,Hernán Jiménez 
+613,Paradise Hills,5.3 (22k),"Fantasy , Science-Fiction , Mystery & Thriller , Made in Europe ",1h 35min,NULL,Alice Waddington 
+614,Skins,6.1 (5k),"Drama , Comedy , Fantasy , Made in Europe ",1h 18min,NULL,Eduardo Casanova 
+615,Silenced,8.0 (16k),Drama ,2h 5min,NULL,Hwang Dong-hyuk 
+616,Friends with Money,5.8 (30k),"Romance , Drama , Comedy ",1h 28min,R,Nicole Holofcener 
+617,Malcolm & Marie,6.6 (36k),"Drama , Romance ",1h 46min,R,Sam Levinson 
+618,Marmaduke,4.2 (2k),"Animation , Comedy ",1h 28min,NULL,Mark A.Z. Dippé 
+619,A Farewell to Ozark,NULL,NULL,NULL,NULL,NULL
+620,Anon,6.1 (42k),"Science-Fiction , Action & Adventure , Crime , Mystery & Thriller , Drama , Made in Europe ",1h 40min,R,Andrew Niccol 
+621,The Game Changers,7.8 (19k),Documentary ,1h 28min,NULL,Louie Psihoyos 
+622,Larva Pendant,NULL,NULL,NULL,NULL,NULL
+623,Cosmic Sin,2.5 (12k),"Action & Adventure , Science-Fiction ",1h 28min,R,Edward Drake 
+624,The Forest,4.8 (42k),"Mystery & Thriller , Horror , Fantasy , Science-Fiction , Drama ",1h 35min,R,Jason Zada 
+625,Jimmy Carr: His Dark Material,7.1 (4k),Comedy ,59min,NULL,Brian Klein 
+626,Hold the Dark,5.6 (36k),"Mystery & Thriller , Action & Adventure , Drama , Horror ",2h 5min,NULL,Jeremy Saulnier 
+627,Get on Up,6.9 (24k),"Drama , Music & Musical ",2h 19min,PG-13,Tate Taylor 
+628,A Futile and Stupid Gesture,6.7 (16k),Comedy ,1h 41min,NULL,David Wain 
+629,I Am Michael,5.6 (5k),"Drama , Romance ",1h 38min,NULL,Justin Kelly 
+630,Britney vs. Spears,6.4 (6k),"Documentary , Music & Musical ",1h 33min,NULL,Erin Lee Carr 
+631,Geronimo: An American Legend,6.5 (11k),"Western , Drama , History ",1h 55min,PG-13,Walter Hill 
+632,The Zookeeper's Wife,7.0 (42k),"Drama , History , War & Military ",2h 6min,PG-13,Niki Caro 
+633,When We First Met,6.4 (48k),"Comedy , Romance , Fantasy ",1h 37min,PG-13,Ari Sandel 
+634,Minnal Murali,8.1 (24k),"Comedy , Drama , Fantasy , Science-Fiction , Action & Adventure ",2h 38min,NULL,Basil Joseph 
+635,F*ck Love Too,3.8,"Romance , Comedy ",1h 32min,NULL,Aram van de Rest 
+636,Through My Window,5.4 (8k),"Romance , Comedy , Drama ",1h 52min,R,Marçal Forés 
+637,Death to 2021,6.3 (14k),Comedy ,1h 0min,NULL,Jack Clough 
+638,Close,5.7 (24k),"Mystery & Thriller , Action & Adventure , Drama ",1h 35min,R,Rosane Gurgel 
+639,Batman: The Killing Joke,6.4 (55k),"Crime , Animation , Action & Adventure , Drama , Mystery & Thriller ",1h 12min,R,Sam Liu 
+640,Katt Williams: World War III,4.5,Comedy ,59min,NULL,NULL
+641,Wine Country,5.4 (21k),"Comedy , Drama ",1h 43min,R,Amy Poehler 
+642,Empire State,5.2 (21k),"Drama , Mystery & Thriller , Action & Adventure , Crime , Made in Europe ",1h 34min,R,Dito Montiel 
+643,Schumacher,7.4 (21k),"Sport , Documentary ",1h 52min,NULL,Vanessa Nöcker 
+644,The Silence,5.3 (44k),"Horror , Mystery & Thriller , Fantasy , Drama , Science-Fiction , Made in Europe ",1h 30min,PG-13,John R. Leonetti 
+645,The Kindergarten Teacher,6.7 (15k),"Drama , Mystery & Thriller , Made in Europe ",1h 36min,R,Sara Colangelo 
+646,Spenser Confidential,6.2 (85k),"Crime , Action & Adventure , Drama , Mystery & Thriller , Comedy ",1h 51min,R,Peter Berg 
+647,"I, Frankenstein",5.1 (80k),"Mystery & Thriller , Horror , Action & Adventure , Fantasy , Science-Fiction ",1h 32min,PG-13,Stuart Beattie 
+648,Mixtape,6.6 (3k),"Comedy , Kids & Family , Romance , Drama ",1h 34min,NULL,Valerie Weiss 
+649,Kingdom: Ashin of the North,7.2 (4k),"Action & Adventure , Drama , Fantasy , Horror , Mystery & Thriller ",1h 32min,NULL,Kim Seong-hun 
+650,No Direction Home: Bob Dylan,NULL,NULL,NULL,NULL,NULL
+651,Sleight,5.9 (8k),"Mystery & Thriller , Science-Fiction , Action & Adventure , Crime , Drama ",1h 29min,R,J.D. Dillard 
+652,American Factory,7.4 (21k),Documentary ,1h 51min,NULL,Steven Bognar 
+653,Fever Dream,5.4 (1k),"Horror , Mystery & Thriller , Drama ",1h 33min,R,Claudia Llosa 
+654,Beckett,5.6 (25k),"Mystery & Thriller , Action & Adventure , Crime , Drama ",1h 49min,R,Ferdinando Cito Filomarino 
+655,Midnight Sun,6.6 (30k),"Drama , Romance , Made in Europe ",1h 31min,PG-13,Scott Speer 
+656,Calibre,6.8 (28k),"Mystery & Thriller , Drama ",1h 41min,NULL,Matt Palmer 
+657,Joan Didion: The Center Will Not Hold,7.4 (2k),Documentary ,1h 32min,NULL,Griffin Dunne 
+658,See You Yesterday,5.2 (10k),"Drama , Action & Adventure , Crime , Science-Fiction , Mystery & Thriller ",1h 26min,NULL,Stefon Bristol 
+659,Collateral Beauty,6.7 (99k),"Romance , Drama ",1h 37min,PG-13,David Frankel 
+660,The Pirates: The Last Royal Treasure,6.0 (3k),"Action & Adventure , Comedy , History ",2h 6min,NULL,Kim Joung-hoon 
+661,The Two Popes,7.6 (121k),"Drama , Comedy , History ",2h 5min,PG-13,Fernando Meirelles 
+662,Bright,6.3 (185k),"Mystery & Thriller , Fantasy , Action & Adventure , Science-Fiction , Crime ",1h 57min,R,David Ayer 
+663,The Big Wedding,5.6 (49k),"Comedy , Drama , Romance ",1h 30min,R,Justin Zackham 
+664,Prey,4.3 (7k),"Drama , Mystery & Thriller ",1h 27min,NULL,Thomas Sieben 
+665,Who Am I,7.5 (55k),"Mystery & Thriller , Made in Europe , Crime , Drama , Science-Fiction ",1h 45min,NULL,Baran bo Odar 
+666,Texas Chainsaw 3D,4.8 (49k),"Horror , Mystery & Thriller ",1h 32min,R,John Luessenhop 
+667,Fyre,7.2 (44k),"Documentary , Crime , Music & Musical ",1h 38min,NULL,Chris Smith 
+668,Mary Magdalene,5.9 (10k),Drama ,2h 0min,R,Garth Davis 
+669,Advantageous,6.2 (5k),"Science-Fiction , Drama , Kids & Family ",1h 32min,NULL,Jennifer Phang 
+670,Diana: The Musical,4.2 (1k),"Music & Musical , Romance , Drama , History ",1h 57min,PG-13,Christopher Ashley 
+671,The Humans & the Mongoose,5.4,"Comedy , Fantasy , Horror ",2h 0min,NULL,Sherif Arafa 
+672,Gifted Hands: The Ben Carson Story,7.6 (10k),Drama ,1h 26min,NULL,Thomas Carter 
+673,Yes Day,5.7 (23k),"Comedy , Kids & Family ",1h 26min,PG,Miguel Arteta 
+674,Handsome Devil,7.0 (14k),"Drama , Sport , Comedy , Made in Europe ",1h 35min,NULL,John Butler 
+675,Ali Wong: Don Wong,6.6 (2k),Comedy ,59min,R,Nahnatchka Khan 
+676,The Rite,6.0 (97k),"Mystery & Thriller , Horror , Drama ",1h 54min,PG-13,Mikael Håfström 
+677,Kedibone,4.8,Drama ,1h 34min,NULL,Thomas Gumede 
+678,Death at a Funeral,5.6 (49k),"Comedy , Drama ",1h 32min,R,Neil LaBute 
+679,Pray Away,6.5 (2k),Documentary ,1h 41min,PG-13,Kristine Stolakis 
+680,The Wasteland,4.6 (3k),"Horror , Mystery & Thriller , Drama ",1h 31min,NULL,NULL
+681,Shiny_Flakes: The Teenage Drug Lord,7.3 (4k),"Crime , Documentary ",1h 36min,NULL,Eva Müller 
+682,The Best of Enemies,7.3 (16k),"Drama , History ",2h 13min,PG-13,Robin Bissell 
+683,The River Runner,6.9 (1k),"Action & Adventure , Documentary ",1h 26min,NULL,Rush Sturges 
+684,Little Italy,5.7 (14k),"Comedy , Romance ",1h 42min,R,Donald Petrie 
+685,Blue Jay,7.2 (17k),"Drama , Romance ",1h 25min,NULL,Alexandre Lehmann 
+686,Dumplin',6.5 (33k),"Comedy , Drama ",1h 50min,PG-13,Anne Fletcher 
+687,Death Note,4.5 (83k),"Fantasy , Horror , Mystery & Thriller , Action & Adventure , Crime , Drama ",1h 41min,NC-17,Adam Wingard 
+688,The Boss Baby: Get That Baby!,NULL,NULL,NULL,NULL,NULL
+689,Tau,5.8 (31k),"Science-Fiction , Mystery & Thriller , Horror ",1h 37min,R,Federico D'Alessandro 
+690,Mr. Peabody & Sherman,6.8 (69k),"Animation , Science-Fiction , Romance , Comedy , Kids & Family , Fantasy , History ",1h 32min,PG,Rob Minkoff 
+691,Bruised,6.1 (14k),"Drama , Sport , Mystery & Thriller ",2h 9min,R,Halle Berry 
+692,Goon: Last of the Enforcers,5.8 (13k),"Comedy , Sport ",1h 41min,R,Jay Baruchel 
+693,Suffragette,6.9 (41k),"Drama , History ",1h 46min,PG-13,Sarah Gavron 
+694,ARQ,6.3 (38k),"Mystery & Thriller , Action & Adventure , Science-Fiction ",1h 28min,R,Tony Elliott 
+695,Moxie,6.7 (24k),"Comedy , Drama , Music & Musical ",1h 51min,PG-13,Amy Poehler 
+696,Strange Weather,6.0 (1k),Drama ,1h 35min,R,Katherine Dieckmann 
+697,Skylines,4.7 (8k),"Science-Fiction , Action & Adventure ",1h 53min,R,Liam O'Donnell 
+698,The Sleepover,5.6 (10k),"Action & Adventure , Comedy , Kids & Family ",1h 44min,NULL,Trish Sie 
+699,Dick Johnson Is Dead,7.4 (6k),"Documentary , Drama ",1h 29min,PG-13,Kirsten Johnson 
+700,Captain Underpants: Epic Choice-o-rama,6.4,"Fantasy , Action & Adventure , Comedy , Kids & Family , Science-Fiction , Animation ",37min,NULL,Todd Grimes 
+701,Mascots,5.8 (7k),Comedy ,1h 29min,NULL,Christopher Guest 
+702,Paddleton,7.1 (13k),"Drama , Comedy ",1h 29min,R,Alexandre Lehmann 
+703,Hilda and the Mountain King,7.7 (2k),"Fantasy , Drama , Kids & Family , Animation , Comedy ",1h 25min,NULL,Andy Coyle 
+704,Horse Girl,NULL,NULL,NULL,NULL,NULL
+705,Mute,5.4 (34k),"Mystery & Thriller , Drama , Science-Fiction ",2h 6min,R,Nikita Vlasov 
+706,Happy as Lazzaro,7.5 (17k),"Fantasy , Drama , Made in Europe ",2h 5min,PG-13,Alice Rohrwacher 
+707,Tyler Perry's A Madea Homecoming,5.6 (3k),"Comedy , Drama , Romance ",1h 45min,R,Tyler Perry 
+708,Centauro,NULL,NULL,NULL,NULL,NULL
+709,He's All That,4.3 (23k),"Comedy , Romance ",1h 31min,R,Mark Waters 
+710,Into the Inferno,7.2 (8k),Documentary ,1h 47min,NULL,Werner Herzog 
+711,Thunder Force,4.4 (41k),"Comedy , Fantasy , Science-Fiction , Action & Adventure ",1h 47min,PG-13,Ben Falcone 
+712,"Jim & Andy: The Great Beyond - Featuring a Very Special, Contractually Obligated Mention of Tony Clifton",7.7 (25k),"Documentary , Comedy ",1h 34min,NULL,Chris Smith 
+713,You're My Boss,6.3,"Romance , Comedy ",1h 56min,NULL,Antoinette Jadaone 
+714,The Wolf's Call,6.9 (17k),"Mystery & Thriller , War & Military , Drama , Action & Adventure , Science-Fiction , Made in Europe ",1h 55min,NULL,Antonin Baudry 
+715,22 July,6.8 (33k),"Drama , Mystery & Thriller , Crime , History , Made in Europe ",2h 23min,R,Paul Greengrass 
+716,Mowgli: Legend of the Jungle,6.5 (61k),"Drama , Fantasy ",1h 45min,PG-13,Andy Serkis 
+717,Fear Street: 1666,NULL,NULL,NULL,NULL,NULL
+718,Ip Man 2,7.5 (104k),"Drama , History , Sport , Action & Adventure ",1h 48min,R,Wilson Yip 
+719,A Classic Horror Story,NULL,NULL,NULL,NULL,NULL
+720,How It Ends,5.0 (52k),"Mystery & Thriller , Action & Adventure , Drama , Science-Fiction ",1h 53min,NULL,David M. Rosenthal 
+721,Sweet Girl,5.5 (31k),"Drama , Mystery & Thriller , Action & Adventure ",1h 50min,R,Brian Andrew Mendoza 
+722,Hikaru Utada - Live Sessions From Air Studios,NULL,NULL,NULL,NULL,NULL
+723,Pokemon the Movie: Mewtwo Strikes Back - Evolution,5.7 (5k),"Fantasy , Animation , Action & Adventure , Kids & Family ",1h 38min,PG,Kunihiko Yuyama 
+724,Sand Castle,6.3 (23k),"Drama , Action & Adventure , War & Military ",1h 53min,NULL,Fernando Coimbra 
+725,A Shaun the Sheep Movie: Farmageddon,6.8 (13k),"Animation , Comedy , Kids & Family , Fantasy , Science-Fiction ",1h 26min,G,Will Becher 
+726,Winter on Fire: Ukraine's Fight for Freedom,8.3 (18k),Documentary ,1h 38min,NULL,Evgeny Afineevsky 
+727,The November Man,6.2 (67k),"Mystery & Thriller , Action & Adventure , Crime ",1h 48min,R,Roger Donaldson 
+728,Calm with Horses,6.8 (5k),"Drama , Crime ",1h 40min,NULL,Nick Rowland 
+729,Beyond Skyline,5.3 (21k),"Horror , Mystery & Thriller , Action & Adventure , Science-Fiction ",1h 45min,R,Liam O'Donnell 
+730,An Evening with Beverly Luff Linn,5.8 (5k),"Crime , Comedy ",1h 48min,R,Jim Hosking 
+731,The Great Hack,7.1 (22k),"Documentary , History ",1h 53min,NULL,Karim Amer 
+732,We Summon the Darkness,5.2 (10k),"Horror , Mystery & Thriller , Music & Musical , Comedy ",1h 31min,R,Marc Meyers 
+733,Double Team,4.8 (34k),"Science-Fiction , Mystery & Thriller , Action & Adventure , Comedy ",1h 33min,R,Tsui Hark 
+734,Orbiter 9,5.9 (7k),"Drama , Science-Fiction , Romance , Made in Europe ",1h 35min,NULL,Hatem Khraiche 
+735,Project Power,6.0 (85k),"Science-Fiction , Crime , Mystery & Thriller , Action & Adventure ",1h 53min,R,Ariel Schulman 
+736,Lost Girls,6.1 (21k),"Mystery & Thriller , Drama , Crime ",1h 35min,R,Liz Garbus 
+737,Green Snake,6.8 (2k),"Fantasy , Animation , Action & Adventure ",2h 11min,NULL,Amp Wong 
+738,The Royal Treatment,5.2 (8k),"Comedy , Romance , Kids & Family ",1h 36min,NULL,Rick Jacobson 
+739,Two Distant Strangers,NULL,NULL,NULL,NULL,NULL
+740,7 Prisoners,7.1 (6k),"Drama , Crime ",1h 33min,R,Alexandre Moratto 
+741,White Christmas,7.5 (42k),"Romance , Comedy ",2h 0min,NULL,Michael Curtiz 
+742,The General's Daughter,6.4 (58k),"Mystery & Thriller , Crime , Drama ",1h 56min,R,Simon West 
+743,The Siege of Jadotville,7.2 (39k),"Mystery & Thriller , War & Military , Action & Adventure , Drama , History , Made in Europe ",1h 48min,NULL,Richie Smyth 
+744,Cop Out,5.5 (87k),"Comedy , Action & Adventure , Crime , Mystery & Thriller ",1h 47min,R,Kevin Smith 
+745,Girl on the Third Floor,4.7 (9k),"Horror , Mystery & Thriller , Drama ",1h 33min,NULL,Travis Stevens 
+746,Front Cover,6.4 (1k),"Drama , Romance , Comedy ",1h 27min,NULL,Ray Yeung 
+747,All the Bright Places,6.5 (28k),"Drama , Romance ",1h 47min,NULL,Brett Haley 
+748,Dave Chappelle: Sticks & Stones,8.4 (25k),Comedy ,1h 5min,R,Stan Lathan 
+749,Deck the Halls,5.0 (27k),"Comedy , Kids & Family ",1h 33min,PG,John Whitesell 
+750,Victoria & Abdul,6.8 (35k),"Drama , History ",1h 52min,PG-13,Stephen Frears 
+751,100 días con la Tata,7.8,"Documentary , Kids & Family ",1h 22min,NULL,Miguel Ángel Muñoz 
+752,The Swarm,5.3 (6k),"Horror , Drama , Fantasy , Made in Europe ",1h 41min,NULL,Just Philippot 
+753,America: The Motion Picture,5.6 (6k),"Action & Adventure , Animation , Comedy , Fantasy , History , Science-Fiction , War & Military ",1h 38min,R,Matt Thompson 
+754,Errementari: The Blacksmith and the Devil,6.4 (11k),"Fantasy , Horror , Mystery & Thriller , Made in Europe ",1h 38min,NULL,Paul Urkijo 
+755,The Other Side of the Wind,6.7 (7k),"Drama , Made in Europe ",2h 2min,R,Orson Welles 
+756,A Very Harold & Kumar Christmas,6.2 (69k),"Comedy , Romance , Fantasy ",1h 48min,R,Todd Strauss-Schulson 
+757,The After Party,5.7 (4k),"Comedy , Horror , Music & Musical ",1h 29min,NULL,Ian Edelman 
+758,Seaspiracy,8.1 (30k),Documentary ,1h 29min,NULL,Ali Tabrizi 
+759,Heart Parade,4.9,"Comedy , Romance ",1h 48min,NULL,Filip Zylber 
+760,Quartet,6.8 (20k),"Drama , Comedy , Music & Musical , Romance ",1h 38min,PG-13,Dustin Hoffman 
+761,We Can Be Heroes,4.7 (14k),"Fantasy , Drama , Kids & Family , Action & Adventure , Comedy ",1h 40min,PG,Robert Rodriguez 
+762,Tell Me Who I Am,7.6 (14k),"Drama , Documentary ",1h 25min,NULL,Ed Perkins 
+763,Awake,4.9 (21k),"Drama , Mystery & Thriller , Action & Adventure , Science-Fiction ",1h 36min,R,Mark Raso 
+764,Hannah Gadsby: Nanette,8.1 (12k),"Comedy , Documentary ",1h 9min,NULL,Madeleine Parry 
+765,Photocopier,6.7 (2k),"Mystery & Thriller , Crime , Drama ",2h 10min,NULL,Wregas Bhanuteja 
+766,Step Sisters,5.4 (4k),Comedy ,1h 44min,PG-13,Charles Stone III 
+767,Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese,7.6 (6k),"Documentary , Music & Musical , History ",2h 22min,NULL,Martin Scorsese 
+768,The Water Man,5.4 (3k),"Action & Adventure , Mystery & Thriller , Drama , Kids & Family , Fantasy ",1h 32min,PG,David Oyelowo 
+769,The Kindness of Strangers,6.4 (3k),"Drama , Made in Europe ",1h 52min,NULL,Lone Scherfig 
+770,Creep 2,6.4 (24k),"Horror , Mystery & Thriller , Drama , Crime ",1h 20min,R,Patrick Brice 
+771,Louis C.K.: Hilarious,8.4 (12k),Comedy ,1h 24min,NULL,Louis C.K. 
+772,Anima,NULL,NULL,NULL,NULL,NULL
+773,Shaun the Sheep: The Flight Before Christmas,7.3 (1k),"Comedy , Animation , Kids & Family ",30min,G,Steve Cox 
+774,Over the Moon,6.3 (21k),"Comedy , Kids & Family , Fantasy , Science-Fiction , Romance , Animation ",1h 35min,PG,Glen Keane 
+775,Disclosure,8.2 (5k),Documentary ,1h 47min,NULL,Sam Feder 
+776,The Kissing Booth,5.9 (82k),"Comedy , Romance ",1h 45min,NULL,Vince Marcello 
+777,Atlantics,6.7 (9k),"Fantasy , Drama , Romance ",1h 46min,PG-13,Mati Diop 
+778,Eli,5.8 (34k),"Horror , Drama , Mystery & Thriller ",1h 38min,R,Ciarán Foy 
+779,Sweetheart,5.8 (8k),"Horror , Mystery & Thriller , Science-Fiction , Drama , Fantasy ",1h 22min,PG-13,J.D. Dillard 
+780,Jersey,7.3 (9k),"Drama , Sport , Romance ",2h 55min,NULL,Gowtam Tinnanuri 
+781,Wish Dragon,7.2 (25k),"Fantasy , Comedy , Animation , Kids & Family , Romance ",1h 39min,PG,Chris Appelhans 
+782,The Next Karate Kid,4.5 (30k),"Drama , Kids & Family , Romance , Sport , Action & Adventure ",1h 47min,PG,Christopher Cain 
+783,Dazzling Mirage,NULL,NULL,NULL,NULL,NULL
+784,Heavy,6.8 (4k),"Romance , Drama ",1h 45min,R,James Mangold 
+785,Singham,6.8 (16k),"Drama , Action & Adventure , Crime ",2h 23min,NULL,Rohit Shetty 
+786,Outside the Wire,5.4 (41k),"Mystery & Thriller , Science-Fiction , Action & Adventure , Fantasy ",1h 56min,R,Mikael Håfström 
+787,Hop,5.4 (34k),"Animation , Comedy , Kids & Family , Fantasy ",1h 31min,PG,Tim Hill 
+788,Hell Fest,5.5 (16k),"Horror , Mystery & Thriller ",1h 29min,R,Gregory Plotkin 
+789,The Smurfs 2,5.3 (41k),"Comedy , Animation , Kids & Family , Fantasy ",1h 55min,PG,Raja Gosnell 
+790,RBG,7.6 (14k),Documentary ,1h 38min,PG,Julie Cohen 
+791,Jiu Jitsu,2.9 (8k),"Fantasy , Science-Fiction , Mystery & Thriller , Comedy , Action & Adventure ",1h 42min,R,Dimitri Logothetis 
+792,This Changes Everything,7.6 (1k),Documentary ,1h 37min,PG,Tom Donahue 
+793,Final Account,7.1,Documentary ,1h 34min,PG-13,Luke Holland 
+794,Rim of the World,5.2 (24k),"Science-Fiction , Comedy , Action & Adventure ",1h 39min,PG,McG 
+795,War Machine,6.0 (46k),"Drama , Comedy , War & Military ",2h 2min,R,David Michôd 
+796,No Escape Room,5.0 (4k),"Horror , Mystery & Thriller ",1h 25min,NULL,Alex Merkin 
+797,Good on Paper,5.6 (11k),"Comedy , Romance ",1h 32min,R,Kim Gatewood 
+798,Surviving R. Kelly: The Impact,5.6,Documentary ,2h 0min,NULL,NULL
+799,The Ridiculous 6,4.8 (47k),"Comedy , Western , Action & Adventure ",1h 59min,PG-13,Frank Coraci 
+800,Ne Zha,NULL,NULL,NULL,NULL,NULL
+801,Brain on Fire,6.6 (21k),"Drama , Made in Europe ",1h 35min,PG-13,Gerard Barrett 
+802,Tremors: Shrieker Island,NULL,NULL,NULL,NULL,NULL
+803,Like Stars on Earth,8.3 (189k),"Drama , Kids & Family ",2h 45min,PG,Aamir Khan 
+804,I Lost My Body,7.5 (32k),"Fantasy , Drama , Romance , Animation , Made in Europe ",1h 21min,NULL,Salvatore Vitiello 
+805,"Sing, Dance, Act: Kabuki featuring Toma Ikuta",NULL,NULL,NULL,NULL,NULL
+806,Alex Strangelove,6.3 (17k),"Drama , Comedy , Romance ",1h 39min,R,Craig Johnson 
+807,iBoy,6.0 (22k),"Action & Adventure , Crime , Science-Fiction , Mystery & Thriller ",1h 30min,NULL,Adam Randall 
+808,John Mulaney: New in Town,8.2 (6k),"Comedy , Documentary ",58min,NULL,Ryan Polito 
+809,Bo Burnham: Make Happy,8.4 (14k),"Comedy , Documentary , Music & Musical ",1h 0min,NULL,Christopher Storer 
+810,Escaping the NXIVM Cult: A Mother's Fight to Save Her Daughter,5.3,"Drama , Crime ",1h 27min,NULL,Lisa Robinson 
+811,The Stronghold,6.9 (9k),"Action & Adventure , Crime , Mystery & Thriller , Made in Europe ",1h 45min,NULL,Cédric Jimenez 
+812,Newness,6.3 (16k),"Drama , Romance ",1h 52min,NULL,Drake Doremus 
+813,Steve Martin and Martin Short: An Evening You Will Forget for the Rest of Your Life,7.1 (2k),"Comedy , Music & Musical , Documentary ",1h 14min,NULL,Marcus Raboy 
+814,Girlfriend's Day,5.2 (4k),"Comedy , Drama ",1h 10min,NULL,Michael Stephenson 
+815,By the Sea,5.3 (20k),"Romance , Made in Europe , Drama ",2h 12min,R,Angelina Jolie 
+816,Trolls Holiday,6.1 (2k),"Fantasy , Comedy , Kids & Family , Romance , Animation ",26min,PG,Joel Crawford 
+817,A Boy Called Christmas,6.7 (20k),"Drama , Kids & Family , Fantasy ",1h 46min,PG,Gil Kenan 
+818,Brick Mansions,5.6 (42k),"Crime , Action & Adventure , Mystery & Thriller ",1h 30min,PG-13,Camille Delamarre 
+819,Hampstead,6.0 (6k),"Romance , Comedy , Drama ",1h 42min,PG-13,Joel Hopkins 
+820,The Nut Job,5.7 (28k),"Animation , Crime , Kids & Family , Comedy ",1h 25min,PG,Peter Lepeniotis 
+821,Blue Miracle,6.6 (6k),"Drama , Kids & Family ",1h 35min,NULL,Julio Quintana 
+822,Win It All,6.2 (9k),Comedy ,1h 28min,NULL,Joe Swanberg 
+823,The Do-Over,5.7 (45k),"Action & Adventure , Comedy ",1h 48min,PG-13,Steven Brill 
+824,The Last Blockbuster,6.7 (5k),Documentary ,1h 26min,NULL,Taylor Morden 
+825,Perfect Bid: The Contestant Who Knew Too Much,6.5 (2k),"Documentary , History ",1h 12min,NULL,C.J. Wallis 
+826,Security,5.7 (18k),"Mystery & Thriller , Action & Adventure , Crime , Made in Europe ",1h 31min,R,Alain Desrochers 
+827,Ghost in the Shell: SAC_2045 Sustainable War,NULL,NULL,NULL,NULL,NULL
+828,Cowspiracy: The Sustainability Secret,8.2 (25k),Documentary ,1h 30min,NULL,Keegan Kuhn 
+829,Ratchet & Clank,5.5 (10k),"Kids & Family , Action & Adventure , Animation , Comedy , Science-Fiction , Fantasy ",1h 34min,PG,Kevin Munroe 
+830,The Titan,4.8 (30k),"Mystery & Thriller , Fantasy , Romance , Science-Fiction , Drama ",1h 37min,R,Lennart Ruff 
+831,The Minimalists: Less Is Now,5.9 (4k),Documentary ,53min,NULL,Matt D'Avella 
+832,Rocks,7.4 (4k),Drama ,1h 33min,NULL,Sarah Gavron 
+833,The Edge of All We Know,6.6 (2k),Documentary ,1h 39min,NULL,Peter Galison 
+834,Andhadhun,8.2 (89k),"Mystery & Thriller , Crime , Music & Musical , Drama , Comedy ",2h 19min,R,Sriram Raghavan 
+835,Blood and Bone,6.7 (33k),"Mystery & Thriller , Action & Adventure , Crime , Drama , Sport ",1h 33min,R,Ben Ramsey 
+836,Our Souls at Night,6.9 (13k),"Romance , Drama ",1h 41min,NULL,Ritesh Batra 
+837,I Am the Pretty Thing That Lives in the House,4.6 (14k),"Mystery & Thriller , Horror , Drama ",1h 29min,NULL,Oz Perkins 
+838,"What Happened, Miss Simone?",7.6 (13k),"Music & Musical , Documentary ",1h 41min,NULL,Liz Garbus 
+839,Half Past Dead,4.6 (15k),"Mystery & Thriller , Crime , Action & Adventure , Made in Europe ",1h 38min,PG-13,Don Michael Paul 
+840,The Breaker Upperers,5.9 (6k),Comedy ,1h 22min,NULL,Madeleine Sami 
+841,Did You Hear About the Morgans?,4.9 (40k),"Comedy , Drama , Romance ",1h 43min,PG-13,Marc Lawrence 
+842,Extinct,5.4 (2k),"Comedy , Animation , Kids & Family ",1h 25min,NULL,David Silverman 
+843,The Incredible Jessica James,6.5 (7k),Comedy ,1h 23min,NULL,Jim Strouse 
+844,The Bye Bye Man,4.3 (23k),"Horror , Mystery & Thriller , Drama , Fantasy ",1h 36min,PG-13,Stacy Title 
+845,Nate Bargatze: The Greatest Average American,7.3 (1k),Comedy ,1h 1min,NULL,Troy Miller 
+846,Dragonheart: Vengeance,NULL,NULL,NULL,NULL,NULL
+847,The Disciple,7.1 (2k),"Drama , Music & Musical ",2h 7min,NULL,Chaitanya Tamhane 
+848,American Murder: The Family Next Door,7.2 (26k),"Mystery & Thriller , Crime , Documentary ",1h 23min,R,Jenny Popplewell 
+849,Initial D,6.3 (8k),"Mystery & Thriller , Drama , Action & Adventure , Crime , Animation , Romance , Comedy ",1h 47min,NULL,Alan Mak 
+850,Illang: The Wolf Brigade,5.9 (5k),"Mystery & Thriller , Action & Adventure , Science-Fiction ",2h 18min,R,Kim Jee-woon 
+851,Duck Butter,5.2 (3k),"Drama , Comedy , Romance ",1h 34min,NULL,Miguel Arteta 
+852,Earthquake Bird,5.9 (14k),"Romance , Mystery & Thriller , Crime , Drama ",1h 47min,R,Wash Westmoreland 
+853,The Boys in the Band,6.8 (15k),Drama ,2h 1min,R,Joe Mantello 
+854,Bo Burnham: What.,8.3 (11k),"Comedy , Music & Musical , Documentary ",1h 0min,NULL,Christopher Storer 
+855,My Father's Violin,6.4 (3k),Drama ,1h 52min,NULL,Andaç Haznedaroğlu 
+856,Wasp Network,5.9 (10k),"Mystery & Thriller , Crime , Drama ",2h 8min,R,Olivier Assayas 
+857,Count Me In,6.8 (1k),"Documentary , Music & Musical ",1h 21min,NULL,Mark Lo 
+858,The Legend of the Nahuala,6.1,"Fantasy , Kids & Family , Animation ",1h 20min,PG,Ricardo Arnaiz 
+859,Love and Leashes,6.3 (4k),"Comedy , Romance ",1h 58min,R,Park Hyun-jin 
+860,Chaos,6.4 (54k),"Drama , Mystery & Thriller , Action & Adventure , Crime , Made in Europe ",1h 46min,R,Tony Giglio 
+861,Pee-wee's Big Holiday,6.1 (8k),"Comedy , Kids & Family ",1h 30min,PG,John Lee 
+862,Our Brand Is Crisis,6.1 (22k),"Comedy , Drama ",1h 48min,R,David Gordon Green 
+863,Rurouni Kenshin: The Beginning,7.4 (8k),"Drama , Action & Adventure ",2h 18min,R,Keishi Ōtomo 
+864,I'm No Longer Here,7.3 (7k),Drama ,1h 52min,NULL,Fernando Frias 
+865,83,7.5 (34k),"Drama , History , Sport ",2h 43min,NULL,Kabir Khan 
+866,Made You Look: A True Story About Fake Art,7.0 (4k),"Documentary , Crime ",1h 36min,NULL,Barry Avrich 
+867,Misha and the Wolves,6.7 (2k),"Documentary , Drama ",1h 30min,PG-13,Sam Hobkinson 
+868,What Lies Below,4.3 (8k),"Horror , Mystery & Thriller , Science-Fiction ",1h 27min,NULL,NULL
+869,Comedian,6.9 (6k),"Comedy , Documentary ",1h 22min,R,Christian Charles 
+870,Lingua Franca,6.5,Drama ,1h 35min,NULL,Isabel Sandoval 
+871,Untold: Malice at the Palace,7.5 (7k),"Crime , Documentary , Sport ",1h 9min,R,Floyd Russ 
+872,To the Bone,6.8 (47k),Drama ,1h 47min,NULL,Marti Noxon 
+873,Without Saying Goodbye,5.7 (2k),"Romance , Comedy ",1h 36min,NULL,Bruno Ascenzo 
+874,My Mother's Wound,7.3 (3k),"Drama , War & Military ",2h 0min,PG-13,Ozan Açıktan 
+875,Thanks for Sharing,6.4 (28k),"Comedy , Drama , Romance ",1h 52min,R,Stuart Blumberg 
+876,The Kissing Booth 3,4.7 (15k),"Romance , Comedy ",1h 52min,PG-13,Vince Marcello 
+877,Ip Man 3,7.0 (54k),"Drama , History , Action & Adventure ",1h 45min,PG-13,Wilson Yip 
+878,On Body and Soul,7.5 (27k),"Drama , Fantasy , Romance ",1h 55min,NULL,Ildikó Enyedi 
+879,Miss Americana,7.3 (19k),"Documentary , Music & Musical ",1h 25min,R,Lana Wilson 
+880,Siberia,4.3 (15k),"Mystery & Thriller , Made in Europe , Crime , Romance ",1h 44min,R,Matthew Ross 
+881,Let's Dance,5.9 (1k),"Comedy , Drama , Kids & Family , Music & Musical ",1h 44min,NULL,Ladislas Chollat 
+882,Riverdance: The Animated Adventure,5.4 (1k),"Animation , Comedy , Fantasy ",1h 26min,NULL,Eamonn Butler 
+883,Beauty and the Bestie,4.6,"Drama , Action & Adventure , Comedy ",1h 59min,NULL,Wenn V. Deramas 
+884,Lying and Stealing,5.4 (5k),"Crime , Drama ",1h 40min,R,Matt Aselton 
+885,John Mulaney: Kid Gorgeous at Radio City,7.9 (7k),Comedy ,1h 5min,R,Alex Timbers 
+886,Christmas with the Kranks,5.4 (49k),"Comedy , Kids & Family ",1h 39min,PG,Joe Roth 
+887,Rita Moreno: Just a Girl Who Decided to Go for It,7.7,Documentary ,1h 30min,PG-13,Mariem Pérez Riera 
+888,Middle School: The Worst Years of My Life,6.0 (8k),"Comedy , Kids & Family , Animation ",1h 32min,PG,Steve Carr 
+889,Cairo Station,7.5 (4k),"Crime , Comedy , Drama ",1h 17min,NULL,Youssef Chahine 
+890,Walk of Shame,6.0 (54k),Comedy ,1h 35min,R,Steven Brill 
+891,Barbie: Princess Adventure,5.4,"Animation , Kids & Family ",1h 12min,G,Conrad Helten 
+892,Bill Burr: Paper Tiger,8.1 (10k),Comedy ,1h 7min,NULL,Mike Binder 
+893,Doom: Annihilation,3.7 (9k),"Science-Fiction , Horror , Mystery & Thriller , Action & Adventure ",1h 37min,R,Tony Giglio 
+894,Jem and the Holograms,4.1 (7k),"Fantasy , Kids & Family , Music & Musical , Romance , Science-Fiction , Drama ",1h 58min,PG,Jon M. Chu 
+895,Finding ʻOhana,6.1 (9k),"Comedy , Kids & Family , Action & Adventure ",2h 3min,PG,Jude Weng 
+896,School Life,6.5 (2k),"Comedy , Drama , Made in Europe ",1h 51min,NULL,Mehdi Idir 
+897,Single All the Way,6.1 (15k),"Romance , Comedy , Drama ",1h 39min,NULL,Michael Mayer 
+898,One Second,4.8,"Comedy , Romance ",1h 28min,NULL,Akram Farid 
+899,Adam Sandler: 100% Fresh,7.5 (5k),"Comedy , Music & Musical ",1h 13min,R,Steven Brill 
+900,Audible,5.3,Documentary ,39min,PG-13,Matthew Ogens 
+901,Unicorn Store,5.5 (19k),"Fantasy , Drama , Comedy ",1h 32min,NULL,Brie Larson 
+902,May the Devil Take You,5.9 (4k),"Mystery & Thriller , Horror ",1h 50min,R,Timo Tjahjanto 
+903,Bathtubs Over Broadway,7.6 (1k),"Comedy , Documentary , Music & Musical ",1h 27min,PG-13,Dava Whisenant 
+904,Hubie Halloween,5.2 (48k),"Horror , Comedy , Fantasy ",1h 43min,PG-13,Steven Brill 
+905,The Silence of Others,8.0 (2k),"Documentary , History , Made in Europe ",1h 35min,NULL,Almudena Carracedo 
+906,Birth of the Dragon,5.6 (8k),"Drama , Action & Adventure ",1h 43min,PG-13,George Nolfi 
+907,Red Riding Hood,5.4 (111k),"Fantasy , Mystery & Thriller , Horror , Drama , Romance ",1h 40min,PG-13,Catherine Hardwicke 
+908,Long Shot,7.4 (7k),"Documentary , Crime , Sport ",40min,NULL,NULL
+909,The Vanished,5.7 (10k),"Mystery & Thriller , Crime , Action & Adventure ",1h 55min,R,Peter Facinelli 
+910,Audrey,7.1 (1k),"Documentary , History ",1h 40min,PG,Helena Coan 
+911,The History of Future Folk,7.1 (3k),"Science-Fiction , Comedy , Music & Musical ",1h 26min,NULL,John Mitchell 
+912,Piercing,5.5 (7k),"Mystery & Thriller , Horror ",1h 22min,R,Nicolas Pesce 
+913,Stuart Little 2,5.5 (53k),"Animation , Comedy , Kids & Family , Fantasy ",1h 18min,G,Rob Minkoff 
+914,Bonnie & Clyde,NULL,NULL,NULL,NULL,NULL
+915,The Perfect Family,5.3 (1k),Comedy ,1h 50min,NULL,NULL
+916,If I Leave Here Tomorrow: A Film About Lynyrd Skynyrd,7.9 (1k),"Documentary , Music & Musical ",1h 34min,NULL,Stephen Kijak 
+917,Pete Davidson: Alive from New York,6.1 (4k),Comedy ,49min,NULL,Jason Orley 
+918,Banana Split,6.2 (3k),Comedy ,1h 28min,R,Benjamin Kasulke 
+919,Radhe Shyam,5.5 (26k),"Drama , Romance ",2h 18min,NULL,Radha Krishna Kumar 
+920,The 8th Night,5.3 (3k),"Mystery & Thriller , Horror ",1h 55min,NULL,Kim Tae-hyoung 
+921,Dude,5.2 (6k),"Comedy , Drama ",1h 30min,NULL,Olivia Milch 
+922,Aileen Wuornos: American Boogeywoman,3.6 (1k),"Drama , Horror , Mystery & Thriller ",1h 25min,R,Daniel Farrands 
+923,The Babysitter: Killer Queen,5.8 (38k),"Horror , Comedy ",1h 41min,R,McG 
+924,Headshot,6.3 (14k),"Mystery & Thriller , Action & Adventure , Drama ",1h 57min,NULL,Timo Tjahjanto 
+925,The Last Thing He Wanted,4.3 (15k),"Mystery & Thriller , Crime , Drama ",1h 56min,R,Dee Rees 
+926,The Forest of Love,6.3 (2k),"Mystery & Thriller , Horror , Crime , Drama ",2h 31min,NULL,Sion Sono 
+927,Story of Dinda: Second Chance of Happiness,5.8,"Romance , Drama ",59min,NULL,Ginanti Rona Tembang Asri 
+928,Four to Dinner,6.3 (3k),"Comedy , Romance ",1h 44min,NULL,Alessio Maria Federici 
+929,For the Love of Spock,7.6 (4k),Documentary ,1h 45min,NULL,Adam Nimoy 
+930,Psychokinesis,5.9 (5k),"Fantasy , Action & Adventure , Comedy ",1h 41min,NULL,Yeon Sang-ho 
+931,The Long Dumb Road,6.1 (3k),Comedy ,1h 30min,R,Hannah Fidell 
+932,Framing John DeLorean,6.5 (2k),"Documentary , Drama ",1h 49min,NULL,Don Argott 
+933,Offering to the Storm,6.2 (6k),"Crime , Mystery & Thriller , Made in Europe ",2h 19min,NULL,Fernando González Molina 
+934,What the Health,7.4 (28k),Documentary ,1h 37min,NULL,Keegan Kuhn 
+935,Shirkers,7.4 (5k),Documentary ,1h 36min,NULL,Sandi Tan 
+936,Jo Koy: Comin’ In Hot,7.3 (1k),Comedy ,1h 0min,NULL,Shannon Hartman 
+937,Welcome Home,5.2 (7k),"Mystery & Thriller , Horror , Drama ",1h 37min,R,George Ratliff 
+938,Deadly Illusions,NULL,NULL,NULL,NULL,NULL
+939,Christina P: Mom Genes,5.8,"Comedy , Documentary ",1h 2min,NULL,Ryan Polito 
+940,Children of God,6.3,Documentary ,1h 3min,NULL,John Smithson 
+941,The Perfect Date,5.8 (38k),"Comedy , Romance ",1h 33min,PG-13,Chris Nelson 
+942,Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend,7.0 (5k),"Comedy , Science-Fiction , Romance ",1h 20min,PG-13,Claire Scanlon 
+943,Copenhagen,7.0 (13k),"Drama , Romance ",1h 38min,NULL,Mark Raso 
+944,Stand by Me Doraemon,7.3 (7k),"Fantasy , Science-Fiction , Drama , Kids & Family , Animation , Comedy ",1h 30min,G,Takashi Yamazaki 
+945,The Resistance Banker,6.9 (9k),"Drama , War & Military , Made in Europe ",2h 4min,R,Joram Lürsen 
+946,Sergio,6.2 (9k),"Romance , Drama , History , Documentary ",1h 58min,R,Greg Barker 
+947,The Battered Bastards of Baseball,8.0 (3k),"Documentary , Sport ",1h 20min,R,Chapman Way 
+948,Godzilla: Planet of the Monsters,6.0 (8k),"Science-Fiction , Animation , Action & Adventure ",1h 29min,PG-13,Kobun Shizuno 
+949,Let It Snow,5.8 (21k),"Romance , Comedy ",1h 32min,PG-13,Luke Snellin 
+950,White Girl,5.7 (10k),"Drama , Horror , Crime ",1h 28min,NULL,Nadia Latif 
+951,"Game Over, Man!",5.4 (29k),"Comedy , Action & Adventure ",1h 40min,R,Kyle Newacheck 
+952,Wheelman,6.4 (20k),"Mystery & Thriller , Action & Adventure , Crime ",1h 22min,R,Jeremy Rush 
+953,The Life Ahead,6.8 (14k),"Drama , Made in Europe ",1h 34min,PG-13,Edoardo Ponti 
+954,Ghosts of War,5.5 (9k),"Mystery & Thriller , Horror , War & Military ",1h 34min,R,Eric Bress 
+955,Concrete Cowboy,6.3 (8k),"Western , Drama ",1h 51min,R,Ricky Staub 
+956,The Guardian,5.7,"Horror , Music & Musical , Mystery & Thriller , Crime , Drama ",2h 7min,NULL,Victor Vũ 
+957,Holidate,6.1 (62k),"Comedy , Romance ",1h 44min,NULL,John Whitesell 
+958,Vita & Virginia,5.7 (3k),"Drama , Romance , Made in Europe ",1h 50min,NULL,Chanya Button 
+959,Violet Evergarden: The Movie,8.3 (5k),"Fantasy , Animation , Drama , Romance ",2h 20min,PG,Taichi Ishidate 
+960,Children of the Sea,6.5 (2k),"Animation , Drama , Kids & Family , Fantasy , Science-Fiction ",1h 50min,NULL,Ayumu Watanabe 
+961,Honeymoon With My Mother,5.8 (2k),Comedy ,1h 50min,NULL,Paco Caballero 
+962,Tall Girl,5.2 (23k),"Drama , Romance , Comedy , Kids & Family ",1h 41min,PG,Nzingha Stewart 
+963,Altered Carbon: Resleeved,6.5 (6k),"Science-Fiction , Animation , Action & Adventure , Crime , Drama , Mystery & Thriller ",1h 15min,NULL,Takeru Nakajima 
+964,Poms,6.0 (6k),"Drama , Comedy , Sport ",1h 31min,PG-13,Zara Hayes 
+965,Berserk: The Golden Age Arc III - The Advent,7.8 (10k),"Action & Adventure , Drama , Fantasy , Animation , Horror , Romance ",1h 50min,NC-17,Toshiyuki Kubooka 
+966,Nobody Sleeps in the Woods Tonight,4.9 (11k),"Mystery & Thriller , Drama , Romance , Fantasy , Horror , Made in Europe ",1h 42min,NULL,Bartosz M. Kowalski 
+967,Your Name Engraved Herein,7.2 (5k),"Romance , Drama ",1h 58min,NULL,Kuang-Hui Liu 
+968,Demonic,5.3 (14k),"Mystery & Thriller , Horror ",1h 23min,R,Will Canon 
+969,PK,8.1 (180k),"Comedy , Drama , Fantasy , Science-Fiction , Romance ",2h 33min,PG-13,Rajkumar Hirani 
+970,Kuthiraivaal,5.6,Drama ,2h 5min,NULL,NULL
+971,Plastic Island,NULL,NULL,NULL,NULL,NULL
+972,Afterlife of the Party,5.8 (8k),"Fantasy , Romance , Comedy , Drama ",1h 49min,NULL,Stephen Herek 
+973,A Secret Love,7.8 (4k),"Documentary , Drama ",1h 23min,NULL,Chris Bolan 
+974,Zindagi Na Milegi Dobara,8.1 (75k),"Drama , Comedy ",2h 46min,PG,Zoya Akhtar 
+975,One Piece Film: Z,7.8 (7k),"Animation , Action & Adventure , Fantasy ",1h 48min,PG-13,Tatsuya Nagamine 
+976,Coded Bias,6.7 (2k),Documentary ,1h 26min,NULL,Shalini Kantayya 
+977,Jingle Jangle: A Christmas Journey,6.4 (18k),"Fantasy , Kids & Family ",2h 2min,PG,David E. Talbert 
+978,Fatima,6.5 (3k),"Drama , War & Military ",1h 53min,PG-13,Marco Pontecorvo 
+979,The Haunting in Connecticut 2: Ghosts of Georgia,5.2 (17k),"Drama , Mystery & Thriller , Horror ",1h 41min,R,Tom Elkins 
+980,The Operative,5.7 (6k),"Drama , Mystery & Thriller , Action & Adventure ",2h 0min,NULL,Yuval Adler 
+981,The Seventh Day,4.5 (4k),Horror ,1h 27min,R,Justin P. Lange 
+982,Monster,6.5 (5k),"Crime , Drama ",1h 38min,R,Anthony Mandler 
+983,The Invisible Thread,6.7 (1k),"Drama , Comedy , Kids & Family ",1h 30min,NULL,Marco S. Puccioni 
+984,River's Edge,6.2,"Crime , Drama ",1h 58min,NULL,Isao Yukisada 
+985,A Sun,NULL,NULL,NULL,NULL,NULL
+986,Hyena Road,6.5 (7k),"Mystery & Thriller , Action & Adventure , Drama , War & Military ",2h 0min,R,Paul Gross 
+987,Making The Billion Dollar Code,NULL,NULL,NULL,NULL,NULL
+988,High Flying Bird,6.2 (8k),"Drama , Sport ",1h 30min,NULL,Steven Soderbergh 
+989,My Best Friend Anne Frank,6.2 (3k),Drama ,1h 43min,PG-13,Ben Sombogaart 
+990,More the Merrier,5.4 (3k),"Romance , Comedy ",1h 52min,NULL,Paco Caballero 
+991,2 Hearts,6.2 (3k),"Romance , Drama ",1h 40min,PG-13,Lance Hool 
+992,The Forty-Year-Old Version,7.2 (4k),"Comedy , Drama ",2h 3min,R,Radha Blank 
+993,The Lonely Island Presents: The Unauthorized Bash Brothers Experience,NULL,NULL,NULL,NULL,NULL
+994,The Reason I Jump,7.5,"Documentary , Drama ",1h 22min,NULL,Jerry Rothwell 
+995,Vampires vs. the Bronx,5.6 (9k),"Horror , Comedy ",1h 26min,PG-13,Oz Rodriguez 
+996,Arthur Christmas,7.1 (58k),"Drama , Comedy , Kids & Family , Fantasy , Animation ",1h 37min,PG,Sarah Smith 
+997,Uncorked,6.4 (5k),Drama ,1h 44min,NULL,Prentice Penny 
+998,The Grizzlies,7.4 (2k),"Drama , Sport ",1h 46min,R,Miranda de Pencier 
+999,"Norm Macdonald: Hitler's Dog, Gossip & Trickery",7.4 (2k),"Comedy , Documentary ",1h 0min,NULL,Liz Plonka 
+1000,The Fable: The Killer Who Doesn't Kill,6.8 (1k),"Crime , Action & Adventure , Comedy , Mystery & Thriller ",2h 12min,NULL,Kan Eguchi 
+1001,The Square,8.1 (8k),"Drama , Documentary , History ",1h 28min,NULL,Lívia Gyarmathy 
+1002,Don't Listen,NULL,NULL,NULL,NULL,NULL
+1003,Tallulah,6.7 (20k),"Drama , Romance , Comedy ",1h 51min,NULL,Siân Heder 
+1004,Bill Burr: I'm Sorry You Feel That Way,8.3 (8k),"Comedy , Documentary ",1h 20min,NULL,Jay Karas 
+1005,Badhaai Do,7.1 (16k),"Drama , Comedy , Crime ",2h 27min,NULL,Harshavardhan Kulkarni 
+1006,Term Life,5.5 (7k),"Mystery & Thriller , Action & Adventure , Crime , Drama ",1h 33min,R,Peter Billingsley 
+1007,Breaded Life,8.1,"Comedy , Drama ",2h 0min,NULL,Biodun Stephen 
+1008,A Week Away,5.7 (4k),"Drama , Kids & Family , Romance ",1h 34min,NULL,Roman White 
+1009,The Princess Switch,6.0 (27k),"Romance , Kids & Family , Comedy , Drama ",1h 41min,PG,Mike Rohl 
+1010,Drishyam,8.2 (79k),"Crime , Drama , Mystery & Thriller ",2h 43min,R,Nishikant Kamat 
+1011,System Crasher,7.8 (12k),"Drama , Made in Europe ",2h 5min,NULL,Nora Fingscheidt 
+1012,Yaksha: Ruthless Operations,6.2 (2k),"Action & Adventure , Crime , Mystery & Thriller ",2h 5min,NULL,Na Hyun 
+1013,The Darkness,4.5 (16k),"Mystery & Thriller , Horror ",1h 32min,PG-13,Greg McLean 
+1014,American Son,5.8 (6k),Drama ,1h 30min,NULL,Kenny Leon 
+1015,Super Deluxe,8.4 (13k),"Drama , Comedy , Crime , Mystery & Thriller , Action & Adventure ",2h 56min,NC-17,Thiagarajan Kumararaja 
+1016,John Mulaney & The Sack Lunch Bunch,7.4 (3k),"Comedy , Kids & Family ",1h 10min,NULL,Rhys Thomas 
+1017,The Bar,6.3 (26k),"Mystery & Thriller , Fantasy , Comedy , Horror , Made in Europe ",1h 43min,NULL,Álex de la Iglesia 
+1018,Homecoming: A Film by Beyoncé,7.4 (7k),"Documentary , Music & Musical ",2h 17min,PG-13,Ed Burke 
+1019,Michael Che: Shame the Devil,6.4 (1k),Comedy ,58min,NULL,Kristian Mercado 
+1020,Little Evil,5.6 (21k),"Horror , Comedy , Fantasy ",1h 34min,NULL,Eli Craig 
+1021,Nate Bargatze: The Tennessee Kid,7.6 (1k),Comedy ,1h 0min,NULL,Ryan Polito 
+1022,Middle of Nowhere,6.5 (1k),Drama ,1h 41min,R,Ava DuVernay 
+1023,The Resurrection of Gavin Stone,6.2 (2k),"Drama , Comedy , Kids & Family , Romance ",1h 31min,PG,Dallas Jenkins 
+1024,Marauders,5.5 (21k),"Mystery & Thriller , Action & Adventure , Crime ",1h 47min,R,Steven C. Miller 
+1025,A Whisker Away,6.7 (9k),"Romance , Fantasy , Animation , Drama , Kids & Family ",1h 44min,NULL,Junichi Sato 
+1026,Sam Kinison: Breaking the Rules,7.3,"Comedy , Documentary ",50min,R,Walter C. Miller 
+1027,Django & Django,6.9,Documentary ,1h 20min,NULL,NULL
+1028,Cadaver,5.1 (9k),"Mystery & Thriller , Horror , Drama ",1h 26min,NULL,Jarand Herdal 
+1029,Ride Like a Girl,7.0 (3k),"Drama , Sport ",1h 38min,PG,Rachel Griffiths 
+1030,Fullmetal Alchemist,5.2 (19k),"Fantasy , Science-Fiction , Action & Adventure ",2h 15min,PG-13,Fumihiko Sori 
+1031,The Occupant,6.4 (17k),"Mystery & Thriller , Made in Europe , Drama , Horror ",1h 43min,R,David Pastor 
+1032,Tall Girl 2,4.7 (4k),"Comedy , Drama , Kids & Family , Romance ",1h 37min,NULL,Emily Ting 
+1033,Sandy Wexler,5.2 (16k),Comedy ,2h 10min,NULL,Steven Brill 
+1034,The Photographer of Mauthausen,6.7 (10k),"Mystery & Thriller , Drama , History , War & Military , Made in Europe ",1h 51min,R,Mar Targarona 
+1035,Toc Toc,6.8 (18k),"Comedy , Fantasy , Kids & Family , Made in Europe ",1h 30min,PG,Vicente Villanueva 
+1036,Kuch Kuch Hota Hai,7.6 (51k),"Drama , Romance , Comedy ",3h 5min,G,Karan Johar 
+1037,An Easy Girl,5.6 (4k),"Drama , Comedy , Made in Europe ",1h 32min,NULL,Rebecca Zlotowski 
+1038,Words Bubble Up Like Soda Pop,NULL,NULL,NULL,NULL,NULL
+1039,Marco Polo: One Hundred Eyes,7.8 (10k),"Drama , Action & Adventure , History ",28min,NULL,Alik Sakharov 
+1040,Ibiza,5.2 (17k),"Romance , Comedy ",1h 34min,NULL,Alex Richanbach 
+1041,Found,7.5 (1k),"Documentary , Drama ",1h 37min,PG,NULL
+1042,The Photographer: Murder in Pinamar,6.7,"Documentary , Crime ",1h 45min,NULL,Alejandro Hartmann 
+1043,Tom Segura: Completely Normal,7.7 (2k),"Comedy , Documentary ",1h 14min,NULL,Jay Chapman 
+1044,MILF,4.8 (6k),"Comedy , Made in Europe ",1h 41min,NULL,Axelle Laffont 
+1045,The Death and Life of Marsha P. Johnson,7.2 (2k),Documentary ,1h 45min,NULL,David France 
+1046,Bigger Than Africa,NULL,NULL,NULL,NULL,NULL
+1047,Tom Segura: Ball Hog,7.3 (2k),Comedy ,1h 10min,NULL,Rami Hachache 
+1048,Hot Girls Wanted,6.1 (17k),Documentary ,1h 24min,NULL,Jill Bauer 
+1049,Mindhorn,6.3 (12k),"Comedy , Mystery & Thriller ",1h 29min,R,Sean Foley 
+1050,The Privilege,4.6 (4k),"Horror , Science-Fiction , Mystery & Thriller , Drama ",1h 47min,NULL,Felix Fuchssteiner 
+1051,To All the Boys: Always and Forever,6.3 (24k),"Romance , Drama , Comedy ",1h 55min,PG-13,Michael Fimognari 
+1052,Dancing on Glass,5.5,"Drama , Mystery & Thriller ",2h 17min,NULL,Jota Linares 
+1053,My Happy Family,7.4 (3k),Drama ,1h 59min,NULL,Nana Ekvtimishvili 
+1054,Amanda Knox,6.9 (24k),"Crime , Documentary , Made in Europe ",1h 32min,NULL,Brian McGinn 
+1055,The Hard Way,4.8 (3k),Action & Adventure ,1h 34min,NULL,Keoni Waxman 
+1056,Bethany Hamilton: Unstoppable,7.4,"Documentary , Sport ",1h 39min,PG,Aaron Lieber 
+1057,Major Grom: Plague Doctor,6.3 (11k),"Action & Adventure , Crime ",2h 16min,NULL,Oleg Trofim 
+1058,Michelle Wolf: Joke Show,7.2 (1k),Comedy ,59min,NULL,Lance Bangs 
+1059,NiNoKuni,6.1 (3k),"Fantasy , Kids & Family , Romance , Animation , Action & Adventure ",1h 46min,PG-13,Yoshiyuki Momose 
+1060,Gaga: Five Foot Two,7.0 (12k),"Documentary , Music & Musical ",1h 40min,NULL,Chris Moukarbel 
+1061,Murder by the Coast,6.5 (2k),"Crime , Documentary , History ",1h 28min,PG-13,Tània Balló 
+1062,The Saint,4.9 (6k),"Crime , Action & Adventure ",1h 32min,PG-13,Ernie Barbarash 
+1063,Virunga,8.2 (11k),"Documentary , War & Military ",1h 30min,NULL,Orlando von Einsiedel 
+1064,Captain Underpants: Mega Blissmas,5.2,"Animation , Kids & Family , Comedy ",45min,G,NULL
+1065,Katt Williams: The Pimp Chronicles Pt. 1,7.6 (1k),"Comedy , Documentary ",46min,NULL,Gary Binkow 
+1066,Lavender,5.3 (7k),"Drama , Mystery & Thriller ",1h 32min,NULL,Ed Gass-Donnelly 
+1067,Nobody Sleeps in the Woods Tonight 2,3.9 (3k),"Horror , Mystery & Thriller , Comedy ",1h 37min,NULL,Bartosz M. Kowalski 
+1068,Two,NULL,NULL,NULL,NULL,NULL
+1069,Falling Inn Love,5.6 (19k),"Comedy , Romance ",1h 38min,NULL,Roger Kumble 
+1070,Stand by Me Doraemon 2,7.5 (3k),"Science-Fiction , Animation , Comedy , Drama , Kids & Family , Fantasy ",1h 36min,PG,Ryuichi Yagi 
+1071,Rurouni Kenshin: The Final,7.2 (8k),"Drama , Action & Adventure ",2h 18min,PG-13,Keishi Ōtomo 
+1072,If Anything Happens I Love You,NULL,NULL,NULL,NULL,NULL
+1073,Love Wedding Repeat,5.5 (20k),"Comedy , Romance ",1h 40min,NULL,Dean Craig 
+1074,The Coldest Game,6.2 (10k),"Mystery & Thriller , Drama , History , Sport , Made in Europe ",1h 43min,NULL,Łukasz Kośmicki 
+1075,Only,NULL,NULL,NULL,NULL,NULL
+1076,To All the Boys: P.S. I Still Love You,6.0 (37k),"Romance , Comedy , Drama ",1h 41min,PG-13,Michael Fimognari 
+1077,Thar,6.1 (4k),"Western , Mystery & Thriller , Crime , Drama , Action & Adventure ",1h 48min,NULL,Raj Singh Chaudhary 
+1078,All Together Now,6.5 (4k),Drama ,1h 32min,PG,Brett Haley 
+1079,The Willoughbys,6.3 (18k),"Comedy , Kids & Family , Animation , Fantasy , Drama ",1h 32min,PG,Kris Pearn 
+1080,Ronny Chieng: Speakeasy,6.3 (1k),"Comedy , Documentary ",1h 0min,NULL,Sebastian DiNatale 
+1081,Rose Island,7.0 (20k),"Comedy , Drama ",1h 57min,NULL,Sydney Sibilia 
+1082,Zero,5.2 (27k),"Comedy , Drama , Romance , Science-Fiction , Mystery & Thriller , Fantasy , Made in Europe ",2h 44min,NULL,Aanand L. Rai 
+1083,The Outsider,6.2 (25k),"Drama , Action & Adventure , Crime , Mystery & Thriller ",2h 0min,R,Martin Zandvliet 
+1084,Puff: Wonders of the Reef,7.1,"Documentary , Kids & Family ",59min,PG,Nick Robinson 
+1085,Dragon Rider,5.6 (1k),"Animation , Comedy , Kids & Family , Fantasy , Made in Europe ",1h 31min,NULL,Tomer Eshed 
+1086,The Wedding Guest,5.8 (5k),Mystery & Thriller ,1h 36min,R,Michael Winterbottom 
+1087,The Kissing Booth 2,5.7 (30k),"Comedy , Romance ",2h 14min,NULL,Vince Marcello 
+1088,Sierra Burgess Is a Loser,5.8 (38k),"Drama , Romance , Comedy ",1h 45min,PG-13,Ian Samuels 
+1089,Riot,5.1 (3k),Action & Adventure ,1h 27min,NULL,John Lyde 
+1090,Miles Davis: Birth of the Cool,7.4 (1k),"Music & Musical , Documentary ",1h 56min,NULL,Stanley Nelson 
+1091,The Phantom,6.4,"Crime , Documentary ",1h 21min,NULL,Patrick Forbes 
+1092,Day of the Dead: Bloodline,3.4 (11k),"Action & Adventure , Horror , Drama , Science-Fiction , Mystery & Thriller , Made in Europe ",1h 30min,R,Hèctor Hernández Vicens 
+1093,Bon Cop Bad Cop,6.5,"Comedy , Crime , Action & Adventure , Science-Fiction , Drama , Mystery & Thriller ",1h 56min,PG-13,Erik Canuel 
+1094,Tramps,6.5 (5k),"Romance , Comedy , Documentary , Made in Europe ",1h 22min,NULL,Adam Leon 
+1095,The Ottoman Lieutenant,6.4 (25k),"Drama , War & Military ",1h 46min,R,Joseph Ruben 
+1096,The Lost Husband,6.0 (4k),"Romance , Drama ",1h 49min,PG-13,Vicky Wight 
+1097,Invader ZIM: Enter the Florpus,7.4 (5k),"Science-Fiction , Comedy , Kids & Family , Drama , Action & Adventure , Mystery & Thriller , Fantasy , Horror , Animation ",1h 11min,NULL,Jake Wyatt 
+1098,Message from the King,6.4 (16k),"Mystery & Thriller , Action & Adventure , Crime , Drama , Made in Europe ",1h 42min,R,Fabrice Du Welz 
+1099,I Am Not an Easy Man,6.3 (14k),"Fantasy , Comedy , Made in Europe ",1h 38min,NULL,Éléonore Pourriat 
+1100,Death of Me,4.4 (6k),"Horror , Mystery & Thriller ",1h 35min,R,Darren Lynn Bousman 
+1101,Om Shanti Om,6.7 (42k),"Mystery & Thriller , Romance , Action & Adventure , Comedy , Drama , Fantasy ",2h 42min,PG,Farah Khan 
+1102,Grudge,5.5 (4k),"Mystery & Thriller , Drama , Crime ",1h 44min,NULL,Türkan Derya 
+1103,Below Zero,6.2 (19k),"Crime , Mystery & Thriller , Horror , Drama , Action & Adventure ",1h 46min,NULL,Lluís Quílez 
+1104,In Darkness,5.7 (13k),Mystery & Thriller ,1h 40min,NULL,Anthony Byrne 
+1105,Blood Brothers: Malcolm X & Muhammad Ali,6.9,"History , Sport , Documentary ",1h 35min,PG-13,Marcus A. Clarke 
+1106,Me Against You: Mr. S's Vendetta,1.6,"Comedy , Kids & Family , Made in Europe ",1h 4min,NULL,Gianluca Leuzzi 
+1107,Making The Witcher,6.8,Documentary ,32min,PG-13,Nathan Wiley 
+1108,Surviving Paradise: A Family Tale,7.5,Documentary ,1h 18min,NULL,Renée Godfrey 
+1109,A Castle for Christmas,5.5 (11k),"Romance , Comedy , Drama , Kids & Family ",1h 38min,NULL,Mary Lambert 
+1110,Bully,7.4 (10k),"Drama , Documentary ",1h 32min,PG-13,Lee Hirsch 
+1111,True Memoirs of an International Assassin,5.9 (22k),"Comedy , Action & Adventure , Crime ",1h 38min,PG-13,Jeff Wadlow 
+1112,Next Gen,6.6 (17k),"Animation , Action & Adventure , Science-Fiction , Comedy , Kids & Family ",1h 30min,PG,Joe Ksander 
+1113,Elena,7.6 (1k),"Documentary , Made in Europe , Drama , Kids & Family ",1h 22min,PG-13,Petra Costa 
+1114,The Loud House Movie,6.2 (1k),"Comedy , Music & Musical , Drama , Mystery & Thriller , Kids & Family , Action & Adventure , Fantasy , Animation ",1h 23min,G,Dave Needham 
+1115,John Mulaney: The Comeback Kid,7.9 (8k),"Comedy , Documentary ",1h 2min,PG,Rhys Thomas 
+1116,Joan Rivers: Don't Start with Me,6.6,Comedy ,1h 8min,R,Scott L. Montoya 
+1117,Lady Driver,5.8 (1k),"Drama , Sport ",1h 44min,PG,Shaun Paul Piccinino 
+1118,The Visit,NULL,NULL,NULL,NULL,NULL
+1119,Like Father,6.1 (21k),"Drama , Comedy ",1h 43min,R,Lauren Miller 
+1120,LEGO Jurassic World: The Indominus Escape,NULL,NULL,NULL,NULL,NULL
+1121,The Last Days,7.9 (4k),"Drama , War & Military , Documentary ",1h 27min,PG-13,James Moll 
+1122,Incarnate,5.2 (12k),"Mystery & Thriller , Horror ",1h 31min,PG-13,Brad Peyton 
+1123,Fun Mom Dinner,5.3 (5k),Comedy ,1h 21min,R,Alethea Jones 
+1124,Much Loved,6.2 (2k),"Drama , Made in Europe ",1h 48min,NULL,Nabil Ayouch 
+1125,The Taming of the Shrewd,4.5,"Romance , Comedy ",1h 52min,NULL,Anna Wieczur-Bluszcz 
+1126,Bordertown: The Mural Murders,6.2 (2k),"Crime , Drama ",1h 47min,NULL,Juuso Syrjä 
+1127,Monster High: Electrified,5.4,"Animation , Fantasy ",1h 12min,PG,Avgousta Zourelidi 
+1128,Brother in Love,7.0 (6k),"Kids & Family , Comedy ",1h 55min,NULL,Onur Bilgetay 
+1129,Cuties,3.4 (30k),"Drama , Made in Europe ",1h 36min,NC-17,Maïmouna Doucouré 
+1130,Expelled from Paradise,6.7 (1k),"Science-Fiction , Animation , Action & Adventure ",1h 44min,NULL,Seiji Mizushima 
+1131,The Bleeding Edge,7.6 (2k),Documentary ,1h 39min,NULL,Kirby Dick 
+1132,Zach Galifianakis: Live at the Purple Onion,7.2 (3k),"Comedy , Documentary ",1h 1min,NULL,Michael Blieden 
+1133,Doctor,7.5 (15k),"Mystery & Thriller , Comedy , Crime , Action & Adventure ",2h 30min,NULL,Nelson Dilipkumar 
+1134,Güeros,7.4 (4k),"Drama , Comedy ",1h 46min,NULL,Alonso Ruizpalacios 
+1135,The Turning Point,6.1,"Drama , Crime ",1h 30min,NULL,Riccardo Antonaroli 
+1136,Benchwarmers 2: Breaking Balls,4.1,"Comedy , Sport ",1h 30min,PG-13,Jonathan A. Rosenbaum 
+1137,Brené Brown: The Call to Courage,7.7 (1k),"Documentary , Drama ",1h 16min,NULL,Sandra Restrepo 
+1138,Carrie Pilby,6.6 (11k),"Drama , Comedy ",1h 38min,NULL,Susan Johnson 
+1139,From Within,5.6 (7k),"Mystery & Thriller , Horror , Documentary , War & Military , Made in Europe ",1h 29min,R,Phedon Papamichael 
+1140,The Berlin File,6.6 (7k),"Action & Adventure , Mystery & Thriller ",1h 35min,NULL,Ryoo Seung-wan 
+1141,John Leguizamo's Latin History for Morons,7.4,"Comedy , Documentary ",1h 29min,PG,Aram Rappaport 
+1142,Septembers of Shiraz,7.9,"Mystery & Thriller , Western ",1h 50min,PG-13,Wayne Blair 
+1143,Ferry,7.0 (10k),"Drama , Action & Adventure , Crime , Mystery & Thriller ",1h 46min,NULL,Cecilia Verheyden 
+1144,Gather,7.8,Documentary ,1h 14min,NULL,Sanjay Rawal 
+1145,Keeping the Bees,5.8,Drama ,1h 33min,PG-13,NULL
+1146,Alpha and Omega,5.1 (14k),"Romance , Animation , Comedy , Kids & Family ",1h 28min,PG,Ben Gluck 
+1147,Cut Throat City,4.8 (2k),"Mystery & Thriller , Action & Adventure , Drama , Crime ",2h 3min,R,RZA 
+1148,Love Happens,5.6 (32k),"Drama , Romance ",1h 49min,PG-13,Brandon Camp 
+1149,Patsy & Loretta,6.8 (1k),"Drama , Music & Musical ",1h 28min,NULL,Callie Khouri 
+1150,Boyka: Undisputed IV,NULL,NULL,NULL,NULL,NULL
+1151,Legends of the Hidden Temple,5.6,Kids & Family ,1h 8min,PG,Joe Menendez 
+1152,Dave Chappelle: The Kennedy Center Mark Twain Prize,7.4 (2k),Comedy ,1h 25min,NULL,Chris Robinson 
+1153,Frank & Lola,5.9 (6k),"Drama , Romance , Mystery & Thriller , Crime ",1h 28min,NULL,Matthew Ross 
+1154,How I Became a Super Hero,5.8 (5k),"Fantasy , Mystery & Thriller , Action & Adventure , Comedy , Drama ",1h 37min,NULL,Douglas Attal 
+1155,Chris Distefano: Speshy Weshy,6.4,Comedy ,36min,NULL,Mike Lavin 
+1156,Desperados,5.2 (10k),"Comedy , Romance ",1h 45min,NULL,LP 
+1157,Operation Varsity Blues: The College Admissions Scandal,6.9 (8k),"Crime , Drama , Documentary ",1h 40min,R,Chris Smith 
+1158,Knock Down the House,7.2 (12k),Documentary ,1h 27min,PG,Rachel Lears 
+1159,Berserk: The Golden Age Arc II - The Battle for Doldrey,7.7 (10k),"Fantasy , Horror , Animation , Action & Adventure , Drama ",1h 38min,R,Toshiyuki Kubooka 
+1160,Time to Hunt,6.3 (5k),"Mystery & Thriller , Action & Adventure , Crime , Drama , Science-Fiction ",2h 14min,NULL,Yoon Sung-hyun 
+1161,Mobile Suit Gundam Hathaway,6.6 (1k),"Science-Fiction , Animation , Action & Adventure , Drama , Romance ",1h 36min,PG-13,Shuko Murase 
+1162,Even the Rain,7.4 (13k),"Drama , Made in Europe , History ",1h 44min,NULL,Icíar Bollaín 
+1163,Anne+,6.1 (1k),"Drama , Romance ",1h 34min,NULL,Valerie Bisscheroux 
+1164,Hannah Gadsby: Douglas,NULL,NULL,NULL,NULL,NULL
+1165,Godzilla: The Planet Eater,5.0 (4k),"Fantasy , Animation , Science-Fiction , Action & Adventure , Horror ",1h 30min,PG,Hiroyuki Seshita 
+1166,This Is the Night,5.4,"Drama , Comedy ",1h 40min,R,James DeMonaco 
+1167,Search Party,5.6 (7k),Comedy ,1h 33min,R,Scot Armstrong 
+1168,Rumspringa,5.3,"Comedy , Drama ",1h 42min,NULL,Mira Thiel 
+1169,Indian Horse,7.2 (2k),"Drama , Sport ",1h 36min,PG-13,Stephen S. Campanelli 
+1170,Trailer Park Boys: The Movie,7.1 (12k),"Comedy , Crime ",1h 35min,R,Mike Clattenburg 
+1171,Coffee & Kareem,5.1 (13k),"Action & Adventure , Comedy , Crime ",1h 28min,NULL,Michael Dowse 
+1172,Amar,5.1 (4k),"Romance , Drama , Made in Europe ",1h 43min,NULL,Esteban Crespo 
+1173,Backtrace,3.8 (4k),"Crime , Action & Adventure , Drama ",1h 27min,R,Brian A. Miller 
+1174,Athlete A,7.6 (10k),"Documentary , Sport , Crime ",1h 44min,PG-13,Bonni Cohen 
+1175,Night in Paradise,6.7 (6k),"Mystery & Thriller , Action & Adventure , Crime , Drama ",2h 11min,NULL,Park Hoon-jung 
+1176,Barry,5.9 (7k),Drama ,1h 44min,NULL,Vikram Gandhi 
+1177,Sightless,5.5 (8k),"Drama , Mystery & Thriller ",1h 29min,NULL,Cooper Karl 
+1178,One of Us,7.0 (6k),Documentary ,1h 35min,NULL,Heidi Ewing 
+1179,Jarhead: Law of Return,5.6,War & Military ,1h 43min,R,Don Michael Paul 
+1180,Barfi!,8.1 (80k),"Drama , Romance , Comedy ",2h 31min,G,Anurag Basu 
+1181,Azali,5.7,Drama ,1h 32min,NULL,Kwabena Gyansah 
+1182,Montford: The Chickasaw Rancher,6.6,"Drama , History , Western ",1h 36min,NULL,Nathan Frankowski 
+1183,Tigertail,6.6 (3k),Drama ,1h 31min,PG,Alan Yang 
+1184,The Warriors Gate,5.4 (5k),"Action & Adventure , Comedy , Kids & Family , Fantasy , Made in Europe ",1h 48min,PG-13,Matthias Hoene 
+1185,The Beast,5.2 (4k),"Crime , Mystery & Thriller , Action & Adventure , Drama ",1h 30min,NULL,Ludovico Di Martino 
+1186,Lu Over the Wall,6.8 (2k),"Fantasy , Comedy , Music & Musical , Animation , Kids & Family ",1h 57min,PG,Masaaki Yuasa 
+1187,Jodhaa Akbar,7.5 (32k),"Romance , Drama , History , War & Military , Action & Adventure ",3h 33min,PG-13,Ashutosh Gowariker 
+1188,The Land of Steady Habits,6.2 (7k),"Drama , Comedy ",1h 38min,NULL,Nicole Holofcener 
+1189,Unrest,7.6 (2k),"Documentary , Drama , History , Romance , Made in Europe ",1h 37min,NULL,Jennifer Brea 
+1190,David Brent: Life on the Road,6.3 (20k),"Comedy , Music & Musical , Action & Adventure ",1h 36min,NULL,Ricky Gervais 
+1191,Friendsgiving,4.4 (2k),"Comedy , Drama ",1h 35min,R,Nicol Paone 
+1192,Sweet & Sour,6.7 (2k),"Romance , Comedy ",1h 42min,NULL,Lee Kae-byeok 
+1193,Bigfoot Family,5.8 (2k),"Animation , Kids & Family ",1h 37min,G,Jérémie Degruson 
+1194,Kabhi Khushi Kabhie Gham,7.4 (49k),"Comedy , Drama , Romance ",3h 30min,G,Karan Johar 
+1195,The Christmas Chronicles,7.0 (71k),"Fantasy , Comedy , Kids & Family ",1h 44min,PG,Clay Kaytis 
+1196,Taylor Swift: Reputation Stadium Tour,8.3 (5k),"Documentary , Music & Musical ",2h 5min,PG-13,Paul Dugdale 
+1197,Mike Birbiglia: The New One,7.7 (1k),Comedy ,1h 25min,NULL,Seth Barrish 
+1198,Brian Regan: On the Rocks,6.8,Comedy ,58min,NULL,Troy Miller 
+1199,Holiday in the Wild,6.1 (15k),"Romance , Comedy , Drama ",1h 25min,NULL,Ernie Barbarash 
+1200,Seized,5.3 (2k),"Mystery & Thriller , Action & Adventure ",1h 25min,R,Isaac Florentine 
+1201,ZZ Top: That Little Ol' Band from Texas,7.5 (1k),"Documentary , Music & Musical ",1h 31min,NULL,Sam Dunn 
+1202,The Last Mercenary,5.3 (8k),"Action & Adventure , Comedy , Crime , Mystery & Thriller ",1h 50min,NULL,David Charhon 
+1203,Knight Rider 2000,4.5 (3k),"Action & Adventure , Science-Fiction ",1h 31min,G,Alan J. Levi 
+1204,Fate/Grand Order: First Order,5.7,"Animation , Action & Adventure ",1h 12min,NULL,Namimi Sanjo 
+1205,Omar,7.5 (14k),"Mystery & Thriller , Drama , Romance , Crime , War & Military ",1h 36min,NULL,Hany Abu-Assad 
+1206,Oprah + Viola: A Netflix Special Event,6.7,,48min,NULL,NULL
+1207,LEGO Marvel Super Heroes: Avengers Reassembled!,6.1,"Animation , Action & Adventure , Comedy , Science-Fiction ",22min,NULL,Rob Silvestri 
+1208,The Young Messiah,5.6 (3k),"Drama , Fantasy ",2h 0min,PG-13,Cyrus Nowrasteh 
+1209,Human Nature,7.7 (1k),"Documentary , Mystery & Thriller ",1h 34min,NULL,Adam Bolt 
+1210,Sin City,3.2,"Drama , Mystery & Thriller ",1h 41min,NULL,Pascal Amanfo 
+1211,Lucid Dream,6.1 (3k),"Mystery & Thriller , Science-Fiction ",1h 41min,NULL,Kim Joon-Sung 
+1212,I Am Jonas,7.0 (5k),"Romance , Drama , Made in Europe ",1h 22min,NULL,Christophe Charrier 
+1213,The F**k-It List,5.1 (5k),Comedy ,1h 43min,R,Michael Duggan 
+1214,The Week Of,5.2 (21k),Comedy ,1h 56min,PG-13,Robert Smigel 
+1215,Blame!,6.6 (8k),"Animation , Action & Adventure , Drama , Science-Fiction , Mystery & Thriller ",1h 46min,PG-13,Hiroyuki Seshita 
+1216,The Fortress,6.8 (2k),"War & Military , Drama , History , Action & Adventure , Mystery & Thriller ",2h 20min,NULL,Hwang Dong-hyuk 
+1217,Jim Jefferies: Bare,8.0 (5k),Comedy ,1h 16min,R,Shannon Hartman 
+1218,Tony Robbins: I Am Not Your Guru,6.6 (4k),Documentary ,1h 55min,NULL,Joe Berlinger 
+1219,Chasing Coral,8.1 (5k),Documentary ,1h 33min,NULL,Jeff Orlowski 
+1220,Kill Me If You Dare,4.4 (1k),"Romance , Comedy ",1h 44min,NULL,Şenol Sönmez 
+1221,Never Back Down: Revolt,4.0,"Action & Adventure , Crime , Drama , Sport ",1h 29min,R,Kellie Madison 
+1222,A Cinderella Story: Christmas Wish,5.3,Fantasy ,1h 33min,PG,Michelle Johnston 
+1223,MFKZ,6.7 (4k),"Science-Fiction , Animation , Action & Adventure , Comedy , Mystery & Thriller , Made in Europe ",1h 35min,R,Shoujirou Nishimi 
+1224,9to5: The Story of A Movement,7.4,"History , Documentary ",1h 29min,NULL,Julia Reichert 
+1225,Naruto Shippuden the Movie,6.7 (4k),"Fantasy , Animation , Action & Adventure , Kids & Family ",1h 34min,PG-13,Hayato Date 
+1226,The Distinguished Citizen,7.5 (11k),"Drama , Comedy , Made in Europe ",1h 58min,NULL,Mariano Cohn 
+1227,Anbe Sivam,8.7 (20k),"Drama , Comedy ",2h 40min,NULL,Sundar C 
+1228,Mr. Roosevelt,6.2 (3k),Comedy ,1h 30min,NULL,Noël Wells 
+1229,MindGamers,3.6 (1k),"Action & Adventure , Mystery & Thriller , Science-Fiction , Made in Europe ",1h 37min,NULL,Andrew Goth 
+1230,Anthony Jeselnik: Fire in the Maternity Ward,7.2 (3k),Comedy ,1h 4min,NULL,Marcus Raboy 
+1231,Don't Kill Me,4.3 (1k),"Romance , Fantasy , Horror ",1h 30min,NULL,Andrea De Sica 
+1232,Springsteen On Broadway,8.5 (2k),"Music & Musical , Documentary ",2h 33min,NULL,Thom Zimny 
+1233,Penguin Bloom,6.8 (9k),Drama ,1h 35min,PG-13,Glendyn Ivin 
+1234,Servant Of The People 2,6.2,"Comedy , Kids & Family ",1h 40min,NULL,Aleksey Kiryushchenko 
+1235,A Fall from Grace,5.8 (15k),"Mystery & Thriller , Fantasy , Drama ",2h 0min,NULL,Tyler Perry 
+1236,Je suis Karl,5.4 (1k),"Drama , Mystery & Thriller , Made in Europe , Romance ",2h 6min,R,Christian Schwochow 
+1237,Generation Iron 3,6.2 (3k),Documentary ,1h 15min,NULL,Vlad Yudin 
+1238,Pelé,7.0 (4k),"Documentary , Sport ",1h 48min,PG-13,David Tryhorn 
+1239,Brother,6.7 (1k),"Drama , Made in Europe ",1h 36min,NULL,Julien Abraham 
+1240,Ala Vaikunthapurramuloo,7.3 (16k),"Comedy , Drama , Action & Adventure ",2h 45min,PG-13,Trivikram Srinivas 
+1241,Kathleen Madigan: Bothering Jesus,NULL,NULL,NULL,NULL,NULL
+1242,I Am Woman,6.5 (2k),"Drama , History , Music & Musical , Romance ",1h 56min,NULL,Unjoo Moon 
+1243,The Women and the Murderer,6.4 (1k),"Documentary , Crime ",1h 32min,PG-13,Patricia Tourancheau 
+1244,Effie Gray,6.0 (5k),"Drama , Romance ",1h 48min,PG-13,Richard Laxton 
+1245,Anjelah Johnson: Not Fancy,5.7,"Comedy , Documentary ",1h 3min,NULL,Jay Karas 
+1246,Te Ata,7.4,"Drama , History ",1h 45min,PG,Nathan Frankowski 
+1247,Escape from Planet Earth,5.8 (25k),"Science-Fiction , Comedy , Kids & Family , Animation ",1h 29min,PG,Cal Brunker 
+1248,The Knight Before Christmas,5.5 (17k),"Drama , Fantasy , Romance , Comedy ",1h 32min,NULL,Monika Mitchell 
+1249,Under the Eiffel Tower,5.4,"Comedy , Romance ",1h 27min,NULL,Archie Borders 
+1250,Animal Crackers,5.8 (3k),"Action & Adventure , Comedy , Animation , Kids & Family , Fantasy ",1h 45min,PG,Tony Bancroft 
+1251,Escape from Mr. Lemoncello's Library,5.3,"Fantasy , Kids & Family ",1h 9min,G,Scott McAboy 
+1252,Trollhunters: Rise of the Titans,6.7 (4k),"Drama , Kids & Family , Fantasy , Animation , Action & Adventure , Comedy ",1h 44min,NULL,Johane Matte 
+1253,The Black Godfather,7.4 (1k),"Documentary , Music & Musical ",1h 58min,NULL,Reginald Hudlin 
+1254,Waist Deep,5.8 (9k),"Mystery & Thriller , Drama , Action & Adventure , Crime ",1h 37min,R,Vondie Curtis-Hall 
+1255,I Called Him Morgan,7.3 (1k),"Documentary , History , Music & Musical , Drama , Made in Europe ",1h 31min,NULL,Kasper Collin 
+1256,Undercover Brother 2,3.4,"Action & Adventure , Comedy ",1h 25min,R,Leslie Small 
+1257,Biking Borders - eine etwas andere Reise,7.7,Documentary ,1h 29min,NULL,Max Jabs 
+1258,Lost Bullet,6.3 (9k),"Mystery & Thriller , Action & Adventure , Crime ",1h 32min,NULL,NULL
+1259,Inuyasha the Movie: Affections Touching Across Time,7.2 (2k),"Fantasy , Animation , Action & Adventure ",1h 39min,PG-13,Toshiya Shinohara 
+1260,Dhamaka,7.3 (39k),"Mystery & Thriller , Drama , Crime , Action & Adventure ",1h 44min,NULL,Ram Madhvani 
+1261,Sarah Silverman: A Speck of Dust,6.9 (3k),"Comedy , Documentary ",1h 11min,NULL,Liam Lynch 
+1262,Death to 2020,6.8 (38k),Comedy ,1h 11min,NULL,Al Campbell 
+1263,Ordinary World,5.5 (3k),"Comedy , Drama , Kids & Family , Music & Musical ",1h 26min,NULL,Lee Kirk 
+1264,Inventing David Geffen,NULL,NULL,NULL,NULL,NULL
+1265,Furioza,6.2 (3k),"Action & Adventure , Crime , Drama ",2h 19min,NULL,Cyprian T. Olencki 
+1266,Love Tactics,5.2 (3k),"Romance , Comedy ",1h 37min,NULL,Emre Kabakuşak 
+1267,Ultras,6.2 (4k),Drama ,1h 49min,NULL,Francesco Lettieri 
+1268,Only Mine,4.6 (3k),"Mystery & Thriller , Drama ",1h 27min,NULL,Michael Civille 
+1269,Patton Oswalt: Annihilation,7.2 (2k),"Comedy , Documentary ",1h 6min,NULL,Bobcat Goldthwait 
+1270,Gnome Alone,5.6 (3k),"Fantasy , Comedy , Animation , Kids & Family , Mystery & Thriller , Drama , Music & Musical ",1h 25min,PG,Peter Lepeniotis 
+1271,"Take the Ball, Pass the Ball",8.0 (3k),"Documentary , Sport , Made in Europe ",1h 47min,NULL,Duncan McMath 
+1272,My Suicide,7.0 (1k),"Drama , Comedy ",1h 47min,R,David Lee Miller 
+1273,Clive Davis: The Soundtrack of Our Lives,7.4,"Music & Musical , Documentary ",2h 3min,PG-13,Chris Perkel 
+1274,Kevin Hart: What Now?,5.9 (9k),"Comedy , Documentary ",1h 36min,R,Leslie Small 
+1275,Sad Hill Unearthed,7.4 (1k),"Documentary , Made in Europe ",1h 26min,NULL,Guillermo de Oliveira 
+1276,First They Killed My Father,7.2 (17k),"Drama , History , War & Military ",2h 16min,R,Angelina Jolie 
+1277,Iron Fists and Kung Fu Kicks,6.6 (1k),"Documentary , History ",1h 48min,NULL,Serge Ou 
+1278,Voyeur,6.1 (6k),"Documentary , Crime , Drama ",1h 35min,R,Myles Kane 
+1279,Tony Manero,6.8 (4k),"Drama , Music & Musical ",1h 37min,NULL,Pablo Larraín 
+1280,AI Love You,4.4,"Science-Fiction , Drama , Romance ",1h 35min,PG-13,Stephan Zlotescu 
+1281,Dangerous Lies,5.3 (16k),"Mystery & Thriller , Drama , Horror , Crime , Comedy ",1h 37min,NULL,Michael Scott 
+1282,Rocco,5.7 (3k),"Documentary , Made in Europe ",1h 45min,NULL,Alban Teurlai 
+1283,Rock the Kasbah,5.5 (11k),"Comedy , Music & Musical , War & Military ",1h 46min,R,Barry Levinson 
+1284,Father Christmas Is Back,4.5 (5k),Comedy ,1h 45min,PG-13,Philippe Martinez 
+1285,Us and Them,7.3 (4k),"Drama , Romance ",2h 0min,NULL,René Liu 
+1286,Shimmer Lake,6.3 (14k),"Mystery & Thriller , Crime , Drama ",1h 23min,NULL,Oren Uziel 
+1287,Homunculus,5.5 (2k),"Mystery & Thriller , Fantasy , Drama ",1h 55min,NULL,Takashi Shimizu 
+1288,Father of the Year,5.2 (11k),Comedy ,1h 34min,NULL,Tyler Spindel 
+1289,Trouble,5.8 (3k),"Action & Adventure , Kids & Family , Comedy , Music & Musical , Animation ",1h 28min,NULL,Kevin Johnson 
+1290,Game Over,7.0 (7k),"Mystery & Thriller , Drama , Science-Fiction ",1h 42min,NULL,Ashwin Saravanan 
+1291,Acts of Vengeance,5.7 (12k),"Mystery & Thriller , Drama , Crime , Action & Adventure , Made in Europe ",1h 27min,R,Isaac Florentine 
+1292,Queen,8.1 (65k),"Drama , Comedy ",2h 26min,PG-13,Vikas Bahl 
+1293,Stuck Together,6.3 (6k),Comedy ,2h 6min,NULL,Dany Boon 
+1294,Jeff Foxworthy: The Good Old Days,6.1,"Comedy , Documentary ",1h 0min,NULL,Ryan Polito 
+1295,Sebastian Maniscalco: Why Would You Do That?,7.4 (1k),Comedy ,1h 3min,NULL,Joe DeMaio 
+1296,Delta Farce,3.6 (11k),"Action & Adventure , Comedy ",1h 30min,PG-13,C.B. Harding 
+1297,White Fang,6.9 (3k),"Kids & Family , Animation , Drama , Western , Made in Europe ",1h 27min,PG,Alexandre Espigares 
+1298,Definition Please,5.5,"Drama , Comedy ",1h 31min,NULL,Sujata Day 
+1299,Bill Nye: Science Guy,6.5 (1k),Documentary ,1h 35min,NULL,Jason Sussberg 
+1300,Screwball,7.1 (1k),"Documentary , History ",1h 45min,NULL,Billy Corben 
+1301,"My Teacher, My Obsession",4.4 (2k),"Drama , Mystery & Thriller ",1h 45min,NULL,Damián Romay 
+1302,Monty Python Live at the Hollywood Bowl,7.9 (15k),"Comedy , Documentary ",1h 17min,R,Terry Hughes 
+1303,Donald Glover: Weirdo,7.4 (3k),"Comedy , Documentary ",1h 5min,NULL,Shannon Hartman 
+1304,Heroin(e),NULL,NULL,NULL,NULL,NULL
+1305,You Get Me,4.7 (12k),"Drama , Mystery & Thriller , Romance , Crime ",1h 28min,NULL,Brent Bonacorso 
+1306,Inside Man: Most Wanted,5.6 (3k),"Action & Adventure , Mystery & Thriller , Crime ",1h 46min,R,M.J. Bassett 
+1307,The Clapper,5.1 (7k),"Comedy , Drama ",1h 29min,R,Dito Montiel 
+1308,Operation Hyacinth,6.7 (2k),"Crime , Drama , Mystery & Thriller ",1h 52min,NULL,Piotr Domalewski 
+1309,"Oh, Hello on Broadway",7.7 (3k),Comedy ,1h 42min,NULL,Michael John Warren 
+1310,The Edge of Democracy,7.3 (14k),"Documentary , History ",2h 1min,NULL,Petra Costa 
+1311,Nothing to Hide,6.8 (14k),"Comedy , Drama , Made in Europe ",1h 33min,NULL,Fred Cavayé 
+1312,Bullet Head,5.4 (10k),"Mystery & Thriller , Crime , Drama , Made in Europe ",1h 33min,R,Paul Solet 
+1313,Hitler: A Career,7.5 (2k),"Documentary , History , Made in Europe ",2h 30min,PG,Joachim Fest 
+1314,City of God: 10 Years Later,6.4 (1k),Documentary ,1h 9min,PG,Luciano Vidigal 
+1315,Freaks – You're One of Us,5.4 (5k),"Drama , Action & Adventure , Fantasy , Science-Fiction ",1h 33min,NC-17,Felix Binder 
+1316,Mobile Suit Gundam: Char's Counterattack,7.3 (1k),"Science-Fiction , Animation , Drama , War & Military , Action & Adventure ",2h 0min,NULL,Yoshiyuki Tomino 
+1317,The Whole Truth,5.1 (3k),"Horror , Mystery & Thriller , Drama ",2h 5min,R,Wisit Sasanatieng 
+1318,The Last Summer,NULL,NULL,NULL,NULL,NULL
+1319,The Show Must Go On: The Queen + Adam Lambert Story,7.8 (1k),"Music & Musical , Documentary ",1h 21min,NULL,Simon Lupton 
+1320,Paradise Lost,6.9,"Romance , Drama , Music & Musical , Documentary ",1h 50min,NULL,Monique Gardenberg 
+1321,"Roxanne, Roxanne",6.2 (3k),"Drama , Music & Musical ",1h 38min,NULL,Michael Larnell 
+1322,Seal Team,5.5 (1k),"Comedy , Animation ",1h 41min,NULL,Greig Cameron 
+1323,Watchman,NULL,NULL,NULL,NULL,NULL
+1324,Whose Streets?,5.5 (1k),Documentary ,1h 30min,R,Sabaah Folayan 
+1325,6 Bullets,6.0 (14k),"Mystery & Thriller , Drama , Action & Adventure , Crime ",1h 55min,R,Ernie Barbarash 
+1326,Arahan,6.6 (3k),"Fantasy , Mystery & Thriller , Action & Adventure , Comedy ",1h 54min,NULL,Ryoo Seung-wan 
+1327,The Bling Lagosians,6.4,Drama ,1h 37min,NULL,Bolanle Austen-Peters 
+1328,Jim Jefferies: Freedumb,7.7 (5k),"Comedy , Documentary ",1h 26min,R,Ryan Polito 
+1329,Secret Obsession,4.4 (21k),"Mystery & Thriller , Drama ",1h 37min,NULL,Peter Sullivan 
+1330,The World Is Yours,6.3 (4k),"Comedy , Crime , Made in Europe ",1h 34min,R,Romain Gavras 
+1331,7 Years,6.7 (4k),"Drama , Made in Europe ",1h 17min,NULL,Roger Gual 
+1332,All Hail,5.6 (3k),"Comedy , Drama ",1h 58min,NULL,Marcos Carnevale 
+1333,Te quiero,4.9,"Drama , Comedy , Made in Europe ",1h 25min,NULL,Laura Mañá 
+1334,Isi & Ossi,6.4 (8k),"Romance , Comedy ",1h 53min,NULL,Oliver Kienle 
+1335,Rocko's Modern Life: Static Cling,6.9 (3k),"Animation , Science-Fiction , Kids & Family , Fantasy , Action & Adventure , Comedy ",45min,NULL,Cosmo Segurson 
+1336,Marilyn's Eyes,6.6 (1k),"Comedy , Drama ",1h 50min,NULL,Simone Godano 
+1337,Taylor Tomlinson: Quarter-Life Crisis,7.4 (3k),Comedy ,1h 1min,NULL,Marcus Raboy 
+1338,Katherine Ryan: Glitter Room,6.7 (1k),Comedy ,1h 5min,NULL,Linda Mendoza 
+1339,Tig,7.4 (2k),Documentary ,1h 35min,NULL,Ashley York 
+1340,Maria Bamford: The Special Special Special!,7.0,Comedy ,50min,NULL,Jordan Brady 
+1341,#FollowFriday,2.7,Mystery & Thriller ,1h 30min,NULL,Micho Rutare 
+1342,Special Correspondents,5.8 (23k),Comedy ,1h 40min,PG-13,Ricky Gervais 
+1343,Dragons: Dawn Of The Dragon Racers,NULL,NULL,NULL,NULL,NULL
+1344,Holy Camp!,6.2 (4k),"Comedy , Made in Europe ",1h 49min,NULL,Javier Ambrossi 
+1345,Open Season 2,NULL,NULL,NULL,NULL,NULL
+1346,The Dreamseller,6.0 (1k),Drama ,1h 36min,NULL,Jayme Monjardim 
+1347,Outside In,6.7 (4k),Drama ,1h 49min,NULL,Lynn Shelton 
+1348,6 Years,5.6 (12k),"Drama , Romance ",1h 24min,NULL,Hannah Fidell 
+1349,The Paramedic,5.7 (12k),"Mystery & Thriller , Drama , Action & Adventure , Crime ",1h 34min,NULL,Carles Torras 
+1350,We Steal Secrets: The Story of WikiLeaks,6.9 (7k),Documentary ,2h 7min,R,Alex Gibney 
+1351,Bleach,6.4 (11k),"Fantasy , Action & Adventure ",1h 48min,PG-13,Shinsuke Sato 
+1352,Benji,6.3 (4k),"Crime , Drama , Kids & Family ",1h 27min,PG,Brandon Camp 
+1353,Jim Jefferies: Intolerant,7.2 (2k),Comedy ,1h 6min,NULL,Scott Zabielski 
+1354,Irreplaceable You,6.4 (9k),"Comedy , Drama , Romance ",1h 36min,NULL,Stephanie Laing 
+1355,The Battleship Island,7.1 (7k),"Drama , Action & Adventure , History ",2h 13min,PG-13,Ryoo Seung-wan 
+1356,Fireworks,5.6 (3k),"Fantasy , Documentary , Drama , Romance , Science-Fiction , Kids & Family , Animation ",1h 30min,PG-13,Ho Feng Shih 
+1357,Have a Good Trip: Adventures in Psychedelics,6.8 (7k),"Documentary , Comedy ",1h 25min,NULL,Donick Cary 
+1358,The Climb,6.9 (7k),"Romance , Drama , Comedy , Made in Europe ",1h 43min,NULL,Ludovic Bernard 
+1359,Naruto: Ninja Clash in the Land of Snow,6.6 (6k),"Comedy , Animation , Action & Adventure , Fantasy ",1h 22min,PG-13,Tensai Okamura 
+1360,The Perfect Dictatorship,7.2 (5k),"Drama , Comedy ",2h 23min,NULL,Luis Estrada 
+1361,Memories of a Murderer: The Nilsen Tapes,6.3 (3k),"Documentary , Crime ",1h 24min,R,Michael Harte 
+1362,Anonymously Yours,5.7 (1k),"Romance , Drama ",1h 41min,R,NULL
+1363,Debt Collectors,5.8 (4k),"Crime , Action & Adventure , Comedy ",1h 37min,R,Jesse V. Johnson 
+1364,The Princess Switch 3: Romancing the Star,5.5 (5k),"Romance , Comedy , Drama , Kids & Family ",1h 46min,PG,Mike Rohl 
+1365,Ms. Pat: Y'all Wanna Hear Something Crazy?,6.1,Comedy ,54min,R,Robert Townsend 
+1366,Jerry Seinfeld: 23 Hours to Kill,6.7 (5k),Comedy ,1h 0min,NULL,Joe DeMaio 
+1367,The Falls,7.0 (1k),Drama ,2h 9min,NULL,Chung Mong-Hong 
+1368,Hasan Minhaj: Homecoming King,8.2 (7k),"Comedy , Documentary ",1h 12min,NULL,Christopher Storer 
+1369,Pets United,3.7 (2k),"Comedy , Animation ",1h 29min,NULL,Reinhard Klooss 
+1370,Sankofa,7.0,"Drama , Made in Europe ",2h 4min,NULL,Haile Gerima 
+1371,Bleach the Movie: Fade to Black,7.1 (2k),"Fantasy , Drama , Animation , Action & Adventure ",1h 34min,PG-13,Noriyuki Abe 
+1372,One Piece: Strong World,7.5 (5k),"Fantasy , Animation , Action & Adventure ",1h 54min,PG-13,Munehisa Sakai 
+1373,Yara,6.2 (4k),"Drama , Mystery & Thriller , Crime ",1h 36min,NULL,Marco Tullio Giordana 
+1374,Donkeyhead,6.2,Drama ,1h 46min,NULL,Agam Darshi 
+1375,Undefeated,7.7 (7k),"Documentary , Sport ",1h 53min,PG-13,T.J. Martin 
+1376,The Polka King,5.9 (10k),"Comedy , Drama , Music & Musical ",1h 35min,NULL,Maya Forbes 
+1377,Colin Quinn: Unconstitutional,7.0,Comedy ,55min,NULL,Jay Chapman 
+1378,Rabbids Invasion - Mission To Mars,7.8,Animation ,1h 10min,NULL,Franz Kirchner 
+1379,The Short Game,7.3 (1k),"Documentary , Sport ",1h 40min,PG,Josh Greenbaum 
+1380,Airplane Mode,5.1 (2k),"Comedy , Drama , Romance ",1h 36min,NULL,César Rodrigues 
+1381,Naruto Shippuden the Movie: Blood Prison,7.1 (5k),"Mystery & Thriller , Horror , Fantasy , Comedy , Animation , Action & Adventure ",1h 48min,PG-13,Masahiko Murata 
+1382,Bert Kreischer: The Machine,7.6 (1k),Comedy ,1h 10min,NULL,Ryan Polito 
+1383,Lead Me Home,7.1,Documentary ,40min,NULL,Jon Shenk 
+1384,LEGO Marvel Super Heroes: Guardians of the Galaxy - The Thanos Threat,5.9,"Animation , Kids & Family , Science-Fiction , Action & Adventure , Comedy , Fantasy ",22min,NULL,Michael D. Black 
+1385,Casting JonBenet,6.1 (5k),"Crime , Drama , Documentary ",1h 21min,NULL,Kitty Green 
+1386,S.W.A.T.: Under Siege,4.5 (3k),"Mystery & Thriller , Action & Adventure , Crime ",1h 29min,R,Tony Giglio 
+1387,Sniper: Ghost Shooter,NULL,NULL,NULL,NULL,NULL
+1388,Dry Martina,5.8,"Comedy , Drama ",1h 35min,NULL,Che Sandoval 
+1389,Free Birds,5.8 (24k),"Comedy , Animation , Kids & Family , Science-Fiction ",1h 31min,PG,Jimmy Hayward 
+1390,American Girl,7.2 (1k),Drama ,1h 41min,NULL,Fiona Roan 
+1391,Mobile Suit Gundam II: Soldiers of Sorrow,7.2 (1k),"Science-Fiction , Animation , Action & Adventure , Drama , War & Military ",2h 13min,NULL,Yoshiyuki Tomino 
+1392,The Devil Below,4.2 (4k),"Horror , Mystery & Thriller ",1h 29min,R,Bradley Parker 
+1393,Out of Thin Air,6.3 (2k),"Crime , Documentary ",1h 25min,NULL,NULL
+1394,Christmas Inheritance,5.7 (11k),"Drama , Romance , Comedy ",1h 45min,NULL,Ernie Barbarash 
+1395,Christmas with a Prince,5.2 (1k),"Drama , Romance ",1h 30min,NULL,Justin G. Dyck 
+1396,Don't Go Breaking My Heart,6.5 (1k),Romance ,1h 55min,NULL,Johnnie To 
+1397,Hey Arnold! The Jungle Movie,7.5 (3k),"Action & Adventure , Kids & Family , Comedy , Animation , Fantasy ",1h 21min,NULL,Raymie Muzquiz 
+1398,The Angel,6.6 (14k),"Mystery & Thriller , Action & Adventure , Drama ",1h 54min,NULL,Ariel Vromen 
+1399,I Am All Girls,5.9 (5k),"Mystery & Thriller , Crime , Drama ",1h 47min,NULL,Donovan Marsh 
+1400,Modest Heroes,6.6 (2k),"Animation , Fantasy , Drama , Kids & Family , Comedy ",54min,PG,Hiromasa Yonebayashi 
+1401,Otherhood,6.0 (11k),Comedy ,1h 40min,R,Cindy Chupack 
+1402,BLACKPINK: Light Up the Sky,7.3 (6k),"Documentary , Music & Musical ",1h 19min,PG-13,Caroline Suh 
+1403,The Sky Is Pink,7.5 (8k),"Drama , Romance , Kids & Family ",2h 23min,NULL,Shonali Bose 
+1404,Ride or Die,5.6 (1k),"Mystery & Thriller , Drama , Romance ",2h 22min,R,Ryuichi Hiroki 
+1405,6 Balloons,5.9 (4k),Drama ,1h 15min,NULL,Marja-Lewis Ryan 
+1406,Rebirth,4.9 (5k),Mystery & Thriller ,1h 40min,NULL,Karl Mueller 
+1407,Dabbe: The Possession,6.8 (5k),Horror ,2h 0min,NULL,Hasan Karacadag 
+1408,Take Me,6.1 (5k),"Comedy , Crime , Mystery & Thriller ",1h 23min,NULL,Pat Healy 
+1409,Seven,7.5,Drama ,1h 53min,NULL,NULL
+1410,Coven,6.4 (4k),"Drama , Horror , Action & Adventure , History , Mystery & Thriller ",1h 32min,NULL,Pablo Agüero 
+1411,Hakkunde,6.4,"Drama , Comedy ",1h 32min,NULL,Oluseyi Asurf 
+1412,Dil Chahta Hai,8.1 (71k),"Drama , Comedy , Romance ",3h 3min,G,Farhan Akhtar 
+1413,Yuri Marçal: Honest Mistake,6.2,"Comedy , Documentary ",59min,NULL,Fabio Ock 
+1414,Black Friday,8.4 (20k),"Crime , Drama , History , Action & Adventure ",2h 23min,R,Anurag Kashyap 
+1415,Don 2,7.0 (52k),"Mystery & Thriller , Action & Adventure , Crime , Made in Europe ",2h 19min,NULL,Farhan Akhtar 
+1416,Bill Hicks: Revelations,8.5 (3k),"Comedy , Documentary ",1h 14min,NULL,Chris Bould 
+1417,Monty Python: The Meaning of Live,7.6,"Comedy , Documentary ",1h 36min,NULL,Roger Graef 
+1418,The Seven Deadly Sins: Prisoners of the Sky,7.1 (4k),"Fantasy , Animation , Action & Adventure ",1h 39min,PG-13,Noriyuki Abe 
+1419,Chris Rock Total Blackout: The Tamborine Extended Cut,7.0,Comedy ,1h 37min,PG-13,Chris Rock 
+1420,Show Dogs,3.8 (4k),"Crime , Comedy , Kids & Family ",1h 32min,PG,Raja Gosnell 
+1421,Disco Dancer,6.5 (1k),"Drama , Romance ",2h 14min,NULL,Babbar Subhash 
+1422,The Last Days of American Crime,3.7 (11k),"Mystery & Thriller , Action & Adventure , Crime , Drama , Science-Fiction ",2h 29min,NULL,Olivier Megaton 
+1423,Justin Timberlake + The Tennessee Kids,7.6 (2k),"Music & Musical , Documentary ",1h 30min,NULL,Jonathan Demme 
+1424,Secret Magic Control Agency,6.2 (4k),"Fantasy , Comedy , Kids & Family , Animation ",1h 44min,NULL,Aleksey Tsitsilin 
+1425,Kung Fu Panda: Secrets of the Scroll,NULL,NULL,NULL,NULL,NULL
+1426,Looop Lapeta,5.2 (4k),"Action & Adventure , Comedy , Crime , Romance , Mystery & Thriller ",2h 11min,NULL,Aakash Bhatia 
+1427,The Witcher: Fireplace,NULL,NULL,NULL,NULL,NULL
+1428,Our Lovers,6.7 (4k),"Romance , Drama , Comedy , Made in Europe ",1h 28min,NULL,Miguel Ángel Lamata 
+1429,All About Gila,4.2,Comedy ,1h 16min,NULL,NULL
+1430,Accident,6.6 (3k),Mystery & Thriller ,1h 29min,R,Soi Cheang 
+1431,In the Shadow of Iris,6.1 (4k),"Mystery & Thriller , Drama , Crime , Made in Europe ",1h 38min,NULL,Jalil Lespert 
+1432,FRED 3: Camp Fred,2.0 (2k),"Comedy , Kids & Family ",1h 21min,PG,Jonathan Judge 
+1433,The Ruthless,6.2 (6k),"Drama , Crime , Made in Europe ",1h 51min,NULL,Renato De Maria 
+1434,Biggie: I Got a Story to Tell,6.8 (4k),"Music & Musical , Documentary ",1h 37min,R,Emmett Malloy 
+1435,Naruto Shippuden the Movie: The Lost Tower,6.9 (3k),"Animation , Action & Adventure , Fantasy ",1h 25min,PG-13,Masahiko Murata 
+1436,Animal World,6.4 (4k),"Drama , Mystery & Thriller , Fantasy , Action & Adventure , Science-Fiction , Comedy ",2h 5min,R,Yan Han 
+1437,Fate: The Winx Saga - The Afterparty,6.1,"Comedy , Fantasy , Reality TV ",31min,PG-13,Joe Guidry 
+1438,All I Wish,5.1 (1k),"Romance , Comedy , Drama ",1h 34min,G,Susan Walter 
+1439,Becoming,6.8 (6k),Documentary ,1h 29min,PG,Nadia Hallgren 
+1440,Get Me Roger Stone,7.3 (7k),"History , Documentary ",1h 40min,NULL,Morgan Pehme 
+1441,Christmas in the Heartland,5.8 (1k),Kids & Family ,1h 30min,NULL,Harvey Lowry 
+1442,Ee Nagaraniki Emaindi,7.9 (2k),"Drama , Comedy ",2h 0min,NULL,Tharun Bhascker Dhaassyam 
+1443,A Christmas Prince,5.7 (19k),"Romance , Comedy , Kids & Family ",1h 32min,PG,Alex Zamm 
+1444,A Princess for Christmas,6.3 (8k),"Comedy , Drama , Kids & Family , Romance ",1h 29min,PG,Michael Damian 
+1445,Naked,5.4 (19k),"Comedy , Fantasy , Romance ",1h 36min,NULL,Michael Tiddes 
+1446,An Imperfect Murder,3.1 (1k),"Crime , Drama , Mystery & Thriller ",1h 11min,R,James Toback 
+1447,Neal Brennan: 3 Mics,7.9 (3k),"Comedy , Documentary ",1h 5min,NULL,Neal Brennan 
+1448,Inhuman Kiss,6.4 (1k),"Horror , Drama , Romance ",2h 2min,NULL,Sitisiri Mongkolsiri 
+1449,"Frankenstein's Monster's Monster, Frankenstein",5.8 (2k),Comedy ,32min,NULL,Daniel Gray Longino 
+1450,Jim Gaffigan: Beyond the Pale,7.9 (3k),"Comedy , Documentary ",1h 12min,NULL,Michael Drumm 
+1451,A Fortunate Man,7.2 (6k),"Drama , Romance , Made in Europe ",2h 42min,NULL,Bille August 
+1452,Circus of Books,7.1 (4k),"Documentary , History ",1h 32min,NULL,Rachel Mason 
+1453,Red Dot,5.5 (13k),"Mystery & Thriller , Horror , Drama ",1h 26min,NULL,Alain Darborg 
+1454,Main Hoon Na,7.0 (35k),"Drama , Mystery & Thriller , Action & Adventure , Comedy , Romance ",2h 59min,PG,Farah Khan 
+1455,Jinxed,6.3 (1k),"Comedy , Kids & Family ",1h 10min,G,Stephen Herek 
+1456,Game Changer,4.1,"Comedy , Crime , Drama , Romance , Mystery & Thriller ",1h 42min,NULL,Tiwa Moeithaisong 
+1457,High Society,5.5 (1k),Drama ,1h 59min,NULL,Byun Hyuk 
+1458,Michael Che Matters,7.2 (2k),Comedy ,1h 0min,NULL,Oz Rodriguez 
+1459,Special 26,8.0 (55k),"Mystery & Thriller , Drama , Crime ",2h 24min,NULL,Neeraj Pandey 
+1460,"Crack: Cocaine, Corruption & Conspiracy",6.7 (3k),"Documentary , Crime , History ",1h 29min,NULL,Stanley Nelson 
+1461,David Foster: Off the Record,7.0,Documentary ,1h 38min,NULL,Barry Avrich 
+1462,They'll Love Me When I'm Dead,7.4 (4k),Documentary ,1h 38min,NULL,Morgan Neville 
+1463,Dasvi,7.4 (20k),"Comedy , Drama ",2h 5min,NULL,Tushar Jalota 
+1464,Feel the Beat,6.3 (10k),"Music & Musical , Drama , Comedy , Kids & Family ",1h 47min,G,Elissa Down 
+1465,The Little Vampire 3D,5.4 (1k),"Fantasy , Comedy , Kids & Family , Horror , Animation , Made in Europe ",1h 23min,NULL,Karsten Kiilerich 
+1466,Rising High,5.9 (4k),"Drama , Comedy ",1h 34min,NULL,Cüneyt Kaya 
+1467,Derren Brown: Miracle,6.5 (1k),Documentary ,1h 13min,NULL,Andy Nyman 
+1468,Nappily Ever After,6.4 (9k),"Romance , Comedy , Drama ",1h 38min,NC-17,Haifaa al-Mansour 
+1469,Madame Claude,5.4 (3k),"Romance , Crime , Drama ",1h 52min,NULL,Sylvie Verheyde 
+1470,Silver Skates,7.1 (5k),"Romance , History , Drama , Kids & Family ",2h 16min,NULL,Mikhail Lokshin 
+1471,Happy Anniversary,5.7 (4k),Comedy ,1h 18min,NULL,Jared Stern 
+1472,Sebastian Maniscalco: Stay Hungry,7.1 (1k),Comedy ,1h 5min,NULL,Rik Reinholdtsen 
+1473,Mike Birbiglia: My Girlfriend's Boyfriend,8.0 (3k),"Comedy , Drama , Romance , Documentary ",1h 15min,NULL,Seth Barrish 
+1474,The Warning,5.9 (6k),"Mystery & Thriller , Fantasy , Action & Adventure , Horror , Crime , Drama , Made in Europe ",1h 33min,NULL,Daniel Calparsoro 
+1475,Legacy of Lies,5.0 (3k),"Mystery & Thriller , Action & Adventure ",1h 41min,R,Adrian Bol 
+1476,What We Started,7.1 (2k),"Music & Musical , Documentary ",1h 10min,NULL,Cyrus Saidi 
+1477,"Cairo 6,7,8",7.4 (4k),Drama ,1h 40min,NULL,Mohamed Diab 
+1478,The Boy Who Cried Werewolf,5.9 (3k),"Fantasy , Horror , Comedy , Kids & Family ",1h 37min,G,Eric Bross 
+1479,Spelling the Dream,6.9,Documentary ,1h 22min,NULL,Sam Rega 
+1480,"Dana Carvey: Straight White Male, 60",6.5 (1k),Comedy ,1h 4min,NULL,Marcus Raboy 
+1481,The Stand In,4.7 (3k),"Comedy , Drama ",1h 41min,R,Jamie Babbit 
+1482,Lady J,6.8 (3k),"Romance , Drama , Made in Europe ",1h 50min,NULL,Emmanuel Mouret 
+1483,Bruna Louise: Demolition,NULL,NULL,NULL,NULL,NULL
+1484,Work It,6.1 (13k),"Comedy , Music & Musical ",1h 33min,PG-13,Laura Terruso 
+1485,Miracle in Cell No. 7,8.2 (47k),"Drama , Comedy ",2h 12min,NULL,Mehmet Ada Öztekin 
+1486,G.O.R.A.,8.0 (62k),"Science-Fiction , Comedy ",2h 7min,PG-13,Ömer Faruk Sorak 
+1487,Point Blank,5.7 (14k),"Action & Adventure , Mystery & Thriller , Crime , Drama ",1h 26min,NC-17,Joe Lynch 
+1488,Sebastian Maniscalco: What's Wrong with People?,8.0 (1k),Comedy ,1h 15min,NULL,Manny Rodriguez 
+1489,Jerry Seinfeld: I'm Telling You for the Last Time,7.9 (5k),"Comedy , Documentary ",1h 15min,G,Marty Callner 
+1490,The Forgiven,5.9 (2k),Mystery & Thriller ,1h 55min,R,Roland Joffé 
+1491,Dancing Queens,5.6 (1k),"Drama , Comedy ",1h 50min,NULL,Helena Bergström 
+1492,Manto,7.3 (4k),Drama ,1h 52min,NULL,Nandita Das 
+1493,"Barbie: Big City, Big Dreams",5.7,"Kids & Family , Animation , Music & Musical ",1h 2min,NULL,Scott Pleydell-Pearce 
+1494,Close Enemies,6.4 (2k),"Mystery & Thriller , Drama , Made in Europe ",1h 51min,NULL,David Oelhoffen 
+1495,The Endless Trench,7.2 (6k),"Mystery & Thriller , Action & Adventure , Drama , History , War & Military , Made in Europe ",2h 28min,NULL,Jose Mari Goenaga 
+1496,The Hater,NULL,NULL,NULL,NULL,NULL
+1497,Nicole Byer: BBW (Big Beautiful Weirdo),5.7,Comedy ,1h 5min,NULL,Betsy Thomas 
+1498,Lommbock,6.7 (3k),"Comedy , Made in Europe ",1h 42min,NULL,Christian Zübert 
+1499,Jenny Slate: Stage Fright,5.8 (1k),"Reality TV , Comedy ",1h 6min,NULL,Gillian Robespierre 
+1500,Taxi Driver,6.0,"Crime , Comedy , Drama ",1h 40min,NULL,Daniel Emeke Oriahi 
+1501,Asperger's Are Us,6.6,"Documentary , Comedy , Drama ",1h 23min,NULL,Alexandre Lehmann 
+1502,Deep,4.8 (1k),"Mystery & Thriller , Science-Fiction , Drama ",1h 41min,NULL,Sita Likitvanichkul 
+1503,Article 15,8.2 (32k),"Drama , Mystery & Thriller , Crime ",2h 10min,NULL,Anubhav Sinha 
+1504,Quincy,7.6 (4k),"Music & Musical , Documentary ",2h 4min,NULL,Alan Hicks 
+1505,Baaghi,5.3 (8k),"Mystery & Thriller , Action & Adventure , Romance ",2h 13min,NULL,Sabbir Khan 
+1506,The Christmas Chronicles: Part Two,6.0 (29k),"Fantasy , Action & Adventure , Comedy , Kids & Family ",1h 52min,PG,Chris Columbus 
+1507,Dance of the Forty One,6.8 (4k),"Drama , History ",1h 39min,NULL,David Pablos 
+1508,Qismat,8.1 (3k),"Comedy , Drama , Romance ",2h 20min,NULL,NULL
+1509,Rang De Basanti,8.1 (118k),"Comedy , Drama , History , Crime ",2h 37min,PG-13,Rakeysh Omprakash Mehra 
+1510,What About Dick?,NULL,NULL,NULL,NULL,NULL
+1511,Sentinelle,4.7 (7k),"Mystery & Thriller , Action & Adventure , Drama , Crime ",1h 20min,NULL,Julien Leclercq 
+1512,The Body Remembers When the World Broke Open,6.9,"Drama , Made in Europe ",1h 45min,NULL,Elle-Máijá Tailfeathers 
+1513,Brian Regan: Nunchucks and Flamethrowers,6.3,"Comedy , Documentary ",1h 1min,NULL,Troy Miller 
+1514,JJ+E,5.3 (1k),"Drama , Romance ",1h 30min,NULL,NULL
+1515,All My Friends Are Dead,5.8 (6k),"Mystery & Thriller , Comedy , Drama , Crime ",1h 35min,NULL,Jan Belcl 
+1516,WHAT DID JACK DO?,NULL,NULL,NULL,NULL,NULL
+1517,The Man Who Feels No Pain,7.3 (7k),"Action & Adventure , Comedy ",2h 16min,PG,Vasan Bala 
+1518,4K Fireplace,7.7,"Kids & Family , Reality TV ",3h 1min,G,NULL
+1519,Catfight,5.9 (6k),"Comedy , Drama , Action & Adventure ",1h 36min,NULL,Onur Tukel 
+1520,Clinical,5.1 (7k),"Horror , Mystery & Thriller ",1h 44min,NULL,Alistair Legrand 
+1521,Naruto Shippuden the Movie: The Will of Fire,7.0 (3k),"Fantasy , Animation , Action & Adventure ",1h 35min,PG-13,Masahiko Murata 
+1522,The Decline,6.0 (8k),"Mystery & Thriller , Action & Adventure ",1h 23min,R,Patrice Laliberté 
+1523,The Boss: Anatomy of a Crime,7.3 (2k),"Drama , Crime ",1h 38min,NULL,Sebastián Schindel 
+1524,Almost Love,5.7 (1k),"Romance , Comedy , Drama ",1h 34min,NULL,Mike Doyle 
+1525,Wedding Unplanned,5.7 (1k),"Comedy , Romance , Drama , Made in Europe ",1h 34min,NULL,Reem Kherici 
+1526,Rogue City,NULL,NULL,NULL,NULL,NULL
+1527,The Unjust,6.6 (2k),"Mystery & Thriller , Action & Adventure , Crime , Drama ",1h 59min,NULL,Ryoo Seung-wan 
+1528,Spoiled Brats,6.1 (5k),Comedy ,1h 35min,NULL,Nicolas Cuche 
+1529,Expedition Happiness,5.9 (4k),"Documentary , Made in Europe ",1h 35min,G,Felix Starck 
+1530,Sarkar,7.0 (18k),"Drama , Action & Adventure ",2h 44min,NULL,A.R. Murugadoss 
+1531,Walk. Ride. Rodeo.,6.4 (2k),Drama ,1h 40min,NULL,Conor Allyn 
+1532,Tom Segura: Disgraceful,7.5 (3k),"Comedy , Documentary ",1h 14min,PG-13,Jay Karas 
+1533,Soul Thieves,5.0,Horror ,1h 28min,NULL,Juan Antonio de la Riva 
+1534,Lust Stories,6.4 (10k),"Drama , Romance ",2h 0min,R,Zoya Akhtar 
+1535,One Night in Paris,4.4,Comedy ,1h 4min,NULL,Mehdi Idir 
+1536,Naruto: Guardians of the Crescent Moon Kingdom,6.4 (4k),"Action & Adventure , Animation ",1h 35min,PG-13,Toshiyuki Tsuru 
+1537,Pandora,6.6 (7k),"Mystery & Thriller , Drama , Action & Adventure ",2h 16min,R,Park Jung-woo 
+1538,Okko's Inn,7.0 (1k),"Fantasy , Kids & Family , Animation , Drama ",1h 34min,PG,Kitarou Kousaka 
+1539,Carbone,6.5 (2k),"Crime , Mystery & Thriller , Made in Europe ",1h 44min,NULL,Olivier Marchal 
+1540,Really Love,6.0,"Romance , Drama ",1h 35min,NULL,Angel Kristi Williams 
+1541,UFO,4.8,"Drama , Documentary ",1h 49min,NULL,Onur Bilgetay 
+1542,Free to Play,7.6 (13k),"Documentary , Action & Adventure ",1h 16min,NULL,Valve Company 
+1543,The Speed Cubers,NULL,NULL,NULL,NULL,NULL
+1544,"Best Wishes, Warmest Regards: A Schitt's Creek Farewell",8.6 (1k),Documentary ,44min,NULL,Amy Segal 
+1545,Cousins,6.9,Drama ,1h 38min,R,Ainsley Gardiner 
+1546,The Holiday Calendar,5.7 (10k),"Romance , Comedy , Drama , Fantasy ",1h 34min,NULL,Bradley Walsh 
+1547,Oye Lucky! Lucky Oye!,7.7 (17k),"Comedy , Drama , Action & Adventure , Crime ",2h 6min,NULL,Dibakar Banerjee 
+1548,Bulbbul,6.5 (11k),"Horror , Fantasy , Drama ",1h 34min,NULL,Anvita Dutt 
+1549,Skater Girl,6.6 (4k),"Drama , Kids & Family , Sport ",1h 47min,PG,Manjari Makijany 
+1550,A Kid from Coney Island,7.0,"Documentary , Sport ",1h 29min,NULL,Coodie Simmons 
+1551,LEGO Marvel Spider-Man: Vexed by Venom,5.6,"Animation , Action & Adventure , Comedy , Kids & Family ",21min,NULL,Ken Cunningham 
+1552,Ayinla,8.3,Drama ,1h 59min,NULL,Tunde Kelani 
+1553,West Beirut,7.6 (4k),"Romance , Drama , Comedy , War & Military , Made in Europe ",1h 45min,PG-13,Ziad Doueiri 
+1554,Sniper: Reloaded,NULL,NULL,NULL,NULL,NULL
+1555,The Open House,3.3 (34k),"Mystery & Thriller , Horror ",1h 34min,NULL,Suzanne Coote 
+1556,Out Of My League,6.1 (2k),"Comedy , Drama , Romance , Made in Europe ",1h 30min,NULL,Alice Filippi 
+1557,Furie,5.6 (2k),"Mystery & Thriller , Drama , Horror ",1h 38min,NULL,Olivier Abbou 
+1558,Ready to Mingle,5.9 (2k),"Romance , Comedy ",1h 37min,NULL,Luis Javier Henaine 
+1559,Petta,7.3 (9k),"Action & Adventure , Drama ",2h 52min,NULL,Karthik Subbaraj 
+1560,DNA,6.0 (1k),"Drama , History ",1h 30min,NULL,Maïwenn 
+1561,Fashion,6.9 (12k),"Romance , Drama ",2h 47min,PG-13,Madhur Bhandarkar 
+1562,Anthony Jeselnik: Thoughts and Prayers,NULL,NULL,NULL,NULL,NULL
+1563,Funny Boy,6.4,Drama ,1h 49min,NULL,Deepa Mehta 
+1564,The Legend of Cocaine Island,6.3 (3k),Documentary ,1h 27min,NULL,Theo Love 
+1565,All Day and a Night,5.9 (3k),Drama ,2h 1min,R,Joe Robert Cole 
+1566,The Most Hated Woman in America,6.1 (6k),"Drama , Crime , History ",1h 31min,NULL,Tommy O'Haver 
+1567,Best of Stand-up 2020,5.4,Comedy ,1h 16min,NULL,NULL
+1568,Kabir Singh,7.0 (31k),"Drama , Crime , Action & Adventure , Romance ",2h 55min,NULL,Sandeep Reddy Vanga 
+1569,Burn Out,6.2 (3k),"Mystery & Thriller , Action & Adventure , Crime , Made in Europe ",1h 43min,NULL,Yann Gozlan 
+1570,Elisa & Marcela,6.6 (4k),"Drama , Romance , Made in Europe ",1h 58min,NULL,Isabel Coixet 
+1571,Garfunkel and Oates: Trying to be Special,7.3,"Comedy , Music & Musical ",1h 2min,NULL,Jeremy Konner 
+1572,Go!,5.9 (2k),"Kids & Family , Sport ",1h 50min,NULL,Lankyboy 
+1573,Slam,6.1 (1k),"Comedy , Drama , Romance , Made in Europe ",1h 40min,NULL,Andrea Molaioli 
+1574,Tig Notaro: Happy To Be Here,6.6 (1k),Comedy ,58min,NULL,Tig Notaro 
+1575,Trevor Noah: Afraid of the Dark,7.2 (5k),Comedy ,1h 8min,PG-13,David Paul Meyer 
+1576,Hey! Sinamika,6.2 (3k),"Romance , Drama ",2h 29min,NULL,Brinda 
+1577,Fortune Feimster: Sweet & Salty,6.8,"Comedy , Drama ",1h 1min,NULL,Krysia Plonka 
+1578,The Hand of God: Through the Eyes of Sorrentino,7.1,Documentary ,8min,NULL,NULL
+1579,LEGO DC Comics Super Heroes: Batman Be-Leaguered,6.5 (1k),"Comedy , Science-Fiction , Animation , Action & Adventure , Kids & Family ",22min,NULL,Rick Morales 
+1580,The B-Side: Elsa Dorfman's Portrait Photography,6.7,Documentary ,1h 16min,R,Errol Morris 
+1581,Meskina,5.6,"Comedy , Romance ",1h 38min,NULL,Daria Bukvic 
+1582,Today We Fix the World,6.1,"Drama , Comedy ",1h 53min,NULL,Ariel Winograd 
+1583,Haider,8.1 (54k),"Romance , Crime , Action & Adventure , Drama , Mystery & Thriller ",2h 30min,PG-13,Vishal Bhardwaj 
+1584,Jab We Met,7.9 (52k),"Drama , Comedy , Romance ",2h 18min,PG-13,Imtiaz Ali 
+1585,Cobalt Blue,6.6 (1k),"Drama , Romance ",1h 52min,NULL,Sachin Kundalkar 
+1586,Dolly Parton: Here I Am,7.3 (1k),"Documentary , Music & Musical ",1h 29min,NULL,Francis Whately 
+1587,Deidra & Laney Rob a Train,6.0 (1k),"Drama , Comedy , Crime ",1h 32min,NULL,Sydney Freeland 
+1588,Kevin James: Sweat the Small Stuff,7.5 (1k),"Comedy , Documentary ",42min,NULL,Paul Miller 
+1589,American Woman,NULL,NULL,NULL,NULL,NULL
+1590,Raman Raghav 2.0,7.4 (14k),"Mystery & Thriller , Drama , Crime ",2h 14min,NULL,Anurag Kashyap 
+1591,Kal Ho Naa Ho,7.9 (68k),"Comedy , Drama , Romance ",3h 30min,PG,Nikkhil Advani 
+1592,M8 - When Death Rescues Life,7.0,"Drama , Mystery & Thriller ",1h 24min,NULL,Jeferson De 
+1593,Whitney Cummings: Money Shot,6.2,"Comedy , Documentary ",48min,NULL,John Fortenberry 
+1594,Swearnet: The Movie,6.0 (2k),Comedy ,1h 52min,R,Warren P. Sonoda 
+1595,Hunterrr,7.0 (6k),"Drama , Comedy , Romance ",2h 21min,R,Harshavardhan Kulkarni 
+1596,Resort to Love,5.7 (5k),"Romance , Comedy ",1h 41min,PG,Steven K. Tsuchida 
+1597,"Surviving Compton: Dre, Suge and Michel'le",6.5,"Drama , Documentary ",1h 27min,NULL,Janice Cooke 
+1598,Jonas Brothers Family Roast,5.2 (1k),Comedy ,1h 8min,NULL,Alex Van Wagner 
+1599,Mersal,7.5 (33k),"Mystery & Thriller , Action & Adventure ",2h 49min,NULL,Atlee 
+1600,Into the Wind,5.2,"Romance , Comedy , Drama , Sport ",1h 48min,NULL,Kristoffer Rus 
+1601,Ghost Lab,5.1 (1k),"Science-Fiction , Mystery & Thriller , Horror , Drama ",1h 57min,NULL,Paween Purijitpanya 
+1602,Burning Cane,5.5,Drama ,1h 17min,NULL,Phillip Michael Youmans 
+1603,Nobody Knows I'm Here,6.5 (4k),"Drama , Music & Musical ",1h 31min,NULL,Gaspar Antillo 
+1604,Toilet: A Love Story,7.2 (20k),"Drama , Comedy , Romance ",2h 35min,NULL,Shree Narayan Singh 
+1605,The Scary House,5.4 (3k),"Drama , Horror , Mystery & Thriller , Kids & Family , Fantasy , Made in Europe ",1h 40min,NULL,Daniel Prochaska 
+1606,"Love, Guaranteed",5.6 (17k),"Comedy , Romance ",1h 30min,NULL,Mark Steven Johnson 
+1607,Iliza Shlesinger: Freezing Hot,6.8 (2k),"Comedy , Documentary ",1h 11min,NULL,Ryan Polito 
+1608,Fred Armisen: Standup for Drummers,5.8 (1k),"Music & Musical , Comedy ",1h 5min,NULL,Lance Bangs 
+1609,Jeff Dunham: Arguing with Myself,8.0 (3k),"Comedy , Documentary ",1h 16min,PG-13,Manny Rodriguez 
+1610,Camarón: The Film,7.5,Documentary ,1h 44min,NULL,Alexis Morante 
+1611,Mishan Impossible,6.7,"Mystery & Thriller , Action & Adventure , Comedy , Drama ",2h 9min,NULL,Swaroop RSJ 
+1612,Why Did You Kill Me?,5.6 (4k),"Crime , Documentary ",1h 23min,R,Fredrick Munk 
+1613,Sergio,7.4,Documentary ,1h 34min,NULL,Greg Barker 
+1614,The American Meme,6.7 (17k),Documentary ,1h 35min,NULL,Bert Marcus 
+1615,L.O.L. Surprise: The Movie,NULL,NULL,NULL,NULL,NULL
+1616,Open Season: Scared Silly,NULL,NULL,NULL,NULL,NULL
+1617,LEGO Marvel Super Heroes: Maximum Overload,NULL,NULL,NULL,NULL,NULL
+1618,Big Time Movie,6.1 (1k),"Comedy , Kids & Family , Music & Musical ",1h 8min,G,Savage Steve Holland 
+1619,Three Songs for Benazir,7.7,"Documentary , Drama , War & Military ",22min,NULL,Elizabeth Mirzaei 
+1620,Sunday's Illness,6.9 (3k),"Drama , Made in Europe ",1h 53min,PG-13,Ramón Salazar 
+1621,Menendez: The Day of the Lord,4.9,"Drama , Horror , Mystery & Thriller ",1h 33min,NULL,Santiago Alvarado 
+1622,Whitney Cummings: Can I Touch It?,6.5 (1k),Comedy ,59min,NULL,Marcus Raboy 
+1623,Guilty,NULL,NULL,NULL,NULL,NULL
+1624,Thomas & Friends: All Engines Go - Race for the Sodor Cup,3.7,"Animation , Kids & Family ",1h 0min,NULL,Rick Suvalle 
+1625,Trailer Park Boys: Countdown to Liquor Day,7.3 (7k),"Comedy , Crime ",1h 41min,R,Mike Clattenburg 
+1626,Ella Fitzgerald: Just One of Those Things,6.9,"Music & Musical , Documentary ",1h 29min,NULL,Leslie Woodhead 
+1627,Theo Von: Regular People,5.1,Comedy ,1h 1min,NULL,Lloyd Stanton 
+1628,Bombay,8.1 (12k),"Romance , Drama ",2h 21min,NULL,Mani Ratnam 
+1629,Tim Minchin and the Heritage Orchestra: Live at the Royal Albert Hall,NULL,NULL,NULL,NULL,NULL
+1630,40 Love,NULL,NULL,NULL,NULL,NULL
+1631,Maria,5.0 (2k),"Crime , Action & Adventure , Drama , Mystery & Thriller ",1h 30min,NULL,Pedring Lopez 
+1632,Dolly Parton's Christmas on the Square,5.2 (2k),"Comedy , Music & Musical , Kids & Family ",1h 38min,PG,Debbie Allen 
+1633,137 Shots,6.2,"Crime , Documentary ",1h 44min,R,Michael Milano 
+1634,Adam: His Song Continues,7.0,"Crime , Drama ",1h 40min,NULL,Robert Markowitz 
+1635,Turkish Dance School,5.6 (2k),"Drama , Comedy ",1h 46min,PG-13,Burak Aksak 
+1636,Puss in Book: Trapped in an Epic Tale,NULL,NULL,NULL,NULL,NULL
+1637,Bheeshma,6.6 (3k),"Comedy , Action & Adventure , Romance ",2h 31min,NULL,Venky Kudumula 
+1638,The Brave,5.0 (1k),"Mystery & Thriller , Action & Adventure , Crime ",1h 43min,NULL,William Kaufman 
+1639,Sarah Cooper: Everything's Fine,5.5 (1k),Comedy ,49min,NULL,Natasha Lyonne 
+1640,Ronnie Coleman: The King,7.0 (3k),Documentary ,1h 33min,NULL,Vlad Yudin 
+1641,Phil Wang: Philly Philly Wang Wang,6.0,Comedy ,1h 3min,NULL,Barbara Wiltshire 
+1642,Force 2,6.2 (5k),"Crime , Mystery & Thriller , Action & Adventure ",2h 3min,PG,Abhinay Deo 
+1643,It's for Your Own Good,5.5 (2k),"Comedy , Made in Europe ",1h 33min,NULL,Carlos Therón 
+1644,Amateur,5.9 (4k),"Drama , Sport ",1h 36min,R,Ryan Koo 
+1645,The Father Who Moves Mountains,5.5 (3k),"Mystery & Thriller , Drama ",1h 48min,PG-13,Daniel Sandu 
+1646,Michael McIntyre: Showman,7.1 (1k),Comedy ,1h 2min,NULL,NULL
+1647,The Bros,6.1,"Comedy , Fantasy ",1h 42min,NULL,Jang Yoo-jung 
+1648,OMG: Oh My God!,8.1 (57k),"Fantasy , Drama , Comedy ",2h 5min,G,Umesh Shukla 
+1649,Godzilla: City on the Edge of Battle,5.8 (4k),"Animation , Science-Fiction , Action & Adventure ",1h 40min,PG-13,Hiroyuki Seshita 
+1650,Shaun the Sheep: The Farmer's Llamas,6.8 (1k),"Animation , Comedy , Kids & Family ",30min,NULL,Jay Grace 
+1651,ABCD,6.3 (6k),"Drama , Music & Musical ",2h 16min,PG-13,Remo D'Souza 
+1652,Waiting for the Hearse,8.0 (6k),Comedy ,1h 27min,NULL,Alejandro Doria 
+1653,37 Seconds,7.4 (2k),Drama ,1h 55min,NULL,Hikari 
+1654,Sooryavanshi,6.4 (75k),"Mystery & Thriller , Action & Adventure , Crime ",2h 25min,NULL,Rohit Shetty 
+1655,The Door Into Summer,6.3,Science-Fiction ,1h 58min,NULL,NULL
+1656,Villain,5.9 (3k),"Mystery & Thriller , Action & Adventure , Crime , Drama ",1h 27min,R,Philip Barantini 
+1657,Flavors of Youth,6.6 (7k),"Drama , Romance , Animation ",1h 14min,PG-13,Yoshitaka Takeuchi 
+1658,Mimi,NULL,NULL,NULL,NULL,NULL
+1659,Cities of Last Things,6.2 (1k),"Science-Fiction , Crime , Drama ",1h 47min,NULL,Wi Ding Ho 
+1660,Seventeen,7.2 (3k),"Drama , Made in Europe ",1h 39min,NULL,Daniel Sánchez Arévalo 
+1661,Ralphie May: Unruly,NULL,NULL,NULL,NULL,NULL
+1662,Boss,5.1 (11k),"Action & Adventure , Drama , Comedy , Crime ",2h 23min,PG-13,Anthony D'Souza 
+1663,The Silence of the Marsh,NULL,NULL,NULL,NULL,NULL
+1664,Gabriel Iglesias: One Show Fits All,7.2 (1k),"Comedy , Documentary ",1h 30min,NULL,Manny Rodriguez 
+1665,Operation Christmas Drop,5.8 (11k),"Romance , Kids & Family , Comedy ",1h 35min,NULL,Martin Wood 
+1666,SPF-18,3.2 (5k),"Romance , Sport , Drama ",1h 15min,PG-13,Alex Israel 
+1667,Haseen Dillruba,6.9 (26k),"Romance , Mystery & Thriller , Crime , Drama ",2h 15min,NULL,Vinil Mathew 
+1668,Honey Girls,4.8,"Music & Musical , Kids & Family , Comedy ",1h 30min,PG,Trey Fanjoy 
+1669,Mann,6.1 (5k),"Drama , Romance ",2h 54min,NULL,Indra Kumar 
+1670,Dostana,6.5 (15k),"Drama , Comedy , Romance ",2h 25min,PG-13,Tarun Mansukhani 
+1671,Manhunt,5.2 (3k),"Mystery & Thriller , Action & Adventure , Crime ",1h 46min,NULL,John Woo 
+1672,The Soul,6.6 (2k),"Mystery & Thriller , Science-Fiction , Drama ",2h 10min,NULL,Cheng Wei-Hao 
+1673,Duck Duck Goose,5.7 (3k),"Comedy , Kids & Family , Animation ",1h 31min,PG,Christopher Jenkins 
+1674,Isoken,6.5,"Romance , Comedy , Drama ",1h 40min,NULL,Jadesola Osiberu 
+1675,Rip Tide,5.4 (3k),"Drama , Kids & Family , Action & Adventure , Mystery & Thriller ",1h 25min,NULL,Rhiannon Bannenberg 
+1676,Sivaji: The Boss,7.5 (19k),"Drama , Mystery & Thriller , Action & Adventure , Crime ",3h 9min,PG-13,Shankar 
+1677,Swades,8.1 (89k),"Drama , Made in Europe ",3h 9min,G,Ashutosh Gowariker 
+1678,How I Fell in Love with a Gangster,6.0 (2k),"Crime , Drama ",2h 59min,NULL,Maciej Kawulski 
+1679,Asphalt Burning,5.1 (2k),"Comedy , Action & Adventure , Made in Europe ",1h 40min,NULL,Hallvard Bræin 
+1680,Dear Mother,5.8 (1k),"Comedy , Drama ",1h 38min,NULL,Laurent Lafitte 
+1681,Family Blood,4.2 (2k),"Horror , Mystery & Thriller , Drama ",1h 32min,NULL,Sonny Mallhi 
+1682,Lulli,4.7 (1k),"Fantasy , Comedy , Romance ",1h 30min,NULL,César Rodrigues 
+1683,Craig Ferguson: Tickle Fight,6.6,Comedy ,1h 6min,NULL,Jay Chapman 
+1684,FTA,6.2,"Music & Musical , Comedy , War & Military , Documentary ",1h 37min,R,Francine Parker 
+1685,Alaska Is a Drag,6.5,Drama ,1h 23min,NULL,Shaz Bennett 
+1686,Pope Francis: A Man of His Word,6.4 (2k),"Documentary , Made in Europe ",1h 36min,PG,Wim Wenders 
+1687,Happy Old Year,7.2 (2k),"Drama , Romance ",1h 53min,NULL,Nawapol Thamrongrattanarit 
+1688,"Love, Surreal and Odd",5.6 (3k),"Comedy , Romance ",1h 35min,G,Yılmaz Erdoğan 
+1689,Sabrina,4.1 (1k),"Horror , Mystery & Thriller ",1h 38min,NULL,Rocky Soraya 
+1690,Jo Koy: In His Elements,5.4,Comedy ,55min,NULL,Michael McKay 
+1691,Marc Maron: End Times Fun,6.8 (1k),"Comedy , Documentary ",1h 11min,NULL,Lynn Shelton 
+1692,"Colin Quinn: Red State, Blue State",7.6,Comedy ,1h 5min,NULL,Bobby Moresco 
+1693,Colin Quinn: The New York Story,6.9,Comedy ,1h 2min,NULL,Jerry Seinfeld 
+1694,One Piece: The Desert Princess and the Pirates: Adventure in Alabasta,6.9 (1k),"Drama , Comedy , Animation , Action & Adventure ",1h 30min,PG-13,Takahiro Imamura 
+1695,Unknown Origins,6.1 (6k),"Drama , Mystery & Thriller , Comedy , Action & Adventure , Crime ",1h 36min,NULL,David Galán Galindo 
+1696,The Present,NULL,NULL,NULL,NULL,NULL
+1697,18 Presents,6.9 (3k),"Drama , Fantasy , Made in Europe ",1h 50min,NULL,Francesco Amato 
+1698,Hard Kill,3.3 (19k),"Mystery & Thriller , Action & Adventure ",1h 38min,R,Matt Eskandari 
+1699,Pegasus,6.3 (1k),"Action & Adventure , Comedy , Fantasy , Sport ",1h 38min,NULL,Han Han 
+1700,Veteran,7.0 (6k),"Comedy , Crime , Mystery & Thriller , Action & Adventure ",1h 59min,NULL,Ryoo Seung-wan 
+1701,Forensic,6.8 (4k),"Mystery & Thriller , Crime ",2h 14min,PG-13,Akhil Paul 
+1702,Forgive Us Our Trespasses,6.5,"War & Military , Drama ",13min,PG-13,Ashley Eakin 
+1703,The Tribe,5.8 (2k),"Comedy , Kids & Family , Made in Europe ",1h 30min,NULL,Fernando Colomo 
+1704,Hold Your Breath: The Ice Dive,NULL,NULL,NULL,NULL,NULL
+1705,Squared Love,5.0 (3k),"Comedy , Romance ",1h 42min,NULL,Filip Zylber 
+1706,Clair Obscur,6.5 (2k),"Drama , Made in Europe ",1h 30min,NULL,Yeşim Ustaoğlu 
+1707,Samouni Road,6.7,"Animation , Documentary , Made in Europe ",2h 9min,NULL,Stefano Savona 
+1708,Shawn Mendes: In Wonder,6.4 (2k),"Documentary , Music & Musical ",1h 23min,NULL,Grant Singer 
+1709,Jo Koy: Live from Seattle,7.2 (1k),Comedy ,1h 3min,NULL,Shannon Hartman 
+1710,Who Would You Take to a Deserted Island?,5.3 (2k),"Comedy , Drama , Made in Europe ",1h 30min,NULL,Jota Linares 
+1711,Etharkkum Thunindhavan,6.6 (11k),"Drama , Mystery & Thriller , Action & Adventure , Crime ",2h 31min,NULL,NULL
+1712,"Ram Dass, Going Home",NULL,NULL,NULL,NULL,NULL
+1713,Mucho Mucho Amor: The Legend of Walter Mercado,7.2 (3k),Documentary ,1h 36min,NULL,Cristina Costantini 
+1714,The Outcasts,5.4 (4k),Comedy ,1h 35min,PG-13,Peter Hutchings 
+1715,A Miraculous Christmas Special: Tales of Ladybug and Cat Noir,NULL,NULL,NULL,NULL,NULL
+1716,Dil Dhadakne Do,7.0 (17k),"Drama , Romance , Comedy ",2h 50min,PG-13,Zoya Akhtar 
+1717,Tune in for Love,7.1 (4k),"Drama , Romance ",2h 2min,NULL,Jung Ji-woo 
+1718,Bobbleheads: The Movie,2.3,"Animation , Kids & Family ",1h 22min,PG,Kirk Wise 
+1719,Raising the Bar,5.5 (1k),"Documentary , Drama , Kids & Family , Sport ",1h 33min,PG,Clay Glen 
+1720,Raising the Bar,5.5 (1k),"Documentary , Drama , Kids & Family , Sport ",1h 33min,PG,Clay Glen 
+1721,The Mars Generation,6.5,Documentary ,1h 37min,NULL,Michael Barnett 
+1722,"Hello, Privilege. It's Me, Chelsea",4.5 (1k),Documentary ,1h 4min,NULL,Alex Stapleton 
+1723,Thalaivii,5.9 (30k),Drama ,2h 33min,G,A. L. Vijay 
+1724,Crazy About Her,6.6 (5k),"Romance , Comedy ",1h 42min,NULL,Dani de la Orden 
+1725,"LSD: Love, Sex aur Dhokha",7.2 (5k),"Drama , Romance , Comedy , Crime ",1h 48min,PG-13,Dibakar Banerjee 
+1726,Roped,5.4 (1k),"Romance , Drama , Comedy , Kids & Family ",1h 30min,PG,Shaun Paul Piccinino 
+1727,El Camino Christmas,5.7 (8k),"Drama , Comedy , Crime , Western ",1h 37min,NULL,David E. Talbert 
+1728,Heroes: Silence and Rock & Roll,7.5,"Documentary , Music & Musical ",1h 34min,NULL,Alexis Morante 
+1729,How to Be Really Bad,6.2 (1k),"Comedy , Kids & Family , Fantasy , Romance , Made in Europe ",1h 40min,NULL,Marco Petry 
+1730,World Famous Lover,4.9 (3k),"Romance , Drama ",2h 36min,NULL,Kranthi Madhav 
+1731,Lionheart,5.6 (1k),"Comedy , Drama ",1h 35min,NULL,Genevieve Nnaji 
+1732,Money Heist: The Phenomenon,7.4 (3k),Documentary ,57min,NULL,Luis Alfaro 
+1733,Baggio: The Divine Ponytail,6.1 (4k),"Drama , Sport ",1h 31min,NULL,Letizia Lamartire 
+1734,Tim Allen: Men Are Pigs,6.0,"Comedy , Documentary ",30min,NULL,Ellen Brown 
+1735,Riphagen the Untouchable,7.1 (7k),"Mystery & Thriller , Drama , War & Military , Made in Europe ",2h 12min,NULL,Pieter Kuijpers 
+1736,Ali Wong: Baby Cobra,7.5 (6k),Comedy ,1h 0min,NULL,Jay Karas 
+1737,The Princess Switch: Switched Again,NULL,NULL,NULL,NULL,NULL
+1738,Ittefaq,7.2 (12k),"Crime , Mystery & Thriller ",1h 47min,PG,NULL
+1739,Audrie & Daisy,7.2 (6k),"Documentary , Crime ",1h 35min,NULL,Jon Shenk 
+1740,Naruto Shippuden the Movie: Bonds,6.8 (4k),"Action & Adventure , Fantasy , Animation ",1h 30min,PG-13,Hajime Kamegaki 
+1741,Ali's Wedding,6.9 (4k),"Comedy , Drama , Romance ",1h 50min,NULL,Jeffrey Walker 
+1742,Wish Upon a Unicorn,5.3,"Fantasy , Kids & Family ",1h 33min,PG,Steve Bencich 
+1743,The Four of Us,5.3,"Comedy , Romance , Drama ",1h 28min,NULL,Florian Gottschick 
+1744,Attack of the Hollywood Clichés!,NULL,NULL,NULL,NULL,NULL
+1745,Bridgerton - The Afterparty,NULL,NULL,NULL,NULL,NULL
+1746,Kuntilanak,4.6,"Horror , Kids & Family , Comedy ",1h 45min,NULL,Rizal Mantovani 
+1747,Made in China,6.2 (4k),"Comedy , Drama , Crime , Romance , Mystery & Thriller , Made in Europe ",2h 8min,PG,Mikhil Musale 
+1748,The Boys in the Band: Something Personal,7.2,Documentary ,28min,NULL,NULL
+1749,A Very Murray Christmas,5.5 (15k),"Music & Musical , Comedy ",56min,NULL,Sofia Coppola 
+1750,The Fable,6.5 (1k),"Crime , Action & Adventure , Comedy ",2h 3min,NULL,Kan Eguchi 
+1751,Eric Andre: Legalize Everything,6.1 (2k),Comedy ,52min,R,Eric Notarnicola 
+1752,Violet Evergarden: Eternity and the Auto Memories Doll,7.4 (4k),"Animation , Drama , Kids & Family , Fantasy ",1h 30min,NULL,Haruka Fujita 
+1753,Toro,5.9 (3k),"Drama , Mystery & Thriller , Action & Adventure , Crime , Made in Europe ",1h 45min,R,Kike Maíllo 
+1754,Guru,7.7 (23k),"Romance , Documentary , Drama , Made in Europe ",2h 46min,PG-13,Mani Ratnam 
+1755,A Christmas Prince: The Royal Wedding,5.3 (10k),"Comedy , Drama , Romance ",1h 32min,PG,John Schultz 
+1756,Wake Up Sid,7.6 (31k),"Drama , Romance , Comedy ",2h 18min,NULL,Ayan Mukerji 
+1757,2 States,6.9 (25k),"Romance , Comedy , Drama ",2h 29min,PG,Abhishek Varman 
+1758,Charming,5.6 (3k),"Fantasy , Animation , Comedy , Kids & Family ",1h 30min,NULL,Ross Venokur 
+1759,"Michael Bolton's Big, Sexy Valentine's Day Special",6.8 (2k),"Comedy , Music & Musical , Romance ",54min,NULL,Akiva Schaffer 
+1760,"Vengeance Is Mine, All Others Pay Cash",7.0,"Drama , Action & Adventure , Comedy , Romance ",1h 54min,NULL,Edwin 
+1761,Limitless,NULL,NULL,NULL,NULL,NULL
+1762,Steel Rain,7.1 (5k),"Mystery & Thriller , Action & Adventure , Drama ",2h 19min,NULL,Yang Woo-seok 
+1763,Take Your Pills,6.3 (5k),Documentary ,1h 27min,NULL,Alison Klayman 
+1764,A California Christmas,5.8 (9k),"Drama , Romance , Comedy ",1h 46min,PG-13,Shaun Paul Piccinino 
+1765,Judd Apatow: The Return,6.2 (1k),Comedy ,1h 9min,NULL,Marcus Raboy 
+1766,Perdida,5.6 (4k),"Crime , Mystery & Thriller , Drama ",1h 43min,R,Alejandro Montiel 
+1767,Bert Kreischer: Hey Big Boy,7.0 (1k),Comedy ,1h 2min,NULL,Jeff Tomsic 
+1768,Rock On!!,7.7 (22k),"Drama , Music & Musical ",2h 24min,NULL,Abhishek Kapoor 
+1769,A California Christmas: City Lights,5.5 (2k),"Drama , Comedy , Romance ",1h 45min,PG-13,Shaun Paul Piccinino 
+1770,Bareilly Ki Barfi,7.5 (23k),"Romance , Comedy ",2h 3min,NULL,Ashwiny Iyer Tiwari 
+1771,Your Son,6.1 (4k),"Drama , Crime , Mystery & Thriller , Action & Adventure , Made in Europe ",1h 43min,NULL,Miguel Ángel Vivas 
+1772,One,6.5 (2k),"Mystery & Thriller , Drama ",2h 31min,NULL,Santhosh Viswanath 
+1773,Child of Kamiari Month,5.9,"Kids & Family , Fantasy , Animation , Drama ",1h 39min,NULL,Takana Shirai 
+1774,Whisky,7.1 (6k),"Drama , Comedy ",1h 39min,NULL,Juan Pablo Rebella 
+1775,Wanda Sykes: Not Normal,7.2 (1k),Comedy ,1h 6min,NULL,Linda Mendoza 
+1776,Manson Family Vacation,5.8 (2k),"Drama , Mystery & Thriller , Comedy ",1h 25min,NULL,J. Davis 
+1777,Malibu Rescue,4.9 (1k),"Comedy , Action & Adventure , Kids & Family ",1h 9min,NULL,Savage Steve Holland 
+1778,Bending the Arc,8.0,Documentary ,1h 42min,NULL,Kief Davidson 
+1779,Love Aaj Kal,6.8 (16k),"Drama , Comedy , Romance ",2h 21min,PG-13,Imtiaz Ali 
+1780,Dear Ex,7.3 (6k),"Drama , Comedy , Romance ",1h 39min,NULL,Mag Hsu 
+1781,Black Beach,5.6 (1k),"Drama , Fantasy , Action & Adventure , Mystery & Thriller ",1h 55min,NULL,Esteban Crespo 
+1782,High & Low The Movie,6.4,Action & Adventure ,2h 9min,NULL,Shigeaki Kubo 
+1783,Jim Gaffigan: King Baby,7.7 (2k),"Comedy , Documentary ",1h 12min,NULL,Troy Miller 
+1784,Patria,7.2,"War & Military , Documentary , History ",1h 29min,NULL,Matías Gueilburt 
+1785,The Plagues of Breslau,5.9 (4k),"Mystery & Thriller , Action & Adventure , Crime , Made in Europe ",1h 33min,NULL,Patryk Vega 
+1786,Nayattu,8.1 (6k),"Mystery & Thriller , Crime ",2h 4min,NULL,Martin Prakkat 
+1787,The Last Forest,7.3,"Drama , Documentary ",1h 14min,NULL,Luiz Bolognesi 
+1788,Opening Night,6.0 (2k),"Comedy , Mystery & Thriller , Drama , Action & Adventure , Crime ",1h 30min,NULL,Isaac Rentz 
+1789,Joy,6.6 (1k),"Drama , Made in Europe ",1h 39min,NULL,Sudabeh Mortezai 
+1790,Heart Shot,NULL,NULL,NULL,NULL,NULL
+1791,Rory Scovel Tries Stand-Up for the First Time,6.7,"Comedy , Documentary ",1h 6min,NULL,Scott Moran 
+1792,Forgive Us Our Debts,6.2 (1k),"Drama , Made in Europe ",1h 44min,NULL,Antonio Morabito 
+1793,Security,4.9 (1k),Mystery & Thriller ,1h 58min,NULL,Peter Chelsom 
+1794,Halal Love,6.3,"Drama , Romance , Comedy , Made in Europe ",1h 35min,NULL,Assad Fouladkar 
+1795,Confessions of an Invisible Girl,5.2 (1k),"Comedy , Drama ",1h 31min,NULL,Bruno Garotti 
+1796,The Last Laugh,5.6 (5k),Comedy ,1h 38min,NULL,Greg Pritikin 
+1797,Roohi,4.3 (9k),"Comedy , Horror ",2h 14min,NULL,Hardik Mehta 
+1798,The Lighthouse of the Orcas,6.7 (3k),"Drama , Romance , Made in Europe ",1h 50min,NULL,Gerardo Olivares 
+1799,The 3rd Eye,5.1 (1k),"Horror , Mystery & Thriller , Animation , Drama , Fantasy , Made in Europe ",1h 47min,NULL,Jérôme Perrillat-Collomb 
+1800,Bleach the Movie: Hell Verse,7.4 (2k),"Fantasy , Animation , Action & Adventure ",1h 34min,PG-13,Noriyuki Abe 
+1801,4 latas,5.9 (3k),"Comedy , Drama , Made in Europe ",1h 45min,NULL,Gerardo Olivares 
+1802,Duplicate,5.5 (7k),"Comedy , Mystery & Thriller , Action & Adventure , Crime ",2h 45min,PG,Mahesh Bhatt 
+1803,Aziz Ansari: Right Now,7.5 (5k),Comedy ,1h 5min,NULL,Spike Jonze 
+1804,XOXO,5.3 (7k),"Drama , Music & Musical ",1h 32min,NULL,Christopher Louie 
+1805,God Calling,NULL,NULL,NULL,NULL,NULL
+1806,Cuba and the Cameraman,8.2 (4k),Documentary ,1h 53min,NULL,Jon Alpert 
+1807,Angamaly Diaries,7.9 (5k),"Drama , Action & Adventure , Comedy , Mystery & Thriller ",2h 12min,NULL,Lijo Jose Pellissery 
+1808,Solo,5.0 (2k),"Mystery & Thriller , Drama , Romance , Sport , Made in Europe ",1h 30min,NULL,Archie Maze Grayson 
+1809,Most Eligible Bachelor,6.1 (3k),"Drama , Romance ",2h 50min,NULL,Bhaskar 
+1810,"Berlin, Berlin",3.8,"Comedy , Drama , Romance ",1h 20min,NULL,Franziska Meyer Price 
+1811,Vicky and Her Mystery,6.4 (1k),"Drama , Made in Europe ",1h 24min,NULL,Denis Imbert 
+1812,Bibi & Tina: Perfect Pandemonium,4.0,"Fantasy , Comedy , Drama , Kids & Family , Made in Europe ",1h 50min,NULL,Detlev Buck 
+1813,The Legend of Bhagat Singh,8.1 (16k),"Drama , Action & Adventure , History ",2h 35min,NULL,Rajkumar Santoshi 
+1814,Pyaar Ka Punchnama,7.6 (21k),"Drama , Comedy , Romance , Made in Europe ",2h 29min,PG-13,Esen Işık 
+1815,Come Sunday,6.0 (2k),Drama ,1h 46min,NULL,Joshua Marston 
+1816,Stree,7.5 (33k),"Horror , Comedy ",2h 8min,NULL,Anna Zaytseva 
+1817,Monster Hunter: Legends of the Guild,NULL,NULL,NULL,NULL,NULL
+1818,Ishqiya,7.3 (10k),"Mystery & Thriller , Comedy , Drama , Romance ",1h 55min,R,Abhishek Chaubey 
+1819,Udta Punjab,7.7 (30k),"Drama , Action & Adventure , Crime ",2h 28min,R,Abhishek Chaubey 
+1820,Ludo,7.6 (37k),"Comedy , Drama , Action & Adventure , Crime ",2h 30min,PG-13,Anurag Basu 
+1821,Strong Island,6.4 (3k),"Documentary , Crime ",1h 47min,NULL,Yance Ford 
+1822,Amy Schumer: Growing,5.3 (3k),Comedy ,1h 1min,NULL,Amy Schumer 
+1823,Dany Boon: Des Hauts-De-France,6.2,"Comedy , Made in Europe ",1h 30min,NULL,Dany Boon 
+1824,Delhi Belly,7.5 (29k),"Action & Adventure , Mystery & Thriller , Comedy , Crime ",1h 42min,NULL,Abhinay Deo 
+1825,Zip & Zap and the Captain's Island,5.8,"Comedy , Science-Fiction , Kids & Family , Fantasy , Made in Europe ",1h 45min,NULL,Oskar Santos 
+1826,Jimmy Carr: The Best of Ultimate Gold Greatest Hits,7.3 (2k),Comedy ,58min,NULL,Brian Klein 
+1827,Hasee Toh Phasee,6.8 (15k),"Romance , Comedy ",2h 14min,PG-13,Vinil Mathew 
+1828,Escape the Undertaker,4.3,Horror ,31min,NULL,Ben Simms 
+1829,Killing Hasselhoff,4.4 (2k),Comedy ,1h 19min,R,Darren Grant 
+1830,Romance Doll,NULL,NULL,NULL,NULL,NULL
+1831,Superlopez,5.4 (3k),"Comedy , Action & Adventure , Science-Fiction , Made in Europe ",1h 48min,G,Javier Ruiz Caldera 
+1832,Miss Granny,7.2 (3k),"Drama , Comedy , Fantasy , Music & Musical ",2h 4min,NULL,Hwang Dong-hyuk 
+1833,Mom,7.2 (10k),"Crime , Drama , Mystery & Thriller ",2h 27min,NULL,Ravi Udyawar 
+1834,"Live Twice, Love Once",7.2 (6k),"Comedy , Drama , Made in Europe ",1h 41min,NULL,María Ripoll 
+1835,Lakshya,7.8 (23k),"Drama , Romance , War & Military , Action & Adventure ",3h 6min,G,Farhan Akhtar 
+1836,Hate by Dani Rovira,6.7,Comedy ,1h 22min,PG-13,Mario Briongos 
+1837,Only You,6.5,"Romance , Drama , Comedy ",1h 50min,NULL,Marla Ancheta 
+1838,The Motive,6.5 (5k),"Drama , Comedy , Crime , Mystery & Thriller , Made in Europe ",1h 44min,NULL,Manuel Martín Cuenca 
+1839,Kannathil Muthamittal,8.4 (8k),"Drama , War & Military , Action & Adventure ",2h 17min,NULL,Mani Ratnam 
+1840,Jab Harry Met Sejal,5.0 (20k),"Romance , Drama , Comedy ",2h 23min,PG,Imtiaz Ali 
+1841,Residue,6.5,Drama ,1h 30min,NULL,Merawi Gerima 
+1842,Fierce,NULL,NULL,NULL,NULL,NULL
+1843,Derren Brown: The Push,7.5 (3k),"Reality TV , Documentary ",1h 9min,NULL,NULL
+1844,Russell Brand: Re:Birth,6.5 (1k),Comedy ,1h 3min,NULL,Chris Howe 
+1845,Jim Jefferies: This Is Me Now,7.3 (3k),Comedy ,1h 10min,NULL,Scott Zabielski 
+1846,Memories of a Teenager,6.5,Drama ,1h 33min,NULL,Lucas Santa Ana 
+1847,Jim Gaffigan: Mr. Universe,7.7 (3k),Comedy ,1h 17min,NULL,Jay Karas 
+1848,What Would Sophia Loren Do?,NULL,NULL,NULL,NULL,NULL
+1849,Seth Meyers: Lobby Baby,7.4 (2k),Comedy ,1h 1min,NULL,Neal Brennan 
+1850,Sky Ladder: The Art of Cai Guo-Qiang,7.3 (1k),Documentary ,1h 20min,NULL,Kevin Macdonald 
+1851,Black Is Beltza,5.8,"Mystery & Thriller , Drama , Animation ",1h 28min,NULL,Fermin Muguruza 
+1852,"To Each, Her Own",5.4 (1k),"Comedy , Romance , Drama , Made in Europe ",1h 35min,NULL,Michel Leclerc 
+1853,Phir Hera Pheri,7.1 (22k),"Comedy , Crime ",2h 35min,NULL,Neeraj Vora 
+1854,Brothers,6.4 (12k),"Drama , Sport , Action & Adventure ",2h 36min,PG-13,Karan Malhotra 
+1855,Ben Platt: Live from Radio City Music Hall,NULL,NULL,NULL,NULL,NULL
+1856,Despite Everything,5.3 (4k),"Comedy , Made in Europe ",1h 15min,NULL,Gabriela Tagliavini 
+1857,Rich in Love,6.0 (2k),"Comedy , Romance , Music & Musical ",1h 44min,NULL,Bruno Garotti 
+1858,Night Drive,NULL,NULL,NULL,NULL,NULL
+1859,Twin Murders: The Silence of the White City,5.3 (5k),"Horror , Mystery & Thriller , Action & Adventure , Crime , Drama , Made in Europe ",1h 50min,NULL,Daniel Calparsoro 
+1860,Christmas with a View,5.1 (4k),"Romance , Drama ",1h 30min,NULL,Justin G. Dyck 
+1861,40 Years Young,4.3,Comedy ,1h 21min,NULL,Pietro Loprieno 
+1862,"Bikram: Yogi, Guru, Predator",6.7 (7k),"Documentary , Crime ",1h 26min,NULL,Eva Orner 
+1863,#AnneFrank. Parallel Stories,6.5 (1k),"Documentary , Drama , History ",1h 32min,NULL,Sabina Fedeli 
+1864,Chup Chup Ke,6.9 (10k),"Comedy , Drama , Romance ",2h 45min,G,Priyadarshan 
+1865,The Son,NULL,NULL,NULL,NULL,NULL
+1866,Qarib Qarib Singlle,7.1 (8k),"Drama , Comedy , Romance ",2h 5min,NULL,Tanuja Chandra 
+1867,Born in Gaza,7.4,"Documentary , Made in Europe ",1h 9min,NULL,Hernán Zin 
+1868,The Legacy of a Whitetail Deer Hunter,5.5 (3k),"Comedy , Drama ",1h 23min,NULL,Jody Hill 
+1869,Kardec,6.1 (1k),Drama ,1h 50min,NULL,Wagner de Assis 
+1870,Malaal,5.8 (1k),"Action & Adventure , Drama , Romance ",2h 16min,NULL,Mangesh Hadawale 
+1871,Grand-Daddy Day Care,4.9,"Comedy , Kids & Family ",1h 31min,PG-13,Ron Oliver 
+1872,Jaane Tu... Ya Jaane Na,7.4 (26k),"Drama , Comedy , Romance ",2h 35min,NULL,Abbas Tyrewala 
+1873,Wild Dog,6.1 (2k),"Mystery & Thriller , Crime , Action & Adventure ",2h 2min,NULL,Ahishor Solomon 
+1874,Bill Hicks: Relentless,NULL,NULL,NULL,NULL,NULL
+1875,Untold: Breaking Point,7.6 (2k),"Documentary , Sport ",1h 19min,R,Chapman Way 
+1876,Marlon Wayans: Woke-ish,6.5 (1k),"Comedy , Documentary ",1h 8min,NULL,Marcus Raboy 
+1877,So My Grandma's a Lesbian!,4.3 (1k),"Comedy , Romance , Made in Europe ",1h 34min,NULL,Ángeles Reiné 
+1878,Gabriel Iglesias: I'm Sorry for What I Said When I Was Hungry,7.4 (2k),"Comedy , Documentary ",1h 27min,PG-13,Manny Rodriguez 
+1879,Chris Tucker: Live,6.3 (1k),"Comedy , Documentary ",1h 32min,NULL,Phil Joanou 
+1880,Sam Kinison: Family Entertainment Hour,NULL,NULL,NULL,NULL,NULL
+1881,Kapoor & Sons,7.7 (25k),"Comedy , Drama , Romance , Kids & Family ",2h 20min,PG-13,Shakun Batra 
+1882,Yucatán,5.5 (2k),"Comedy , Romance , Made in Europe ",2h 10min,PG,Daniel Monzón 
+1883,Iliza Shlesinger: Elder Millennial,7.2 (4k),Comedy ,1h 12min,NULL,Steve Paley 
+1884,A Remarkable Tale,5.3 (1k),"Comedy , Drama , Made in Europe ",1h 33min,PG,Marina Seresesky 
+1885,Cinderela Pop,4.5 (1k),"Comedy , Kids & Family , Music & Musical , Romance ",1h 34min,NULL,Bruno Garotti 
+1886,Our Planet: Behind the Scenes,8.4 (1k),Documentary ,1h 3min,NULL,NULL
+1887,Deadly Switch,4.5 (1k),Mystery & Thriller ,1h 26min,NULL,Svetlana Cvetko 
+1888,Liberated: The New Sexual Revolution,6.0 (1k),Documentary ,1h 24min,NULL,Benjamin Nolot 
+1889,Untold: Caitlyn Jenner,6.4 (2k),"Documentary , Sport ",1h 9min,R,Crystal Moselle 
+1890,The George McKenna Story,6.0,Drama ,1h 40min,NULL,Eric Laneuville 
+1891,Arlo the Alligator Boy,6.4 (1k),"Kids & Family , Animation , Comedy ",1h 30min,NULL,Ryan Crego 
+1892,Lavell Crawford: Can a Brother Get Some Love?,6.9,"Comedy , Documentary ",1h 30min,NC-17,Michael Drumm 
+1893,Katt Williams: Kattpacalypse,5.5,Comedy ,1h 0min,R,Marcus Raboy 
+1894,Ronny Chieng: Asian Comedian Destroys America!,7.4 (3k),Comedy ,1h 3min,NULL,Sebastian DiNatale 
+1895,Bulletproof 2,3.5,"Comedy , Action & Adventure , Drama ",1h 37min,NULL,Don Michael Paul 
+1896,My Next Guest with David Letterman and Shah Rukh Khan,NULL,NULL,NULL,NULL,NULL
+1897,BuyBust,5.7 (1k),"Drama , Action & Adventure , Crime , Mystery & Thriller ",2h 7min,NULL,Erik Matti 
+1898,Bill Hicks: One Night Stand,NULL,NULL,NULL,NULL,NULL
+1899,Fearless,4.9 (1k),"Animation , Science-Fiction , Documentary , Comedy , Kids & Family ",1h 29min,PG,Cory Edwards 
+1900,Zoo,5.7,Drama ,1h 40min,NULL,Shlok Sharma 
+1901,First Sunday,4.5 (10k),"Comedy , Crime , Drama ",1h 36min,PG-13,David E. Talbert 
+1902,Kabhi Alvida Naa Kehna,6.0 (19k),"Romance , Drama ",3h 13min,PG,Karan Johar 
+1903,Love.com,5.8,"Romance , Comedy ",1h 32min,NULL,Anita Barbosa 
+1904,Octonauts and the Great Barrier Reef,6.6,"Animation , Action & Adventure , Comedy , Kids & Family ",47min,NULL,Blair Simmons 
+1905,The Larva Island Movie,5.1,"Animation , Comedy , Kids & Family ",1h 29min,NULL,Ahn Byoung-wook 
+1906,Christmas Wedding Planner,4.3 (5k),"Kids & Family , Romance ",1h 26min,PG,Justin G. Dyck 
+1907,Little Boxes,5.9 (1k),"Drama , Comedy ",1h 24min,NULL,Rob Meyer 
+1908,The Doll,5.2,"Mystery & Thriller , Horror ",1h 46min,NULL,Rocky Soraya 
+1909,Keith Richards: Under the Influence,7.1 (3k),"Music & Musical , Documentary ",1h 22min,PG,Morgan Neville 
+1910,Toll Booth,6.4 (4k),Drama ,1h 36min,NULL,Tolga Karaçelik 
+1911,Eerie,4.6 (2k),"Mystery & Thriller , Horror , Crime , Drama ",1h 41min,NULL,Mikhail Red 
+1912,Under the Riccione Sun,5.5 (2k),"Comedy , Drama , Romance ",1h 42min,NULL,Niccolò Celaia 
+1913,Awara Paagal Deewana,6.2 (8k),"Comedy , Action & Adventure , Crime , Drama , Mystery & Thriller ",2h 49min,NULL,Vikram Bhatt 
+1914,Kasanova,6.7,"Romance , Drama ",1h 55min,NULL,Oluseyi Asurf 
+1915,Barbie: Dolphin Magic,NULL,NULL,NULL,NULL,NULL
+1916,Unbridled,5.0,"Mystery & Thriller , Made in Europe ",1h 36min,NULL,Jota Linares 
+1917,Tiger & Bunny: The Rising,6.8,"Science-Fiction , Animation , Action & Adventure ",1h 48min,NULL,Yoshitomo Yonetani 
+1918,Chappelle's Home Team - Earthquake: Legendary,6.8,Comedy ,36min,R,Stan Lathan 
+1919,MOTHER,NULL,NULL,NULL,NULL,NULL
+1920,Double World,6.1 (4k),"Action & Adventure , Fantasy ",1h 50min,PG-13,Teddy Chan 
+1921,Don,7.1 (36k),"Mystery & Thriller , Action & Adventure , Crime , Made in Europe ",2h 58min,PG-13,Farhan Akhtar 
+1922,The Drug King,6.2 (3k),"Crime , Drama , Action & Adventure ",2h 19min,NULL,Woo Min-ho 
+1923,Mike Birbiglia: What I Should Have Said Was Nothing,7.6 (1k),Comedy ,1h 0min,NULL,Cisco Henson 
+1924,Raajneeti,7.1 (17k),"Drama , Mystery & Thriller , Crime ",2h 47min,PG,Prakash Jha 
+1925,Love Beats Rhymes,5.4 (1k),Drama ,1h 45min,R,RZA 
+1926,Naruto: Legend of the Stone of Gelel,6.4 (4k),"Fantasy , Comedy , Drama , Animation , Action & Adventure ",1h 36min,PG-13,Hirotsugu Kawasaki 
+1927,Seeing Allred,7.2 (1k),Documentary ,1h 36min,NULL,Sophie Sartain 
+1928,Monty Python Conquers America,NULL,NULL,NULL,NULL,NULL
+1929,The Bridge Curse,NULL,NULL,NULL,NULL,NULL
+1930,Holiday on Mars,2.7,"Comedy , Science-Fiction ",1h 29min,NULL,Neri Parenti 
+1931,Ghost Stories,NULL,NULL,NULL,NULL,NULL
+1932,"Ron White: If You Quit Listening, I'll Shut Up",6.5,Comedy ,1h 3min,NULL,Tom Forrest 
+1933,"The Other One: The Long, Strange Trip of Bob Weir",7.3 (1k),"Documentary , Music & Musical ",1h 25min,NULL,Mike Fleiss 
+1934,Paradise Beach,4.6 (2k),"Action & Adventure , Mystery & Thriller , Crime , Drama , Made in Europe ",1h 33min,NULL,Xavier Durringer 
+1935,Mosul,NULL,NULL,NULL,NULL,NULL
+1936,Jack Whitehall: I'm Only Joking,6.6 (1k),Comedy ,58min,NULL,Freddie Waters 
+1937,Picture a Scientist,NULL,NULL,NULL,NULL,NULL
+1938,Iliza Shlesinger: Confirmed Kills,6.6 (2k),Comedy ,1h 17min,NULL,Bobcat Goldthwait 
+1939,A Second Chance,4.7 (1k),"Drama , Kids & Family , Sport ",1h 30min,NULL,Clay Glen 
+1940,The Suit,5.4 (1k),"Action & Adventure , Comedy , Kids & Family , Drama ",1h 36min,NULL,Mohamed Gamal Al Adl 
+1941,Bhavesh Joshi Superhero,7.6 (8k),"Drama , Action & Adventure , Crime ",2h 35min,NULL,Vikramaditya Motwane 
+1942,Jeff Dunham: Beside Himself,6.8 (1k),Comedy ,58min,NULL,Troy Miller 
+1943,The 2nd,3.8 (8k),"Action & Adventure , Drama ",1h 33min,NULL,Brian Skiba 
+1944,Rising Phoenix,8.1 (1k),"Documentary , Sport ",1h 45min,PG-13,Ian Bonhôte 
+1945,A Life of Speed: The Juan Manuel Fangio Story,6.9 (1k),"Documentary , Sport ",1h 32min,NULL,Francisco Macri 
+1946,Xtreme,5.8 (4k),"Mystery & Thriller , Fantasy , Action & Adventure , Crime , Drama ",1h 51min,NULL,Daniel Benmayor 
+1947,Battle,5.9 (4k),"Romance , Drama , Music & Musical , Made in Europe ",1h 35min,R,Katarina Launing 
+1948,Fuga,6.2 (1k),"Drama , Music & Musical , Mystery & Thriller ",1h 50min,NULL,Pablo Larraín 
+1949,Secret Superstar,7.8 (24k),"Drama , Music & Musical ",2h 30min,NULL,NULL
+1950,Retablo,7.5 (1k),Drama ,1h 35min,NULL,Alvaro Delgado Aparicio 
+1951,Resurface,7.1,"Documentary , Sport , War & Military ",27min,NULL,Wynn Padula 
+1952,Welcome,6.9 (22k),"Romance , Crime , Drama , Comedy ",2h 40min,NULL,Anees Bazmee 
+1953,Wonder Boy,NULL,NULL,NULL,NULL,NULL
+1954,Divines,7.4 (9k),"Drama , Crime , Made in Europe ",1h 45min,NULL,Houda Benyamina 
+1955,Saaho,5.0 (19k),"Mystery & Thriller , Action & Adventure , Crime , Drama , Romance ",2h 51min,R,Sujeeth 
+1956,Get the Goat,6.0 (1k),"Comedy , Crime , Action & Adventure ",1h 37min,NULL,Vitor Brandt 
+1957,Luck by Chance,7.1 (10k),"Romance , Drama ",2h 35min,NULL,Zoya Akhtar 
+1958,Laabam,3.4,"Drama , Action & Adventure ",2h 24min,NULL,S. P. Jananathan 
+1959,Panipat,5.2 (5k),"History , War & Military , Romance , Action & Adventure , Drama ",2h 51min,NULL,Ashutosh Gowariker 
