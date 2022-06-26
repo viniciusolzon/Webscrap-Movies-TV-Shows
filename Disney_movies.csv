@@ -1,0 +1,1143 @@
+,Movie title,IMDB rating,Genre,Runtime,Age rating,Director
+0,Doctor Strange in the Multiverse of Madness,7.3 (220k),"Action & Adventure , Fantasy , Horror , Science-Fiction ",2h 7min,PG-13,Sam Raimi 
+1,Chip 'n Dale: Rescue Rangers,7.0 (29k),"Animation , Crime , Comedy , Kids & Family , Action & Adventure , Fantasy ",1h 37min,PG,Akiva Schaffer 
+2,Willow,7.2 (111k),"Fantasy , Romance , Action & Adventure , Drama ",2h 5min,PG,Ron Howard 
+3,Free Guy,7.1 (345k),"Science-Fiction , Comedy , Fantasy , Action & Adventure ",1h 54min,PG-13,Shawn Levy 
+4,Pirates of the Caribbean: The Curse of the Black Pearl,8.1 (1m),"Fantasy , Action & Adventure ",2h 17min,PG-13,Gore Verbinski 
+5,The Sandlot,7.8 (89k),"Comedy , Drama , Kids & Family , Sport ",1h 41min,PG,David Mickey Evans 
+6,The Princess Bride,8.0 (421k),"Fantasy , Romance , Kids & Family ",1h 39min,PG,Rob Reiner 
+7,Avatar,7.8 (1m),"Fantasy , Action & Adventure , Science-Fiction ",2h 46min,PG-13,James Cameron 
+8,Hidden Figures,7.8 (224k),"Drama , History ",2h 7min,PG,Theodore Melfi 
+9,Who Framed Roger Rabbit,7.7 (197k),"Fantasy , Animation , Comedy , Crime , Kids & Family ",1h 44min,PG,Robert Zemeckis 
+10,West Side Story,7.2 (74k),"Crime , Romance , Drama ",2h 37min,PG-13,Steven Spielberg 
+11,The Greatest Showman,7.5 (273k),Drama ,1h 45min,PG,Michael Gracey 
+12,Fantastic Mr. Fox,7.9 (225k),"Comedy , Kids & Family , Animation , Crime , Drama ",1h 27min,PG,Wes Anderson 
+13,10 Things I Hate About You,7.3 (331k),"Romance , Comedy , Drama ",1h 37min,PG-13,Gil Junger 
+14,Edward Scissorhands,7.9 (480k),"Fantasy , Drama , Romance ",1h 41min,PG-13,Tim Burton 
+15,Doctor Strange,7.5 (714k),"Science-Fiction , Action & Adventure , Fantasy ",2h 10min,PG-13,Scott Derrickson 
+16,We Feed People,7.5,Documentary ,1h 29min,NULL,Ron Howard 
+17,The Greatest Game Ever Played,7.4 (30k),"Drama , Sport , History ",2h 0min,PG,Bill Paxton 
+18,Turning Red,7.0 (101k),"Comedy , Fantasy , Kids & Family , Animation ",1h 40min,PG,Domee Shi 
+19,National Treasure,6.9 (326k),"Mystery & Thriller , Action & Adventure , Western , Kids & Family ",2h 11min,PG,Jon Turteltaub 
+20,The Sound of Music,8.1 (227k),"Romance , Drama , Kids & Family ",2h 47min,G,Robert Wise 
+21,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)",8.0 (10k),"History , Documentary , Music & Musical ",1h 57min,PG-13,Questlove 
+22,Eternals,6.3 (313k),"Science-Fiction , Fantasy , Drama , Action & Adventure ",2h 36min,PG-13,Chloé Zhao 
+23,Star Wars,8.6 (1m),"Action & Adventure , Fantasy , Science-Fiction ",2h 1min,PG,George Lucas 
+24,Free Solo,8.1 (65k),"Documentary , Action & Adventure , Sport ",1h 40min,PG-13,Jimmy Chin 
+25,The Rescue,8.4 (9k),"Documentary , Action & Adventure , Mystery & Thriller , Drama ",1h 47min,PG,Jimmy Chin 
+26,Encanto,7.2 (202k),"Animation , Comedy , Kids & Family , Fantasy , Drama ",1h 42min,PG,Byron Howard 
+27,Beyond Infinity: Buzz and the Journey to Lightyear,NULL,NULL,NULL,NULL,NULL
+28,TRON: Legacy,6.8 (332k),"Science-Fiction , Action & Adventure , Fantasy , Made in Europe ",2h 6min,PG,Joseph Kosinski 
+29,Isle of Dogs,7.8 (164k),"Action & Adventure , Comedy , Animation , Fantasy , Drama , Science-Fiction , Made in Europe ",1h 41min,PG-13,Wes Anderson 
+30,Shang-Chi and the Legend of the Ten Rings,7.5 (324k),"Action & Adventure , Fantasy , Documentary , Science-Fiction , Comedy ",2h 13min,PG-13,Destin Daniel Cretton 
+31,Guardians of the Galaxy,8.0 (1m),"Science-Fiction , Action & Adventure , Comedy ",2h 1min,PG-13,James Gunn 
+32,Night at the Museum,6.4 (340k),"Comedy , Fantasy , Kids & Family ",1h 48min,PG,Shawn Levy 
+33,Adventures in Babysitting,6.9 (43k),"Comedy , Crime , Romance ",1h 42min,PG-13,Chris Columbus 
+34,Black Widow,6.7 (336k),"Science-Fiction , Action & Adventure ",2h 13min,PG-13,Cate Shortland 
+35,Holes,7.0 (87k),"Drama , Comedy , Kids & Family ",1h 57min,PG,Andrew Davis 
+36,Jungle Cruise,6.6 (179k),"Fantasy , Comedy , Kids & Family , Action & Adventure ",2h 7min,PG-13,Jaume Collet-Serra 
+37,Pirates of the Caribbean: Dead Man's Chest,7.3 (704k),"Fantasy , Action & Adventure ",2h 24min,PG-13,Gore Verbinski 
+38,Percy Jackson & the Olympians: The Lightning Thief,5.8 (187k),"Fantasy , Kids & Family ",1h 58min,PG,Chris Columbus 
+39,Rookie of the Year,6.0 (28k),"Comedy , Fantasy , Sport , Kids & Family ",1h 43min,PG,Daniel Stern 
+40,Ron's Gone Wrong,7.0 (31k),"Kids & Family , Comedy , Animation , Science-Fiction ",1h 46min,PG,Sarah Smith 
+41,Thor: Ragnarok,7.9 (707k),"Science-Fiction , Comedy , Fantasy , Action & Adventure ",2h 11min,PG-13,Taika Waititi 
+42,Remember the Titans,7.8 (212k),"Drama , Sport ",1h 59min,PG,Boaz Yakin 
+43,Hamilton,8.4 (83k),"Drama , Music & Musical , History ",2h 40min,PG-13,Thomas Kail 
+44,X-Men,7.4 (598k),"Action & Adventure , Science-Fiction , Made in Europe ",1h 44min,PG-13,Bryan Singer 
+45,Zootopia,8.0 (474k),"Comedy , Crime , Animation , Action & Adventure , Kids & Family ",1h 48min,PG,Byron Howard 
+46,The Parent Trap,6.6 (134k),"Comedy , Kids & Family , Romance , Drama ",2h 8min,PG,Nancy Meyers 
+47,Into the Woods,5.9 (140k),"Fantasy , Comedy , Drama ",2h 4min,PG,Rob Marshall 
+48,Homeward Bound: The Incredible Journey,6.9 (46k),"Drama , Kids & Family , Comedy ",1h 24min,G,Duwayne Dunham 
+49,Pirates of the Caribbean: Dead Men Tell No Tales,6.5 (302k),"Fantasy , Action & Adventure ",2h 33min,PG-13,Espen Sandberg 
+50,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",6.9 (392k),"Action & Adventure , Kids & Family , Fantasy , Documentary ",2h 21min,PG,Andrew Adamson 
+51,WALL·E,8.4 (1m),"Science-Fiction , Animation , Kids & Family , Fantasy , Romance ",1h 44min,G,Andrew Stanton 
+52,Pirates of the Caribbean: On Stranger Tides,6.6 (518k),"Fantasy , Action & Adventure ",2h 21min,PG-13,Rob Marshall 
+53,Return to Oz,6.7 (27k),"Fantasy , Horror , Kids & Family ",1h 49min,PG,Walter Murch 
+54,The Princess Diaries,6.3 (142k),"Comedy , Romance , Kids & Family ",1h 55min,G,Garry Marshall 
+55,Flight of the Navigator,6.9 (47k),"Science-Fiction , Comedy , Kids & Family ",1h 30min,PG,Randal Kleiser 
+56,Heavyweights,6.6 (27k),"Comedy , Drama , Kids & Family , Sport ",1h 37min,PG,Steven Brill 
+57,Inside Out,8.2 (692k),"Comedy , Drama , Kids & Family , Fantasy , Science-Fiction , Animation ",1h 35min,PG,Pete Docter 
+58,The Straight Story,8.0 (89k),Drama ,1h 52min,G,David Lynch 
+59,Hollywood Stargirl,5.6,"Romance , Comedy , Drama , Kids & Family ",1h 45min,PG,Julia Hart 
+60,Avengers: Endgame,8.4 (1m),"Science-Fiction , Drama , Fantasy , Action & Adventure ",3h 2min,PG-13,Anthony Russo 
+61,Alice in Wonderland,6.4 (409k),"Fantasy , Kids & Family ",1h 50min,PG,Tim Burton 
+62,Rise,NULL,NULL,NULL,NULL,NULL
+63,Cruella,7.3 (223k),"Crime , Action & Adventure , Comedy , Drama ",2h 14min,PG-13,Craig Gillespie 
+64,Iron Man,7.9 (1m),"Science-Fiction , Action & Adventure ",2h 6min,PG-13,Jon Favreau 
+65,The Rocketeer,6.5 (57k),"Science-Fiction , Action & Adventure , Kids & Family ",1h 48min,PG,Joe Johnston 
+66,While You Were Sleeping,6.7 (101k),"Romance , Comedy , Drama ",1h 43min,PG,Jon Turteltaub 
+67,Splash,6.3 (76k),"Romance , Fantasy , Comedy ",1h 51min,PG,Ron Howard 
+68,Star Wars: Episode I - The Phantom Menace,6.5 (787k),"Science-Fiction , Action & Adventure , Fantasy ",2h 16min,PG,George Lucas 
+69,Miss Peregrine's Home for Peculiar Children,6.7 (169k),"Fantasy , Kids & Family , Mystery & Thriller , Drama , Made in Europe ",2h 7min,PG-13,Tim Burton 
+70,Fantastic Four,4.3 (164k),"Science-Fiction , Action & Adventure , Drama ",1h 40min,PG-13,Simon Kinberg 
+71,Dark Phoenix,5.7 (176k),"Science-Fiction , Action & Adventure ",1h 54min,PG-13,Simon Kinberg 
+72,"Honey, I Shrunk the Kids",6.4 (152k),"Science-Fiction , Comedy , Kids & Family ",1h 33min,PG,Joe Johnston 
+73,Toy Story,8.3 (969k),"Comedy , Animation , Kids & Family , Fantasy ",1h 17min,G,John Lasseter 
+74,Enchanted,7.1 (195k),"Fantasy , Romance , Animation , Comedy , Kids & Family ",1h 47min,PG,Kevin Lima 
+75,Tron,6.7 (120k),"Science-Fiction , Action & Adventure ",1h 36min,PG,Steven Lisberger 
+76,Never Been Kissed,6.0 (90k),"Romance , Drama , Comedy ",1h 47min,PG-13,Raja Gosnell 
+77,Home Alone,7.7 (553k),"Comedy , Kids & Family ",1h 43min,PG,Chris Columbus 
+78,Thor,7.0 (823k),"Fantasy , Action & Adventure , Science-Fiction ",1h 54min,PG-13,Kenneth Branagh 
+79,Pirates of the Caribbean: At World's End,7.1 (639k),"Fantasy , Action & Adventure ",2h 41min,PG-13,Gore Verbinski 
+80,Treasure Planet,7.1 (115k),"Fantasy , Science-Fiction , Animation , Kids & Family ",1h 35min,PG,John Musker 
+81,The Fault in Our Stars,7.7 (370k),"Romance , Drama ",2h 6min,PG-13,Josh Boone 
+82,Rogue One: A Star Wars Story,7.8 (611k),"Action & Adventure , Science-Fiction ",2h 13min,PG-13,Gareth Edwards 
+83,Fantastic Four,5.7 (327k),"Science-Fiction , Action & Adventure , Fantasy , Kids & Family ",1h 46min,PG-13,Tim Story 
+84,Ice Age,7.5 (475k),"Comedy , Kids & Family , Fantasy , Animation ",1h 21min,PG,Chris Wedge 
+85,Ratatouille,8.1 (709k),"Fantasy , Drama , Animation , Comedy , Kids & Family ",1h 51min,G,Brad Bird 
+86,Sky High,6.3 (86k),"Comedy , Kids & Family , Science-Fiction , Action & Adventure ",1h 39min,PG,Mike Mitchell 
+87,Avengers: Infinity War,8.4 (1m),"Science-Fiction , Action & Adventure , Fantasy ",2h 29min,PG-13,Anthony Russo 
+88,Captain Marvel,6.8 (521k),"Science-Fiction , Action & Adventure ",2h 4min,PG-13,Anna Boden 
+89,John Carter,6.6 (269k),"Science-Fiction , Action & Adventure , Made in Europe ",2h 12min,PG-13,Andrew Stanton 
+90,X-Men: First Class,7.7 (682k),"Action & Adventure , Science-Fiction ",2h 11min,PG-13,Matthew Vaughn 
+91,Moana,7.6 (319k),"Comedy , Kids & Family , Fantasy , Animation ",1h 47min,PG,Ron Clements 
+92,X-Men: Days of Future Past,7.9 (701k),"Fantasy , Action & Adventure , Science-Fiction , Mystery & Thriller ",2h 29min,PG-13,Bryan Singer 
+93,Guardians of the Galaxy Vol. 2,7.6 (656k),"Action & Adventure , Science-Fiction , Comedy ",2h 16min,PG-13,James Gunn 
+94,Sister Act,6.4 (97k),"Comedy , Kids & Family , Music & Musical , Crime ",1h 40min,PG,Emile Ardolino 
+95,The Avengers,8.0 (1m),"Action & Adventure , Science-Fiction ",2h 22min,PG-13,Joss Whedon 
+96,Soul,8.0 (312k),"Fantasy , Kids & Family , Music & Musical , Science-Fiction , Animation , Comedy , Drama ",1h 40min,PG,Pete Docter 
+97,Freaky Friday,6.3 (136k),"Fantasy , Music & Musical , Romance , Comedy , Kids & Family ",1h 33min,PG,Mark Waters 
+98,National Treasure: Book of Secrets,6.5 (234k),"Mystery & Thriller , Kids & Family , Action & Adventure ",1h 53min,PG,Jon Turteltaub 
+99,Black Panther,7.3 (707k),"Science-Fiction , Action & Adventure ",2h 14min,PG-13,Ryan Coogler 
+100,The Emperor's New Groove,7.4 (199k),"Comedy , Fantasy , Animation , Kids & Family ",1h 18min,G,Mark Dindal 
+101,The Incredibles,8.0 (715k),"Kids & Family , Action & Adventure , Animation ",1h 55min,PG,Brad Bird 
+102,Doctor Dolittle,5.4 (96k),"Fantasy , Comedy , Kids & Family ",1h 25min,PG-13,Betty Thomas 
+103,James and the Giant Peach,6.7 (66k),"Fantasy , Animation , Kids & Family ",1h 19min,PG,Henry Selick 
+104,Up,8.3 (1m),"Comedy , Kids & Family , Animation , Drama ",1h 32min,PG,Pete Docter 
+105,Star Wars: The Rise of Skywalker,6.5 (434k),"Science-Fiction , Drama , Fantasy , Action & Adventure , Made in Europe ",2h 22min,PG-13,J.J. Abrams 
+106,Luca,7.5 (138k),"Fantasy , Comedy , Kids & Family , Animation ",2h 39min,PG,Enrico Casarosa 
+107,Star Wars: The Clone Wars,5.9 (65k),"Action & Adventure , Science-Fiction , Animation , Kids & Family , Fantasy ",1h 38min,PG,Dave Filoni 
+108,Solo: A Star Wars Story,6.9 (325k),"Action & Adventure , Science-Fiction , Fantasy ",2h 15min,PG-13,Ron Howard 
+109,We Bought a Zoo,7.1 (142k),"Drama , Comedy , Kids & Family ",2h 4min,PG,Cameron Crowe 
+110,Big Hero 6,7.8 (450k),"Kids & Family , Animation , Action & Adventure , Comedy , Science-Fiction , Drama ",1h 42min,PG,Don Hall 
+111,Mary Poppins,7.8 (170k),"Fantasy , Comedy , Kids & Family ",2h 19min,G,Robert Stevenson 
+112,The Empire Strikes Back,8.7 (1m),"Science-Fiction , Action & Adventure , Fantasy ",2h 4min,PG,Irvin Kershner 
+113,The Muppet Movie,7.6 (35k),"Comedy , Kids & Family ",1h 37min,G,James Frawley 
+114,Captain America: The First Avenger,6.9 (824k),"Science-Fiction , Action & Adventure ",2h 4min,PG-13,Joe Johnston 
+115,Dan in Real Life,6.8 (102k),"Comedy , Drama , Romance ",1h 38min,PG-13,Peter Hedges 
+116,Oklahoma!,7.0 (12k),"Western , Romance , Comedy , Drama ",2h 28min,G,Fred Zinnemann 
+117,X-Men Origins: Wolverine,6.5 (497k),"Mystery & Thriller , Action & Adventure , Science-Fiction ",2h 0min,PG-13,Gavin Hood 
+118,George of the Jungle,5.5 (77k),"Comedy , Romance , Kids & Family , Action & Adventure ",1h 33min,PG,Sam Weisman 
+119,Star Wars: Episode III - Revenge of the Sith,7.6 (771k),"Science-Fiction , Fantasy , Action & Adventure ",2h 23min,PG-13,George Lucas 
+120,Miracle,7.4 (54k),"Drama , History , Sport , Made in Europe ",2h 15min,PG,Gavin O'Connor 
+121,A Bug's Life,7.2 (283k),"Comedy , Animation , Kids & Family , Fantasy ",1h 35min,G,John Lasseter 
+122,Coco,8.4 (482k),"Comedy , Drama , Kids & Family , Fantasy , Music & Musical , Animation , Made in Europe ",1h 49min,PG,Lee Unkrich 
+123,Wreck-It Ralph,7.7 (414k),"Comedy , Kids & Family , Fantasy , Science-Fiction , Animation ",1h 41min,PG,Rich Moore 
+124,Christopher Robin,7.2 (76k),"Fantasy , Animation , Comedy , Drama , Kids & Family ",1h 40min,PG,Marc Forster 
+125,Atlantis: The Lost Empire,6.9 (116k),"Science-Fiction , Kids & Family , Fantasy , Animation , Action & Adventure ",1h 35min,PG,Kirk Wise 
+126,A Fan's Guide to Ms. Marvel,NULL,NULL,NULL,NULL,NULL
+127,Thor: The Dark World,6.8 (662k),"Action & Adventure , Fantasy , Science-Fiction ",1h 52min,PG-13,Alan Taylor 
+128,Toy Story 4,7.7 (233k),"Drama , Documentary , Comedy , Kids & Family , Fantasy , Animation ",1h 40min,G,Josh Cooley 
+129,Cheaper by the Dozen,5.9 (101k),"Comedy , Kids & Family ",1h 38min,PG,Shawn Levy 
+130,Mr. Holland's Opus,7.3 (38k),"Drama , Music & Musical ",2h 17min,PG,Stephen Herek 
+131,Star Wars: Episode II - Attack of the Clones,6.6 (695k),"Science-Fiction , Action & Adventure , Fantasy ",2h 12min,PG,George Lucas 
+132,The Nightmare Before Christmas,7.9 (328k),"Fantasy , Animation , Kids & Family ",1h 16min,PG,Henry Selick 
+133,Secretariat,7.2 (28k),"Drama , Documentary , Kids & Family , History , Sport ",2h 2min,PG,Randall Wallace 
+134,3 Men and a Baby,6.1 (53k),"Comedy , Kids & Family , Drama ",1h 42min,PG,Leonard Nimoy 
+135,Cool Runnings,7.0 (102k),"Comedy , Kids & Family , History , Sport , Made in Europe ",1h 34min,PG,Jon Turteltaub 
+136,Lilo & Stitch,7.3 (186k),"Animation , Kids & Family , Fantasy , Science-Fiction , Comedy , Drama ",1h 21min,PG,Chris Sanders 
+137,Finding Nemo,8.1 (1m),"Animation , Kids & Family , Comedy ",1h 40min,G,Andrew Stanton 
+138,Aladdin,6.9 (259k),"Fantasy , Action & Adventure , Romance , Comedy , Kids & Family , Drama ",2h 8min,PG,Guy Ritchie 
+139,Return of the Jedi,8.3 (1m),"Science-Fiction , Fantasy , Action & Adventure ",2h 15min,PG,Richard Marquand 
+140,The Rookie,6.9 (34k),"Drama , Kids & Family , Sport ",2h 7min,G,John Lee Hancock 
+141,The Black Hole,5.9 (25k),"Science-Fiction , Action & Adventure ",1h 38min,PG,Gary Nelson 
+142,The Three Musketeers,NULL,NULL,NULL,NULL,NULL
+143,X-Men: Apocalypse,6.9 (419k),"Fantasy , Science-Fiction , Action & Adventure ",2h 27min,PG-13,Bryan Singer 
+144,Better Nate Than Ever,6.2 (2k),"Comedy , Drama , Kids & Family ",1h 32min,PG,Tim Federle 
+145,The Finest Hours,6.7 (66k),"Mystery & Thriller , Action & Adventure , Drama , History ",1h 57min,PG-13,Craig Gillespie 
+146,Night at the Museum: Battle of the Smithsonian,6.0 (193k),"Comedy , Fantasy , Kids & Family ",1h 41min,PG,Shawn Levy 
+147,The Simpsons Movie,7.3 (326k),"Comedy , Made in Europe , Animation ",1h 27min,PG-13,David Silverman 
+148,"Monsters, Inc.",8.1 (888k),"Comedy , Animation , Kids & Family , Fantasy ",1h 32min,G,Pete Docter 
+149,The Book of Life,7.2 (70k),"Fantasy , Romance , Animation , Comedy , Kids & Family ",1h 35min,PG,Jorge R. Gutierrez 
+150,Alvin and the Chipmunks,5.2 (84k),"Fantasy , Kids & Family , Music & Musical , Animation , Comedy , Drama ",1h 25min,PG,Tim Hill 
+151,Star Wars: The Force Awakens,7.8 (913k),"Science-Fiction , Fantasy , Action & Adventure ",2h 16min,PG-13,J.J. Abrams 
+152,Frozen,7.4 (613k),"Fantasy , Animation , Comedy , Kids & Family ",1h 48min,PG,Jennifer Lee 
+153,The Muppets,7.1 (91k),"Comedy , Kids & Family ",1h 50min,PG,James Bobin 
+154,X2,7.4 (542k),"Science-Fiction , Mystery & Thriller , Action & Adventure ",2h 13min,PG-13,Bryan Singer 
+155,Red Tails,5.9 (35k),"Drama , War & Military , Action & Adventure , History ",2h 5min,PG-13,Anthony Hemingway 
+156,Raya and the Last Dragon,7.3 (135k),"Animation , Fantasy , Action & Adventure , Comedy , Drama , Kids & Family ",1h 47min,PG,Don Hall 
+157,Incredibles 2,7.6 (287k),"Animation , Action & Adventure , Comedy , Kids & Family , Science-Fiction ",1h 58min,PG,Brad Bird 
+158,Big Shot,NULL,NULL,NULL,NULL,NULL
+159,The Mighty Ducks,6.5 (65k),"Drama , Comedy , Kids & Family , Sport ",1h 41min,PG,Stephen Herek 
+160,Newsies,6.9 (20k),"Drama , Kids & Family , History ",2h 1min,PG,Kenny Ortega 
+161,"Hello, Dolly!",7.0 (15k),"Romance , Comedy ",2h 28min,G,Gene Kelly 
+162,Alice in Wonderland,7.4 (139k),"Action & Adventure , Animation , Kids & Family , Fantasy , Comedy ",1h 15min,G,Clyde Geronimi 
+163,The Lion King,8.5 (1m),"Drama , Kids & Family , Animation ",1h 29min,G,Roger Allers 
+164,Cars,7.2 (409k),"Animation , Kids & Family , Sport , Comedy ",1h 57min,G,John Lasseter 
+165,Diary of a Wimpy Kid,6.2 (49k),"Comedy , Drama , Kids & Family , Animation ",1h 32min,PG,Thor Freudenthal 
+166,Cheaper by the Dozen,4.3 (5k),"Comedy , Kids & Family , Romance ",1h 47min,PG,Gail Lerner 
+167,High School Musical,5.4 (87k),"Comedy , Drama , Romance , Kids & Family , Music & Musical ",1h 38min,G,Kenny Ortega 
+168,Saving Mr. Banks,7.5 (160k),"Drama , Comedy , Music & Musical ",2h 5min,PG-13,John Lee Hancock 
+169,Star Wars: The Last Jedi,6.9 (616k),"Science-Fiction , Action & Adventure , Fantasy ",2h 32min,PG-13,Rian Johnson 
+170,Ralph Breaks the Internet,7.0 (151k),"Comedy , Mystery & Thriller , Drama , Kids & Family , Fantasy , Science-Fiction , Animation ",1h 52min,PG,Rich Moore 
+171,The Kid Who Would Be King,6.1 (16k),"Fantasy , Kids & Family , Action & Adventure ",2h 0min,PG,Joe Cornish 
+172,The Jungle Book,7.4 (271k),"Drama , Kids & Family , Fantasy , Comedy , Animation , Action & Adventure ",1h 45min,PG,Jon Favreau 
+173,"20,000 Leagues Under the Sea",7.2 (33k),"Science-Fiction , Fantasy , Drama , Kids & Family ",2h 7min,G,Richard Fleischer 
+174,Ant-Man,7.3 (646k),"Science-Fiction , Crime , Action & Adventure , Comedy ",1h 57min,PG-13,Peyton Reed 
+175,The Ice Age Adventures of Buck Wild,4.3 (12k),"Animation , Action & Adventure , Fantasy , Comedy , Kids & Family , Drama ",1h 22min,PG,John C. Donkin 
+176,Muppet Treasure Island,6.9 (24k),"Comedy , Romance , Action & Adventure , Kids & Family ",1h 40min,G,Brian Henson 
+177,"McFarland, USA",7.4 (38k),"Kids & Family , Drama , Sport ",2h 8min,PG,Niki Caro 
+178,Because of Winn-Dixie,6.3 (11k),"Drama , Comedy , Kids & Family ",1h 46min,PG,Wayne Wang 
+179,Wild Hearts Can't Be Broken,7.1 (5k),"Drama , Kids & Family , Romance ",1h 28min,G,Steve Miner 
+180,Meet the Robinsons,6.8 (98k),"Animation , Comedy , Kids & Family , Music & Musical , Science-Fiction , Fantasy , Drama ",1h 35min,G,Stephen J. Anderson 
+181,Iron Man 2,6.9 (797k),"Science-Fiction , Action & Adventure , Made in Europe ",2h 5min,PG-13,Jon Favreau 
+182,Big Business,6.4 (14k),Comedy ,1h 37min,PG,Jim Abrahams 
+183,X-Men: The Last Stand,6.6 (509k),"Science-Fiction , Mystery & Thriller , Documentary , Action & Adventure ",1h 44min,PG-13,Brett Ratner 
+184,The Lion King,6.8 (239k),"Animation , Drama , Kids & Family , Comedy ",1h 58min,PG,Jon Favreau 
+185,Bedtime Stories,6.0 (94k),"Fantasy , Comedy , Kids & Family , Romance , Science-Fiction ",1h 39min,PG,Adam Shankman 
+186,Annie,NULL,NULL,NULL,NULL,NULL
+187,Marvel One-Shot: Agent Carter,NULL,NULL,NULL,NULL,NULL
+188,Prince of Persia: The Sands of Time,6.6 (287k),"Fantasy , Science-Fiction , Action & Adventure ",1h 51min,PG-13,Mike Newell 
+189,Iron Man 3,7.1 (830k),"Science-Fiction , Action & Adventure ",2h 20min,PG-13,Shane Black 
+190,Flubber,5.3 (89k),"Science-Fiction , Kids & Family , Comedy ",1h 33min,PG,Les Mayfield 
+191,Alice Through the Looking Glass,NULL,NULL,NULL,NULL,NULL
+192,Captain America: Civil War,7.8 (760k),"Science-Fiction , Action & Adventure ",2h 26min,PG-13,Anthony Russo 
+193,Toy Story 2,7.9 (569k),"Animation , Comedy , Kids & Family , Fantasy ",1h 32min,G,John Lasseter 
+194,Toy Story 3,8.3 (818k),"Kids & Family , Comedy , Animation , Fantasy ",1h 26min,G,Lee Unkrich 
+195,Gnomeo & Juliet,5.9 (54k),"Animation , Comedy , Kids & Family , Fantasy , Romance ",1h 21min,G,Kelly Asbury 
+196,The Making of Moon Knight,NULL,NULL,NULL,NULL,NULL
+197,The Black Cauldron,6.3 (35k),"Animation , Fantasy , Horror , Action & Adventure , Kids & Family ",1h 20min,PG,Ted Berman 
+198,Maleficent: Mistress of Evil,6.6 (99k),"Fantasy , Kids & Family ",1h 58min,PG,Joachim Rønning 
+199,Onward,7.4 (143k),"Comedy , Animation , Fantasy , Drama , Kids & Family ",1h 42min,PG,Dan Scanlon 
+200,Ant-Man and the Wasp,7.0 (383k),"Science-Fiction , Comedy , Action & Adventure ",1h 58min,PG-13,Peyton Reed 
+201,The Last Song,5.9 (87k),"Romance , Drama , Music & Musical ",1h 47min,PG,Julie Anne Robinson 
+202,Avengers: Age of Ultron,7.3 (838k),"Science-Fiction , Action & Adventure ",2h 21min,PG-13,Joss Whedon 
+203,Night at the Museum: Secret of the Tomb,6.2 (120k),"Fantasy , Comedy , Kids & Family ",1h 37min,PG,Shawn Levy 
+204,Garfield,5.0 (85k),"Comedy , Animation , Kids & Family , Fantasy ",1h 16min,PG,Peter Hewitt 
+205,Brave,7.1 (404k),"Fantasy , Animation , Comedy , Kids & Family ",1h 30min,PG,Brenda Chapman 
+206,Hubble's Cosmic Journey,8.1,Documentary ,44min,NULL,Christopher Riley 
+207,Captain America: The Winter Soldier,7.8 (821k),"Science-Fiction , Action & Adventure , Mystery & Thriller ",2h 16min,PG-13,Anthony Russo 
+208,Confessions of a Shopaholic,5.8 (78k),"Comedy , Romance ",1h 44min,PG,P.J. Hogan 
+209,A Goofy Movie,6.9 (53k),"Comedy , Animation , Kids & Family , Romance ",1h 17min,G,Kevin Lima 
+210,Ferdinand,6.7 (56k),"Animation , Comedy , Drama , Kids & Family , Fantasy ",1h 48min,PG,Carlos Saldanha 
+211,Tangled,7.7 (442k),"Animation , Romance , Comedy , Kids & Family , Fantasy ",1h 40min,PG,Byron Howard 
+212,Invincible,7.0 (70k),"Drama , Sport ",1h 44min,PG,Ericson Core 
+213,Mulan,5.7 (141k),"Fantasy , Drama , Action & Adventure , Kids & Family ",1h 55min,PG-13,Niki Caro 
+214,Kings Ransom,NULL,NULL,NULL,NULL,NULL
+215,Eragon,5.1 (126k),"Fantasy , Action & Adventure , Kids & Family ",1h 44min,PG,Stefen Fangmeier 
+216,Peter Pan,7.3 (137k),"Fantasy , Animation , Kids & Family ",1h 17min,G,Wilfred Jackson 
+217,Team Thor,NULL,NULL,NULL,NULL,NULL
+218,Camp Nowhere,6.0 (9k),"Drama , Comedy , Kids & Family ",1h 36min,PG,Jonathan Prince 
+219,Blank Check,5.2 (20k),"Comedy , Kids & Family , Crime ",1h 33min,PG,Rupert Wainwright 
+220,Torn,NULL,NULL,NULL,NULL,NULL
+221,Sneakerella,4.5 (1k),"Comedy , Kids & Family ",1h 52min,NULL,Elizabeth Allen Rosenbaum 
+222,Hocus Pocus,6.9 (120k),"Comedy , Fantasy , Horror , Kids & Family , Made in Europe ",1h 36min,PG,Kenny Ortega 
+223,Turner & Hooch,6.2 (70k),"Mystery & Thriller , Comedy , Crime , Drama ",1h 40min,PG,Roger Spottiswoode 
+224,Hercules,7.3 (226k),"Fantasy , Kids & Family , Romance , Animation , Comedy , Made in Europe , Action & Adventure ",1h 29min,G,John Musker 
+225,Tuck Everlasting,6.6 (23k),"Fantasy , Drama , Kids & Family , Romance ",1h 30min,PG,Jay Russell 
+226,Becoming Cousteau,7.1 (1k),Documentary ,1h 34min,PG-13,Liz Garbus 
+227,Mission Pluto,NULL,NULL,NULL,NULL,NULL
+228,Cars 3,6.7 (95k),"Animation , Fantasy , Comedy , Kids & Family , Sport , Drama ",1h 42min,G,Brian Fee 
+229,The Parent Trap,7.2 (21k),"Comedy , Kids & Family , Romance ",2h 9min,G,David Swift 
+230,Frozen II,6.8 (166k),"Animation , Fantasy , Comedy , Kids & Family ",1h 43min,PG,Chris Buck 
+231,Swiss Family Robinson,7.1 (16k),"Action & Adventure , Kids & Family ",2h 6min,G,Ken Annakin 
+232,Beauty and the Beast,7.1 (302k),"Romance , Fantasy , Kids & Family ",2h 9min,PG,Bill Condon 
+233,Strange Magic,5.7 (11k),"Fantasy , Comedy , Kids & Family , Romance , Animation ",1h 39min,PG,Gary Rydstrom 
+234,A Wrinkle in Time,4.2 (44k),"Fantasy , Science-Fiction , Kids & Family ",1h 49min,PG,Ava DuVernay 
+235,Stargirl,6.2 (5k),"Drama , Comedy , Romance , Fantasy ",1h 47min,PG,Julia Hart 
+236,The Chronicles of Narnia: The Voyage of the Dawn Treader,6.3 (152k),"Fantasy , Kids & Family ",1h 55min,PG,Michael Apted 
+237,Mary Poppins Returns,6.7 (85k),"Fantasy , Comedy , Kids & Family , Animation ",2h 10min,PG,Rob Marshall 
+238,Finding Dory,7.3 (269k),"Comedy , Kids & Family , Drama , Animation ",1h 37min,PG,Andrew Stanton 
+239,Winnie the Pooh,7.1 (24k),"Animation , Comedy , Drama , Kids & Family , Fantasy , Made in Europe ",1h 0min,G,Don Hall 
+240,Tarzan,7.3 (222k),"Drama , Romance , Animation , Comedy , Kids & Family , Music & Musical ",1h 28min,G,Chris Buck 
+241,Pete's Dragon,6.7 (57k),"Fantasy , Kids & Family , Action & Adventure , Comedy , Drama ",1h 43min,PG,David Lowery 
+242,Thumbelina,6.2 (17k),"Animation , Romance , Kids & Family , Fantasy , Made in Europe ",1h 26min,G,Don Bluth 
+243,Sister Act 2: Back in the Habit,5.6 (53k),"Comedy , Kids & Family , Music & Musical ",1h 47min,PG,Bill Duke 
+244,Operation Dumbo Drop,5.1 (9k),"Comedy , Drama , Kids & Family , War & Military , Action & Adventure ",1h 47min,PG,Simon Wincer 
+245,Ice Age: Dawn of the Dinosaurs,6.9 (241k),"Animation , Drama , Fantasy , Comedy , Kids & Family ",1h 36min,PG,Carlos Saldanha 
+246,Pinocchio,7.5 (142k),"Animation , Comedy , Kids & Family , Fantasy ",1h 28min,G,Wilfred Jackson 
+247,Trevor: The Musical,NULL,NULL,NULL,NULL,NULL
+248,Brother Bear,6.8 (108k),"Animation , Comedy , Drama , Kids & Family , Fantasy ",1h 25min,G,Aaron Blaise 
+249,Descendants,6.2 (19k),"Fantasy , Comedy , Kids & Family ",1h 52min,G,Kenny Ortega 
+250,Aladdin,8.0 (406k),"Animation , Kids & Family , Action & Adventure , Fantasy , Romance , Comedy ",1h 30min,G,Ron Clements 
+251,Ernest Saves Christmas,5.6 (11k),"Comedy , Fantasy , Kids & Family ",1h 35min,PG,John R. Cherry III 
+252,Home Alone 2: Lost in New York,6.8 (346k),"Comedy , Documentary , Crime , Kids & Family ",2h 0min,PG,Chris Columbus 
+253,Togo,7.9 (47k),"Action & Adventure , Kids & Family , Made in Europe , History , Drama ",1h 53min,PG,Ericson Core 
+254,Mulan,7.6 (281k),"Animation , War & Military , Drama , Comedy , Kids & Family , Fantasy ",1h 28min,G,Tony Bancroft 
+255,The Chronicles of Narnia: Prince Caspian,6.5 (208k),"Fantasy , Action & Adventure , Kids & Family , Made in Europe ",2h 23min,PG,Andrew Adamson 
+256,The Brave Little Toaster to the Rescue,NULL,NULL,NULL,NULL,NULL
+257,Robin Hood,7.5 (125k),"Kids & Family , Animation , Comedy , Romance ",1h 19min,G,Wolfgang Reitherman 
+258,Fantasia,7.7 (95k),"Animation , Kids & Family , Fantasy , Music & Musical ",2h 4min,G,Paul Satterfield 
+259,The Princess and the Frog,7.1 (140k),"Romance , Animation , Comedy , Kids & Family , Fantasy ",1h 34min,G,Ron Clements 
+260,Frankenweenie,6.9 (104k),"Animation , Comedy , Drama , Kids & Family , Horror , Science-Fiction , Mystery & Thriller ",1h 27min,PG,Tim Burton 
+261,The Aristocats,7.1 (100k),"Comedy , Animation , Kids & Family ",1h 15min,G,Wolfgang Reitherman 
+262,Fantasia 2000,7.1 (38k),"Animation , Music & Musical , Comedy , Kids & Family , Fantasy ",1h 14min,G,Paul Brizzi 
+263,Jack,5.8 (59k),"Drama , Comedy , Fantasy ",1h 53min,PG-13,Francis Ford Coppola 
+264,The Sorcerer's Apprentice,6.1 (161k),"Fantasy , Action & Adventure , Kids & Family , Made in Europe ",1h 44min,PG,Jon Turteltaub 
+265,Ewoks: The Battle for Endor,5.4 (9k),"Kids & Family , Action & Adventure , Fantasy , Science-Fiction ",1h 40min,G,Ken Wheat 
+266,The Princess Diaries 2: Royal Engagement,5.8 (80k),"Romance , Drama , Comedy , Kids & Family ",1h 53min,G,Garry Marshall 
+267,Alvin and the Chipmunks: The Road Chip,4.9 (19k),"Animation , Comedy , Kids & Family , Fantasy , Music & Musical ",1h 32min,PG,Walt Becker 
+268,The Good Dinosaur,6.7 (113k),"Kids & Family , Action & Adventure , Animation , Drama , Fantasy , Comedy ",1h 33min,PG,Peter Sohn 
+269,Around the World in 80 Days,5.8 (89k),"Action & Adventure , Comedy , Kids & Family , Western ",2h 0min,PG,Frank Coraci 
+270,Cinderella,6.7 (8k),"Fantasy , Romance , Kids & Family ",1h 28min,G,Robert Iscove 
+271,The Lizzie McGuire Movie,5.5 (39k),"Kids & Family , Comedy , Music & Musical , Romance ",1h 34min,PG,Jim Fall 
+272,The One and Only Ivan,6.5 (12k),"Comedy , Drama , Fantasy , Animation , Kids & Family ",1h 33min,PG,Thea Sharrock 
+273,Inspector Gadget,4.1 (48k),"Action & Adventure , Comedy , Crime , Kids & Family , Science-Fiction ",1h 18min,PG,David Kellogg 
+274,Snow White and the Seven Dwarfs,7.6 (196k),"Fantasy , Romance , Animation , Kids & Family , Mystery & Thriller , Drama ",1h 23min,G,David Hand 
+275,Chasing Mavericks,7.1 (32k),"Drama , Sport ",1h 57min,PG,Curtis Hanson 
+276,Bolt,6.8 (207k),"Animation , Science-Fiction , Fantasy , Comedy , Crime , Drama , Kids & Family ",1h 37min,PG,Chris Williams 
+277,Chicken Little,5.7 (91k),"Comedy , Animation , Kids & Family , Fantasy , Science-Fiction ",1h 21min,G,Mark Dindal 
+278,The Biggest Little Farm: The Return,7.2,Documentary ,30min,NULL,John Chester 
+279,Muppets Haunted Mansion,6.4 (6k),"Comedy , Kids & Family , Fantasy ",52min,PG,Kirk R. Thatcher 
+280,White Fang,5.9,"Drama , Action & Adventure , Animation , Kids & Family ",1h 0min,PG,Randal Kleiser 
+281,The Little Mermaid,7.6 (257k),"Animation , Fantasy , Comedy , Kids & Family , Romance ",1h 23min,G,John Musker 
+282,The Jungle Book,7.6 (176k),"Kids & Family , Animation , Action & Adventure , Comedy , Fantasy ",1h 18min,G,Wolfgang Reitherman 
+283,You Again,5.7 (51k),"Romance , Comedy ",1h 45min,PG,Andy Fickman 
+284,Queen of Katwe,7.4 (16k),"Drama , Sport ",2h 4min,PG,Mira Nair 
+285,Lady and the Tramp,7.3 (133k),"Animation , Comedy , Kids & Family , Romance , Drama ",1h 16min,G,Clyde Geronimi 
+286,Artemis Fowl,4.2 (26k),"Fantasy , Science-Fiction , Kids & Family ",1h 34min,PG,Kenneth Branagh 
+287,This Magic Moment,NULL,NULL,NULL,NULL,NULL
+288,Ice Age: The Meltdown,6.8 (274k),"Comedy , Kids & Family , Fantasy , Animation ",1h 26min,PG,Carlos Saldanha 
+289,Dumbo,6.3 (73k),"Fantasy , Kids & Family ",2h 10min,PG,Tim Burton 
+290,Life-Size 2,4.6,"Fantasy , Comedy ",1h 21min,NULL,Steven K. Tsuchida 
+291,Glory Road,7.2 (45k),"History , Drama , Sport ",1h 58min,PG,James Gartner 
+292,Bedknobs and Broomsticks,7.0 (37k),"Comedy , Fantasy , Kids & Family , Animation ",1h 57min,G,Robert Stevenson 
+293,The Haunted Mansion,5.0 (48k),"Mystery & Thriller , Fantasy , Horror , Comedy , Kids & Family , Drama ",1h 28min,PG,Rob Minkoff 
+294,Dinosaur,6.4 (60k),"Animation , Drama , Kids & Family , Fantasy , Mystery & Thriller , Comedy ",1h 22min,PG,Eric Leighton 
+295,Teen Beach Movie,5.8 (11k),"Comedy , Kids & Family , Fantasy ",1h 36min,PG,Jeffrey Hornaday 
+296,Bad Boys,NULL,NULL,NULL,NULL,NULL
+297,Mack Wrestles,NULL,NULL,NULL,NULL,NULL
+298,Burrow,NULL,NULL,NULL,NULL,NULL
+299,The Ewok Adventure,5.3 (11k),"Fantasy , Science-Fiction , Kids & Family ",1h 36min,PG,John Korty 
+300,Beauty and the Beast,7.4,"Animation , Fantasy , Kids & Family , Science-Fiction , Drama , Romance ",1h 24min,G,Gary Trousdale 
+301,Star Wars Biomes,NULL,NULL,NULL,NULL,NULL
+302,The Love Bug,6.5 (15k),"Fantasy , Comedy , Kids & Family , Sport ",1h 47min,G,Robert Stevenson 
+303,The Sword in the Stone,7.1 (97k),"Animation , Comedy , Kids & Family , Fantasy ",1h 19min,G,Wolfgang Reitherman 
+304,Fauci,6.2 (12k),"History , Documentary ",1h 44min,PG-13,Janet Tobias 
+305,Jane,7.8 (5k),Documentary ,1h 30min,PG,NULL
+306,Empire of Dreams: The Story of the Star Wars Trilogy,NULL,NULL,NULL,NULL,NULL
+307,LEGO Star Wars Terrifying Tales,6.1 (2k),"Comedy , Action & Adventure , Fantasy , Horror , Science-Fiction , Kids & Family , Animation ",45min,G,Ken Cunningham 
+308,Jungle 2 Jungle,5.1 (24k),"Comedy , Kids & Family ",1h 37min,PG,John Pasquin 
+309,The Great Mouse Detective,7.2 (49k),"Mystery & Thriller , Animation , Kids & Family ",1h 14min,G,Burny Mattinson 
+310,The Sandlot 2,NULL,NULL,NULL,NULL,NULL
+311,Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer,NULL,NULL,NULL,NULL,NULL
+312,The Great Muppet Caper,7.1 (15k),"Comedy , Crime , Kids & Family ",1h 37min,G,Jim Henson 
+313,Monsters University,7.3 (352k),"Animation , Comedy , Kids & Family , Fantasy , Horror ",1h 50min,G,Dan Scanlon 
+314,Treasure Island,6.9 (8k),"Action & Adventure , Kids & Family ",1h 36min,PG,Byron Haskin 
+315,Old Yeller,7.3 (13k),"Kids & Family , Action & Adventure , Drama , Western ",1h 23min,G,Robert Stevenson 
+316,Explorer: The Last Tepui,6.9,Documentary ,55min,NULL,Renan Ozturk 
+317,Oliver & Company,6.6 (48k),"Comedy , Animation , Kids & Family ",1h 13min,G,George Scribner 
+318,The Hunchback of Notre Dame,7.0 (154k),"Drama , Romance , Animation , Kids & Family ",1h 31min,G,Gary Trousdale 
+319,Star Wars: Galaxy's Edge - Adventure Awaits,5.6,Documentary ,1h 21min,NULL,Christian Lamb 
+320,Freaky Friday,6.3 (12k),"Fantasy , Comedy , Kids & Family ",1h 35min,G,Gary Nelson 
+321,Flora & Ulysses,6.2 (5k),"Comedy , Kids & Family , Fantasy ",1h 35min,PG,Lena Khan 
+322,The Pacifier,5.6 (93k),"Comedy , Action & Adventure , Drama , Kids & Family ",1h 35min,PG,Adam Shankman 
+323,Like Mike,5.3 (20k),"Fantasy , Kids & Family , Sport , Comedy ",1h 39min,PG,John Schultz 
+324,Herbie Fully Loaded,4.9 (47k),"Romance , Kids & Family , Fantasy , Sport , Comedy ",1h 40min,G,Angela Robinson 
+325,Ice Age: Collision Course,5.6 (65k),"Comedy , Kids & Family , Science-Fiction , Fantasy , Romance , Drama , Animation ",1h 35min,PG,Mike Thurmeier 
+326,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",6.2 (43k),"Comedy , Fantasy , Drama , Kids & Family , Made in Europe ",1h 21min,PG,Miguel Arteta 
+327,The Rescuers Down Under,6.8 (42k),"Fantasy , Crime , Drama , Animation , Comedy , Kids & Family ",1h 17min,G,Mike Gabriel 
+328,Marvel One-Shot: Item 47,NULL,NULL,NULL,NULL,NULL
+329,Confessions of a Teenage Drama Queen,4.6 (29k),"Comedy , Kids & Family , Music & Musical , Romance , Made in Europe ",1h 37min,PG,Sara Sugarman 
+330,Live in Front of a Studio Audience: The Facts of Life and Diff'rent Strokes,7.8 (1k),Comedy ,1h 1min,PG,James Burrows 
+331,Mighty Joe Young,5.7 (29k),"Fantasy , Kids & Family , Mystery & Thriller , Action & Adventure , Made in Europe ",1h 54min,PG,Ron Underwood 
+332,Ciao Alberto,NULL,NULL,NULL,NULL,NULL
+333,Before the Flood,8.2 (27k),Documentary ,1h 33min,PG,Fisher Stevens 
+334,The Fox and the Hound,7.2 (92k),"Action & Adventure , Animation , Drama , Kids & Family ",1h 22min,G,Ted Berman 
+335,Ice Age: Continental Drift,6.5 (206k),"Comedy , Drama , Fantasy , Animation , Kids & Family ",1h 28min,PG,Mike Thurmeier 
+336,Diary of a Wimpy Kid,5.1 (2k),"Comedy , Animation , Drama , Kids & Family , Fantasy ",58min,PG,Swinton O. Scott III 
+337,Eight Below,7.3 (64k),"Drama , Kids & Family ",2h 0min,PG,Frank Marshall 
+338,The Many Adventures of Winnie the Pooh,7.5 (35k),"Animation , Comedy , Kids & Family ",1h 14min,G,Wolfgang Reitherman 
+339,Muppets Most Wanted,6.4 (34k),"Comedy , Crime , Kids & Family ",1h 52min,PG,James Bobin 
+340,Noelle,6.3 (21k),"Comedy , Fantasy , Kids & Family , Romance ",1h 40min,G,Marc Lawrence 
+341,The Absent-Minded Professor,6.7 (8k),"Science-Fiction , Sport , Comedy , Kids & Family ",1h 36min,G,Robert Stevenson 
+342,Tom and Huck,5.5 (10k),"Action & Adventure , Comedy , Drama , Kids & Family , Romance , Western ",1h 27min,PG,Peter Hewitt 
+343,101 Dalmatians,5.7 (110k),"Comedy , Crime , Kids & Family ",1h 38min,G,Stephen Herek 
+344,The Game Plan,6.1 (65k),"Comedy , Sport , Kids & Family ",1h 45min,PG,Andy Fickman 
+345,Pollyanna,7.4 (10k),"Drama , Kids & Family , Comedy ",2h 14min,G,David Swift 
+346,One Hundred and One Dalmatians,7.3 (165k),"Comedy , Animation , Kids & Family ",1h 19min,G,Wolfgang Reitherman 
+347,Sleeping Beauty,7.2 (146k),"Fantasy , Comedy , Romance , Animation , Kids & Family , Made in Europe ",1h 15min,G,Clyde Geronimi 
+348,Believeland,NULL,NULL,NULL,NULL,NULL
+349,Diary of a Wimpy Kid: Dog Days,6.2 (25k),"Comedy , Kids & Family ",1h 34min,PG,David Bowers 
+350,Pete's Dragon,6.3 (24k),"Comedy , Animation , Kids & Family , Fantasy ",2h 8min,G,Don Chaffey 
+351,Cars 2,6.2 (183k),"Comedy , Kids & Family , Sport , Drama , Crime , Fantasy , Animation , Science-Fiction ",1h 44min,G,John Lasseter 
+352,"The Simpsons: The Good, the Bart, and the Loki",NULL,NULL,NULL,NULL,NULL
+353,Dumbo,7.2 (130k),"Kids & Family , Animation , Drama , Fantasy ",1h 1min,G,Norman Ferguson 
+354,High School Musical 2,4.6,"Kids & Family , Music & Musical , Romance , Comedy , Drama ",1h 51min,G,Kenny Ortega 
+355,Newsies,8.3 (2k),"Romance , Drama , Music & Musical ",2h 14min,PG,Brett Sullivan 
+356,The Lion King 1½,NULL,NULL,NULL,NULL,NULL
+357,Bao,NULL,NULL,NULL,NULL,NULL
+358,The Adventures of Ichabod and Mr. Toad,6.9 (15k),"Animation , Horror , Comedy , Kids & Family , Fantasy ",1h 8min,G,James Algar 
+359,D. Wade: Life Unexpected,7.3,Documentary ,1h 36min,PG-13,NULL
+360,OLIVIA RODRIGO: driving home 2 u (a SOUR film),7.1 (1k),"Music & Musical , Documentary ",1h 16min,PG-13,Stacey Lee 
+361,Darby O'Gill and the Little People,7.1 (8k),"Fantasy , Kids & Family , Romance ",1h 30min,G,Robert Stevenson 
+362,Home Sweet Home Alone,3.6 (16k),"Comedy , Crime , Kids & Family , Drama , Action & Adventure ",1h 33min,PG,Dan Mazer 
+363,Cinderella,7.3 (157k),"Fantasy , Romance , Animation , Kids & Family ",1h 14min,G,Wilfred Jackson 
+364,Bambi,7.3 (141k),"Animation , Drama , Kids & Family ",1h 5min,G,David Hand 
+365,Kazaam,3.0 (24k),"Fantasy , Comedy , Kids & Family ",1h 33min,PG,Paul Michael Glaser 
+366,Lady and the Tramp,6.2 (20k),"Romance , Animation , Drama , Comedy , Kids & Family ",1h 51min,PG,Charlie Bean 
+367,Planes,5.7 (44k),"Comedy , Animation , Kids & Family , Sport ",1h 32min,PG,Klay Hall 
+368,Race to Witch Mountain,5.7 (59k),"Science-Fiction , Mystery & Thriller , Fantasy , Action & Adventure , Kids & Family ",1h 38min,PG,Andy Fickman 
+369,Cheaper by the Dozen 2,5.5 (58k),"Action & Adventure , Comedy , Kids & Family ",1h 34min,PG,Adam Shankman 
+370,Under the Helmet: The Legacy of Boba Fett,7.2 (1k),Documentary ,21min,PG,Bradford Burah 
+371,High School Musical 3: Senior Year,4.8 (62k),"Drama , Comedy , Romance , Kids & Family , Music & Musical ",1h 47min,G,Kenny Ortega 
+372,Clouds,7.5 (9k),"Romance , Drama , Music & Musical ",2h 1min,PG-13,Justin Baldoni 
+373,"Honey, I Blew Up the Kid",4.8 (44k),"Comedy , Romance , Science-Fiction , Kids & Family ",1h 29min,PG,Randal Kleiser 
+374,G-Force,5.1 (46k),"Fantasy , Action & Adventure , Comedy , Kids & Family , Science-Fiction , Animation ",1h 24min,PG,NULL
+375,A Christmas Carol,6.8 (113k),"Fantasy , Made in Europe , Mystery & Thriller , Music & Musical , Animation , Comedy , Kids & Family , Drama ",1h 31min,PG,Robert Zemeckis 
+376,Aliens of the Deep,6.3 (3k),"Documentary , Kids & Family ",1h 40min,G,James Cameron 
+377,Marvel One-Shot: The Consultant,NULL,NULL,NULL,NULL,NULL
+378,The Rescuers,6.9 (63k),"Fantasy , Kids & Family , Animation , Comedy ",1h 17min,G,John Lounsbery 
+379,Babes in Toyland,6.1 (4k),"Fantasy , Romance , Comedy , Kids & Family ",1h 41min,G,Jack Donohue 
+380,The Santa Clause,6.5 (114k),"Fantasy , Comedy , Drama , Kids & Family ",1h 33min,PG,John Pasquin 
+381,DuckTales: The Movie - Treasure of the Lost Lamp,6.8 (26k),"Fantasy , Animation , Comedy , Kids & Family , Made in Europe ",1h 10min,G,Bob Hathcock 
+382,Folklore: The Long Pond Studio Sessions,8.3 (3k),"Music & Musical , Documentary , Drama ",1h 46min,PG,Taylor Swift 
+383,Home Alone 3,4.5 (115k),"Comedy , Kids & Family , Action & Adventure , Crime ",1h 42min,PG,Raja Gosnell 
+384,Adventures in Babysitting,5.9 (3k),"Comedy , Kids & Family ",1h 35min,G,John Schultz 
+385,Beverly Hills Chihuahua,3.9 (24k),"Comedy , Romance , Action & Adventure , Kids & Family , Animation , Mystery & Thriller , Drama ",1h 27min,PG,Raja Gosnell 
+386,The Muppet Christmas Carol,7.7 (57k),"Comedy , Drama , Fantasy , Kids & Family ",1h 25min,G,Brian Henson 
+387,The Apple Dumpling Gang,6.3 (5k),"Western , Comedy , Kids & Family ",1h 40min,G,Norman Tokar 
+388,Tangled Ever After,NULL,NULL,NULL,NULL,NULL
+389,Four Days in October,NULL,NULL,NULL,NULL,NULL
+390,Homeward Bound II: Lost in San Francisco,6.0 (14k),"Comedy , Drama , Kids & Family , Romance ",1h 29min,G,David R. Ellis 
+391,D2: The Mighty Ducks,6.0 (40k),"Comedy , Drama , Kids & Family , Sport ",1h 46min,PG,Sam Weisman 
+392,That Darn Cat!,6.7 (6k),"Comedy , Drama , Mystery & Thriller , Crime , Kids & Family ",1h 56min,G,Robert Stevenson 
+393,ASSEMBLED: The Making of Eternals,7.9,Documentary ,57min,PG,NULL
+394,The Lion King II: Simba's Pride,NULL,NULL,NULL,NULL,NULL
+395,Underdog,4.7 (21k),"Fantasy , Documentary , Action & Adventure , Comedy , Kids & Family , Science-Fiction ",1h 21min,PG,Frederik Du Chau 
+396,The Kid,6.1 (42k),"Fantasy , Kids & Family , Comedy ",1h 44min,PG,Jon Turteltaub 
+397,Home on the Range,5.3 (22k),"Animation , Western , Music & Musical , Comedy , Kids & Family ",1h 16min,PG,John Sanford 
+398,Godmothered,6.1 (12k),"Fantasy , Kids & Family , Comedy , Drama ",1h 53min,PG,Sharon Maguire 
+399,The Big Green,5.5 (10k),"Action & Adventure , Sport , Comedy , Kids & Family ",1h 39min,PG,Holly Goldberg Sloan 
+400,Upside-Down Magic,NULL,NULL,NULL,NULL,NULL
+401,3 Men and a Little Lady,5.4 (24k),"Comedy , Kids & Family , Romance , Drama ",1h 43min,PG,Emile Ardolino 
+402,Garfield: A Tail of Two Kitties,5.0 (42k),"Animation , Comedy , Kids & Family , Fantasy ",1h 22min,PG,Tim Hill 
+403,Tinker Bell,NULL,NULL,NULL,NULL,NULL
+404,Zapped,5.0 (5k),"Comedy , Kids & Family , Fantasy ",1h 32min,NULL,Peter DeLuise 
+405,Step,6.9,"Documentary , Drama ",1h 23min,PG,NULL
+406,Z-O-M-B-I-E-S,6.0 (5k),"Fantasy , Romance , Kids & Family ",1h 34min,G,Paul Hoen 
+407,Life with Mikey,5.6 (6k),"Comedy , Kids & Family , Made in Europe ",1h 31min,PG,James Lapine 
+408,Mr. Magoo,4.0 (15k),"Comedy , Kids & Family ",1h 24min,PG,Stanley Tong 
+409,Lemonade Mouth,6.9 (17k),"Kids & Family , Music & Musical , Comedy , Drama ",1h 46min,G,Patricia Riggen 
+410,The Computer Wore Tennis Shoes,6.0 (5k),"Drama , Comedy , Kids & Family , Science-Fiction ",1h 31min,G,Robert Butler 
+411,Marvel One-Shot: All Hail the King,NULL,NULL,NULL,NULL,NULL
+412,The Journey of Natty Gann,7.0 (6k),"Drama , Kids & Family ",1h 41min,PG,Jeremy Kagan 
+413,Man of the House,5.2 (9k),"Comedy , Kids & Family ",1h 36min,PG,James Orr 
+414,Get a Clue,5.0 (6k),"Kids & Family , Comedy , Crime ",1h 23min,G,Maggie Greenwald 
+415,The Sandlot: Heading Home,NULL,NULL,NULL,NULL,NULL
+416,Toy Story of Terror!,7.5 (15k),"Fantasy , Comedy , Kids & Family , Horror , Animation ",22min,G,Angus MacLane 
+417,Diary of a Wimpy Kid: Rodrick Rules,6.5 (30k),"Comedy , Kids & Family , Animation ",1h 39min,PG,David Bowers 
+418,Tall Tale,5.9 (3k),"Western , Kids & Family , Fantasy ",1h 38min,PG,Jeremiah S. Chechik 
+419,Drain The Sunken Pirate City,6.3,"History , Documentary ",47min,NULL,Sophie Elwin-Harris 
+420,The Three Caballeros,6.3 (13k),"Music & Musical , Animation , Kids & Family , Comedy , Fantasy ",1h 11min,G,Harold Young 
+421,Freaky Friday,3.8 (1k),"Comedy , Music & Musical , Kids & Family , Fantasy ",1h 30min,G,Steve Carr 
+422,Atlantis: Milo's Return,NULL,NULL,NULL,NULL,NULL
+423,Polar Bear,6.9,Documentary ,1h 24min,PG,Jeff Wilson 
+424,BURN·E,NULL,NULL,NULL,NULL,NULL
+425,Snow Dogs,5.2 (26k),"Comedy , Kids & Family , Sport ",1h 39min,PG,Brian Levant 
+426,Pocahontas,6.7 (184k),"Animation , Romance , Drama , Kids & Family , Made in Europe ",1h 18min,G,Eric Goldberg 
+427,LEGO Star Wars: The New Yoda Chronicles - Raid on Coruscant,NULL,NULL,NULL,NULL,NULL
+428,The Simpsons in Plusaversary,NULL,NULL,NULL,NULL,NULL
+429,Escape to Witch Mountain,6.3 (10k),"Fantasy , Science-Fiction , Kids & Family ",1h 37min,G,John Hough 
+430,Don't Look Under the Bed,6.7 (3k),"Horror , Fantasy , Comedy , Kids & Family ",1h 33min,PG,Kenneth Johnson 
+431,The Island at the Top of the World,6.2 (2k),"Fantasy , Science-Fiction , Kids & Family ",1h 33min,G,Robert Stevenson 
+432,Steamboat Willie,NULL,NULL,NULL,NULL,NULL
+433,ASSEMBLED: The Making of Hawkeye,8.8,Documentary ,59min,PG-13,Brad Baruh 
+434,The Santa Clause 3: The Escape Clause,4.7 (37k),"Comedy , Kids & Family , Fantasy ",1h 28min,G,Michael Lembeck 
+435,Starstruck,6.1 (15k),"Romance , Kids & Family , Music & Musical , Comedy ",1h 21min,G,Michael Grossman 
+436,Small Fry,NULL,NULL,NULL,NULL,NULL
+437,A Kid in King Arthur's Court,4.7 (6k),"Science-Fiction , Fantasy , Romance , Comedy , Kids & Family ",1h 29min,PG,Michael Gottlieb 
+438,The Odd Life of Timothy Green,6.6 (46k),"Fantasy , Comedy , Drama , Kids & Family ",1h 45min,PG,Peter Hedges 
+439,The Adventures of Huck Finn,6.2 (8k),"Comedy , Drama , Kids & Family ",1h 48min,PG,Stephen Sommers 
+440,Hannah Montana: The Movie,4.5 (42k),"Romance , Comedy , Drama , Kids & Family , Music & Musical ",1h 42min,G,Peter Chelsom 
+441,Home Alone 4,2.6 (30k),"Kids & Family , Comedy , Crime ",1h 24min,PG,Rod Daniel 
+442,Flicka,6.0 (7k),"Drama , Kids & Family ",1h 34min,PG,Michael Mayer 
+443,Kronk's New Groove,NULL,NULL,NULL,NULL,NULL
+444,Camp Rock,5.1 (33k),"Romance , Comedy , Drama , Kids & Family , Music & Musical , Animation ",1h 30min,G,Matthew Diamond 
+445,Tinker Bell and the Legend of the NeverBeast,NULL,NULL,NULL,NULL,NULL
+446,Z-O-M-B-I-E-S 2,5.8 (2k),"Romance , Comedy ",1h 24min,NULL,Paul Hoen 
+447,Saludos Amigos,6.1 (6k),"Animation , Kids & Family , Fantasy , Comedy ",42min,NULL,Jamie Davidovich 
+448,The Simpsons: When Billie Met Lisa,NULL,NULL,NULL,NULL,NULL
+449,Feast,8.1,"Drama , Comedy , Horror ",6min,G,Patrick Osborne 
+450,Step Into… The Movies with Derek and Julianne Hough,NULL,NULL,NULL,NULL,NULL
+451,The Little Mermaid Live!,5.5 (1k),"Comedy , Kids & Family , Fantasy , Romance , Music & Musical ",1h 23min,NULL,Hamish Hamilton 
+452,Ice Princess,6.0 (27k),"Comedy , Drama , Kids & Family , Sport ",1h 38min,G,Tim Fywell 
+453,Oceans,7.7 (9k),"Documentary , Kids & Family , Drama , Made in Europe ",1h 24min,G,Jacques Perrin 
+454,Kim Possible,3.6 (3k),"Comedy , Action & Adventure ",1h 26min,PG,Adam B. Stein 
+455,The Santa Clause 2,5.7 (56k),"Fantasy , Comedy , Kids & Family ",1h 44min,G,Michael Lembeck 
+456,The Lego Star Wars Holiday Special,6.4 (6k),"Science-Fiction , Animation , Action & Adventure , Comedy , Kids & Family ",44min,G,Ken Cunningham 
+457,Diary of a Wimpy Kid: The Long Haul,4.3 (8k),"Comedy , Kids & Family , Animation ",1h 31min,PG,David Bowers 
+458,Team Thor: Part 2,NULL,NULL,NULL,NULL,NULL
+459,Team Darryl,NULL,NULL,NULL,NULL,NULL
+460,Miraculous World : New York – United HeroeZ,NULL,NULL,NULL,NULL,NULL
+461,The Nutcracker and the Four Realms,5.5 (33k),"Action & Adventure , Kids & Family , Fantasy ",1h 39min,PG,Joe Johnston 
+462,Toy Story That Time Forgot,7.1 (11k),"Comedy , Kids & Family , Fantasy , Animation ",22min,G,Steve Purcell 
+463,Brave Little Tailor,NULL,NULL,NULL,NULL,NULL
+464,Mars Needs Moms,5.4 (22k),"Animation , Kids & Family , Action & Adventure , Science-Fiction ",1h 28min,PG,Simon Wells 
+465,"Honey, We Shrunk Ourselves",4.9 (15k),"Science-Fiction , Action & Adventure , Comedy , Kids & Family ",1h 14min,PG,Dean Cundey 
+466,The Ugly Dachshund,6.5 (4k),"Comedy , Drama , Kids & Family ",1h 33min,G,Norman Tokar 
+467,Magic Camp,6.3 (4k),"Fantasy , Comedy , Kids & Family ",1h 40min,PG,Mark Waters 
+468,Three Little Pigs,NULL,NULL,NULL,NULL,NULL
+469,The Shaggy Dog,6.4 (5k),"Fantasy , Comedy , Kids & Family ",1h 41min,G,Charles Barton 
+470,The Reluctant Dragon,6.8 (3k),"Fantasy , Comedy , Kids & Family , Animation ",1h 14min,G,Alfred L. Werker 
+471,Science Fair,7.6,"Documentary , Action & Adventure , Science-Fiction , Fantasy ",1h 30min,PG,Chris Modoono 
+472,More Than Robots,6.1,Documentary ,1h 29min,NULL,Gillian Jacobs 
+473,Ferdinand the Bull,NULL,NULL,NULL,NULL,NULL
+474,The Incredible Journey,7.0 (4k),"Action & Adventure , Kids & Family , Drama ",1h 20min,G,Fletcher Markle 
+475,Halloweentown,6.6 (17k),"Comedy , Kids & Family , Fantasy ",1h 24min,G,Duwayne Dunham 
+476,12 Dates of Christmas,6.2 (6k),"Fantasy , Comedy , Romance ",1h 29min,PG,James Hayman 
+477,Descendants 3,6.4 (7k),"Fantasy , Mystery & Thriller , Action & Adventure , Drama , Kids & Family , Reality TV ",1h 46min,PG,Kenny Ortega 
+478,Of Miracles and Men,NULL,NULL,NULL,NULL,NULL
+479,D3: The Mighty Ducks,5.4 (26k),"Action & Adventure , Comedy , Drama , Kids & Family , Sport ",1h 44min,PG,Rob Lieberman 
+480,Far From the Tree,NULL,NULL,NULL,NULL,NULL
+481,Planes: Fire & Rescue,6.0 (17k),"Animation , Documentary , Kids & Family , Sport , Fantasy , Comedy , Drama ",1h 23min,PG,Roberts Gannaway 
+482,Pooh's Grand Adventure: The Search for Christopher Robin,NULL,NULL,NULL,NULL,NULL
+483,Safety,6.8 (3k),"Drama , Sport ",2h 2min,PG,Reginald Hudlin 
+484,Flowers and Trees,NULL,NULL,NULL,NULL,NULL
+485,Happier Than Ever: A Love Letter to Los Angeles,7.2 (1k),"Music & Musical , Documentary ",1h 5min,PG,Robert Rodriguez 
+486,Inspector Gadget 2,NULL,NULL,NULL,NULL,NULL
+487,Black Beauty,6.4 (3k),"Drama , Kids & Family ",1h 48min,PG,Ashley Avis 
+488,Black Is King,5.5 (8k),"Music & Musical , Drama , Fantasy ",1h 25min,PG,Beyoncé 
+489,First Kid,5.2 (10k),"Comedy , Kids & Family ",1h 41min,PG,David Mickey Evans 
+490,Recess: School's Out,6.6 (10k),"Kids & Family , Comedy , Animation , Science-Fiction ",1h 22min,G,Chuck Sheetz 
+491,The Happiest Millionaire,6.6 (2k),"Comedy , Drama , Kids & Family , Romance ",2h 52min,G,Norman Tokar 
+492,Encanto Sing-Along,7.8,"Fantasy , Animation ",1h 42min,PG,Byron Howard 
+493,Shook,7.9,Comedy ,53min,G,NULL
+494,The Pixar Story,7.7 (6k),Documentary ,1h 27min,G,Leslie Iwerks 
+495,Twitches,5.6 (8k),"Drama , Fantasy , Comedy , Kids & Family ",1h 26min,PG,Stuart Gillard 
+496,Apollo: Missions to the Moon,7.6,"History , Documentary ",1h 34min,NULL,Tom Jennings 
+497,Lost on Everest,6.7,Documentary ,1h 0min,PG-13,Renan Ozturk 
+498,The Big Bad Wolf,NULL,NULL,NULL,NULL,NULL
+499,The Brave Little Toaster Goes to Mars,NULL,NULL,NULL,NULL,NULL
+500,Herbie Rides Again,5.7 (8k),"Comedy , Fantasy , Kids & Family , Romance ",1h 28min,G,Robert Stevenson 
+501,Bears,7.3 (6k),"Documentary , Kids & Family ",1h 18min,G,Alastair Fothergill 
+502,The Pied Piper,NULL,NULL,NULL,NULL,NULL
+503,Candleshoe,6.7 (4k),"Kids & Family , Comedy , Drama ",1h 40min,PG,Norman Tokar 
+504,Something's Coming: West Side Story,NULL,NULL,NULL,NULL,NULL
+505,George of the Jungle 2,NULL,NULL,NULL,NULL,NULL
+506,Home Alone: The Holiday Heist,3.5 (10k),"Kids & Family , Comedy , Crime ",1h 27min,PG,Peter Hewitt 
+507,Return to Never Land,5.8 (20k),"Fantasy , Animation , Kids & Family ",1h 13min,G,Robin Budd 
+508,The Goddess of Spring,NULL,NULL,NULL,NULL,NULL
+509,The Grasshopper and the Ants,NULL,NULL,NULL,NULL,NULL
+510,Iron Will,6.6 (8k),"Action & Adventure , Kids & Family ",1h 48min,PG,Charles Haid 
+511,Mickey's Christmas Carol,NULL,NULL,NULL,NULL,NULL
+512,"Davy Crockett, King of the Wild Frontier",6.9 (4k),"Western , Drama , Kids & Family ",1h 33min,PG,Norman Foster 
+513,Smart House,6.1 (7k),"Fantasy , Drama , Kids & Family , Science-Fiction , Comedy ",1h 22min,G,LeVar Burton 
+514,Spin,5.9,"Music & Musical , Kids & Family , Drama , Comedy , Romance ",1h 33min,G,Manjari Makijany 
+515,Secret Society of Second Born Royals,4.9 (5k),"Fantasy , Action & Adventure , Comedy , Kids & Family ",1h 37min,PG,Anna Mastro 
+516,Marvel Super Hero Adventures: Frost Fight!,NULL,NULL,NULL,NULL,NULL
+517,Paperman,7.1,"Animation , Romance , Mystery & Thriller ",7min,G,John Kahrs 
+518,The Band Concert,NULL,NULL,NULL,NULL,NULL
+519,Max Keeble's Big Move,5.4 (8k),"Comedy , Crime , Kids & Family ",1h 26min,G,Tim Hill 
+520,The Tortoise and the Hare,NULL,NULL,NULL,NULL,NULL
+521,Mulan II,NULL,NULL,NULL,NULL,NULL
+522,Herbie Goes Bananas,4.9 (5k),"Fantasy , Comedy , Kids & Family ",1h 27min,G,Vincent McEveety 
+523,The Wise Little Hen,NULL,NULL,NULL,NULL,NULL
+524,Ye Olden Days,NULL,NULL,NULL,NULL,NULL
+525,Miraculous World: Shanghai – The Legend of Ladydragon,NULL,NULL,NULL,NULL,NULL
+526,Out,NULL,NULL,NULL,NULL,NULL
+527,Phineas and Ferb: The Movie: Candace Against the Universe,7.1 (4k),"Comedy , Science-Fiction , Mystery & Thriller , Fantasy , Action & Adventure , Kids & Family , Animation ",1h 24min,G,Bob Bowen 
+528,Elephant,7.2 (2k),"Documentary , Kids & Family ",1h 26min,G,Mark Linfield 
+529,Lambert the Sheepish Lion,NULL,NULL,NULL,NULL,NULL
+530,Timmy Failure: Mistakes Were Made,6.0 (2k),"Fantasy , Drama , Kids & Family , Comedy ",1h 39min,PG,Tom McCarthy 
+531,Brink!,6.9 (6k),"Drama , Kids & Family , Sport ",1h 30min,G,Greg Beeman 
+532,Tinker Bell and the Pirate Fairy,NULL,NULL,NULL,NULL,NULL
+533,Once Upon A Mattress,NULL,NULL,NULL,NULL,NULL
+534,Chimpanzee,7.1 (6k),"Documentary , Kids & Family ",1h 18min,G,Alastair Fothergill 
+535,Davy Crockett and the River Pirates,6.6 (2k),"Western , Comedy , Drama , Kids & Family ",1h 21min,G,Norman Foster 
+536,Four Falls of Buffalo,NULL,NULL,NULL,NULL,NULL
+537,Marvel Studios: Assembling a Universe,7.3 (1k),"Documentary , History ",43min,PG,NULL
+538,An Extremely Goofy Movie,NULL,NULL,NULL,NULL,NULL
+539,The Most Magical Story on Earth: 50 Years of Walt Disney World,7.4,"Music & Musical , Documentary ",1h 24min,PG,Dave Hoffman 
+540,Frankenweenie,NULL,NULL,NULL,NULL,NULL
+541,The Strongest Man in the World,5.9 (3k),"Comedy , Kids & Family , Science-Fiction ",1h 32min,G,Vincent McEveety 
+542,"Marvel: 75 Years, From Pulp to Pop!",7.0 (1k),"Documentary , History ",41min,PG,Zak Knutson 
+543,My Favorite Martian,5.0 (13k),"Science-Fiction , Comedy , Kids & Family ",1h 33min,PG,Donald Petrie 
+544,On Ice,NULL,NULL,NULL,NULL,NULL
+545,Babes in the Woods,NULL,NULL,NULL,NULL,NULL
+546,The Color of Friendship,7.2 (3k),"Drama , Kids & Family ",1h 27min,PG,Kevin Hooks 
+547,PRIDE: To Be Seen - A Soul of a Nation Presentation,NULL,NULL,NULL,NULL,NULL
+548,Santa's Workshop,NULL,NULL,NULL,NULL,NULL
+549,Fun and Fancy Free,6.4 (8k),"Animation , Comedy , Kids & Family , Fantasy , Romance ",1h 13min,G,Jack Kinney 
+550,Lilo & Stitch 2: Stitch Has a Glitch,NULL,NULL,NULL,NULL,NULL
+551,The Country Bears,4.1 (5k),"Comedy , Documentary , Kids & Family , Music & Musical ",1h 28min,G,Peter Hastings 
+552,Howard,7.6 (1k),"Music & Musical , Documentary ",1h 33min,NULL,Don Hahn 
+553,The Lost Tomb of Alexander the Great,6.4,"History , Documentary ",44min,PG,Duncan Singh 
+554,22 vs. Earth,NULL,NULL,NULL,NULL,NULL
+555,Benji the Hunted,6.2 (3k),"Action & Adventure , Kids & Family ",1h 28min,G,Joe Camp 
+556,Shipwrecked,6.5 (2k),"Kids & Family , Action & Adventure , Made in Europe ",1h 32min,PG,Nils Gaup 
+557,Cars Toon Mater's Tall Tales,NULL,NULL,NULL,NULL,NULL
+558,The Moon-Spinners,6.6 (2k),"Mystery & Thriller , Kids & Family , Romance ",1h 58min,PG,James Neilson 
+559,The Hockey Champ,NULL,NULL,NULL,NULL,NULL
+560,Twitches Too,5.6 (5k),"Drama , Fantasy , Horror , Mystery & Thriller , Kids & Family ",1h 23min,PG,Stuart Gillard 
+561,Playing with Sharks,7.5,Documentary ,1h 35min,PG-13,Sally Aitken 
+562,Space Buddies,NULL,NULL,NULL,NULL,NULL
+563,Mickey's Rival,NULL,NULL,NULL,NULL,NULL
+564,Kim Possible: So the Drama,7.1 (4k),"Action & Adventure , Animation , Comedy , Kids & Family , Fantasy , Science-Fiction ",1h 5min,G,Steve Loter 
+565,Marvel Studios' 2021 Disney+ Day Special,NULL,NULL,NULL,NULL,NULL
+566,Back to the Titanic,6.1,Documentary ,45min,PG,Tom Stubberfield 
+567,Valiant,5.5 (22k),"Comedy , War & Military , Animation , Kids & Family ",1h 16min,G,Gary Chapman 
+568,"Mickey, Donald, Goofy: The Three Musketeers",NULL,NULL,NULL,NULL,NULL
+569,Right on Track,6.1 (1k),"Drama , Kids & Family ",1h 29min,G,Duwayne Dunham 
+570,Mickey's Trailer,NULL,NULL,NULL,NULL,NULL
+571,Notre Dame: Race Against the Inferno,7.0,"Documentary , Drama ",44min,NULL,Fabrice Gardel 
+572,Return to Halloweentown,5.3 (6k),"Fantasy , Kids & Family , Horror , Science-Fiction , Action & Adventure , Comedy ",1h 28min,G,David Jackson 
+573,Thru the Mirror,NULL,NULL,NULL,NULL,NULL
+574,Super Buddies,NULL,NULL,NULL,NULL,NULL
+575,Giants of the Deep Blue,NULL,NULL,NULL,NULL,NULL
+576,The Prince and the Pauper,NULL,NULL,NULL,NULL,NULL
+577,Auntie Edna,NULL,NULL,NULL,NULL,NULL
+578,Buried Secrets of Cordoba,NULL,NULL,NULL,NULL,NULL
+579,Guru of Go,NULL,NULL,NULL,NULL,NULL
+580,Cinderella III: A Twist in Time,NULL,NULL,NULL,NULL,NULL
+581,African Cats,7.5 (6k),"Action & Adventure , Documentary ",1h 23min,G,Alastair Fothergill 
+582,Melody Time,6.2 (6k),"Comedy , Music & Musical , Animation , Kids & Family ",1h 15min,NULL,Hamilton Luske 
+583,The Proud Family Movie,5.3 (1k),"Kids & Family , Fantasy , Science-Fiction , Animation , Comedy ",1h 30min,G,Bruce W. Smith 
+584,Return of the Clouded Leopards,NULL,NULL,NULL,NULL,NULL
+585,Tinker Bell and the Lost Treasure,NULL,NULL,NULL,NULL,NULL
+586,Teen Beach 2,5.9 (4k),"Fantasy , Drama , Kids & Family ",1h 44min,G,Jeffrey Hornaday 
+587,Alley Cats Strike,6.0 (2k),"Comedy , Drama , Sport , Kids & Family ",1h 27min,G,Rod Daniel 
+588,That Darn Cat,4.6 (4k),"Comedy , Kids & Family , Action & Adventure , Crime ",1h 29min,PG,Bob Spiers 
+589,Tarzan & Jane,NULL,NULL,NULL,NULL,NULL
+590,Ruby Bridges,NULL,NULL,NULL,NULL,NULL
+591,Loop,NULL,NULL,NULL,NULL,NULL
+592,Shark Beach With Chris Hemsworth,6.6,Documentary ,44min,PG-13,Sally Aitken 
+593,Lava,NULL,NULL,NULL,NULL,NULL
+594,Gus,5.7 (1k),"Comedy , Kids & Family , Sport ",1h 36min,G,Vincent McEveety 
+595,Marvel Rising: Operation Shuri,4.9,"Science-Fiction , Action & Adventure , Animation ",22min,NULL,Chris Rutkowski 
+596,Geek Charming,6.3 (12k),"Drama , Kids & Family , Comedy , Romance ",1h 39min,PG,Jeffrey Hornaday 
+597,The Old Mill,NULL,NULL,NULL,NULL,NULL
+598,The Cat from Outer Space,6.0 (5k),"Science-Fiction , Comedy , Kids & Family ",1h 43min,G,Norman Tokar 
+599,Swiss Family Robinson,6.4,"Action & Adventure , Kids & Family ",1h 33min,NULL,Edward Ludwig 
+600,Cadet Kelly,5.4 (14k),"Kids & Family , Comedy , Drama ",1h 41min,G,Larry Shaw 
+601,Atlantis Rising,6.5,"Mystery & Thriller , Documentary ",1h 34min,NULL,Simcha Jacobovici 
+602,Like Mike 2: Streetball,NULL,NULL,NULL,NULL,NULL
+603,Waking Sleeping Beauty,7.6 (3k),"Documentary , Drama , History ",1h 26min,PG,Don Hahn 
+604,Lamp Life,NULL,NULL,NULL,NULL,NULL
+605,The Return of Jafar,NULL,NULL,NULL,NULL,NULL
+606,Aladdin and the King of Thieves,NULL,NULL,NULL,NULL,NULL
+607,The Thirteenth Year,5.9 (5k),"Kids & Family , Fantasy , Comedy ",1h 35min,G,Duwayne Dunham 
+608,Secret of the Wings,7.0 (12k),"Fantasy , Kids & Family , Animation ",1h 32min,G,Roberts Gannaway 
+609,Hawaiian Holiday,NULL,NULL,NULL,NULL,NULL
+610,Party Central,NULL,NULL,NULL,NULL,NULL
+611,Princess Protection Program,5.6 (24k),"Comedy , Drama , Kids & Family ",1h 24min,G,Allison Liddi-Brown 
+612,The Golden Touch,NULL,NULL,NULL,NULL,NULL
+613,Descendants 2,7.5,"Romance , Fantasy , Action & Adventure , Kids & Family ",1h 51min,G,Kenny Ortega 
+614,Long Gone Summer,NULL,NULL,NULL,NULL,NULL
+615,The Luck of the Irish,6.1 (7k),"Comedy , Action & Adventure , Kids & Family , Fantasy , Sport , Drama ",1h 26min,G,Paul Hoen 
+616,Frenemies,4.9 (4k),"Drama , Kids & Family , Comedy ",1h 26min,G,Daisy von Scherler Mayer 
+617,Pooh's Heffalump Movie,6.4 (7k),"Fantasy , Animation , Comedy , Kids & Family ",1h 5min,G,Frank Nissen 
+618,Mr. Mouse Takes a Trip,NULL,NULL,NULL,NULL,NULL
+619,Herbie Goes to Monte Carlo,5.6 (7k),"Action & Adventure , Romance , Comedy , Kids & Family , Fantasy , Sport , Crime ",1h 44min,G,Vincent McEveety 
+620,Drain the Titanic,6.4,Documentary ,46min,NULL,Jobim Sampson 
+621,The Swap,6.0 (2k),"Comedy , Kids & Family , Fantasy ",1h 40min,PG,Jay Karas 
+622,Society Dog Show,NULL,NULL,NULL,NULL,NULL
+623,Maggie Simpson in The Force Awakens from Its Nap,6.2,Comedy ,3min,PG,David Silverman 
+624,Disney's Broadway Hits at London's Royal Albert Hall,7.8,Music & Musical ,2h 35min,NULL,Jay Hatcher 
+625,Halloweentown High,6.1 (7k),"Fantasy , Comedy , Kids & Family ",1h 22min,G,Mark A.Z. Dippé 
+626,Phineas and Ferb: Star Wars,NULL,NULL,NULL,NULL,NULL
+627,Frank and Ollie,7.7,Documentary ,1h 29min,PG,Theodore Thomas 
+628,The Wild,5.2 (25k),"Animation , Comedy , Kids & Family ",1h 34min,G,Steve 'Spaz' Williams 
+629,Clotilda: Last American Slave Ship,NULL,NULL,NULL,NULL,NULL
+630,Clock Cleaners,NULL,NULL,NULL,NULL,NULL
+631,Camp Rock 2: The Final Jam,5.2 (18k),"Comedy , Romance , Kids & Family , Music & Musical ",1h 44min,PG,Paul Hoen 
+632,Cinderella II: Dreams Come True,NULL,NULL,NULL,NULL,NULL
+633,Gotta Kick It Up!,5.6 (1k),"Comedy , Drama , Kids & Family ",1h 18min,G,Ramón Menéndez 
+634,Snow Buddies,NULL,NULL,NULL,NULL,NULL
+635,Brother Bear 2,NULL,NULL,NULL,NULL,NULL
+636,Expedition Everest,6.6,Documentary ,42min,PG,Katie Bauer Murdock 
+637,102 Dalmatians,4.8 (37k),"Comedy , Kids & Family ",1h 40min,G,Kevin Lima 
+638,Let It Shine,6.5 (3k),"Kids & Family , Music & Musical , Drama ",1h 41min,G,Paul Hoen 
+639,Prom,5.4 (15k),"Romance , Drama , Kids & Family , Comedy ",1h 44min,PG,Joe Nussbaum 
+640,Unidentified Flying Oddball,5.1 (1k),"Fantasy , Comedy , Kids & Family , Science-Fiction ",1h 33min,G,Russ Mayberry 
+641,Jack-Jack Attack,NULL,NULL,NULL,NULL,NULL
+642,Ice Age: The Great Egg-Scapade,5.9 (3k),"Animation , Comedy , Kids & Family ",25min,NULL,Ricardo Curtis 
+643,Beach Picnic,NULL,NULL,NULL,NULL,NULL
+644,Iron Man & Captain America: Heroes United,5.8,"Action & Adventure , Animation , Comedy , Drama , Kids & Family ",1h 11min,PG,Leo Riley 
+645,Zenon: Girl of the 21st Century,6.3 (7k),"Science-Fiction , Comedy , Kids & Family ",1h 37min,G,Kenneth Johnson 
+646,Third Man on the Mountain,7.1 (1k),"Drama , Kids & Family ",1h 45min,G,Ken Annakin 
+647,The Ugly Duckling,NULL,NULL,NULL,NULL,NULL
+648,The Sign of Zorro,6.9 (1k),"Western , Drama , Kids & Family , Romance ",1h 31min,NULL,Norman Foster 
+649,Wolfgang,6.9,Documentary ,1h 18min,NULL,David Gelb 
+650,Three Blind Mouseketeers,NULL,NULL,NULL,NULL,NULL
+651,Johnny Tsunami,6.2 (5k),"Drama , Kids & Family , Sport ",1h 28min,G,Steve Boyum 
+652,I'll Be Home for Christmas,5.5 (10k),"Comedy , Kids & Family ",1h 26min,PG,Arlene Sanford 
+653,Ice Age: A Mammoth Christmas,NULL,NULL,NULL,NULL,NULL
+654,Phineas and Ferb: The Movie: Across the 2nd Dimension,7.4 (11k),"Science-Fiction , Animation , Action & Adventure , Comedy , Kids & Family ",1h 18min,NULL,Dan Povenmire 
+655,The Way of the Cheetah,NULL,NULL,NULL,NULL,NULL
+656,Emil and the Detectives,6.2,"Comedy , Crime , Drama , Kids & Family ",1h 39min,PG,Peter Tewksbury 
+657,Lonesome Ghosts,NULL,NULL,NULL,NULL,NULL
+658,Toby Tortoise Returns,NULL,NULL,NULL,NULL,NULL
+659,Elmer Elephant,NULL,NULL,NULL,NULL,NULL
+660,Leroy & Stitch,NULL,NULL,NULL,NULL,NULL
+661,The Hunchback of Notre Dame II,NULL,NULL,NULL,NULL,NULL
+662,Wings of Life,7.4,"Documentary , Kids & Family ",1h 17min,G,Louie Schwartzberg 
+663,Into the Grand Canyon,7.3,Documentary ,1h 24min,PG,Peter McBride 
+664,Tarzan II,NULL,NULL,NULL,NULL,NULL
+665,Halloweentown II: Kalabar's Revenge,6.3 (8k),"Horror , Fantasy , Kids & Family ",1h 21min,G,Mary Lambert 
+666,The Cheetah Girls,4.8 (7k),"Comedy , Drama , Kids & Family , Music & Musical ",1h 33min,G,Oz Scott 
+667,The New Air Force One: Flying Fortress,5.2,Documentary ,44min,G,Scott Bateman 
+668,Double Teamed,5.9 (3k),"Drama , Kids & Family , Sport ",1h 32min,G,Duwayne Dunham 
+669,Magician Mickey,NULL,NULL,NULL,NULL,NULL
+670,Teacher's Pet,5.7 (1k),"Drama , Comedy , Science-Fiction , Animation , Kids & Family , Fantasy , Music & Musical ",1h 14min,PG,Timothy Björklund 
+671,King Tut In Colour,NULL,NULL,NULL,NULL,NULL
+672,Blackbeard's Ghost,6.8 (6k),"Comedy , Kids & Family , Fantasy ",1h 46min,G,Robert Stevenson 
+673,Tinker Bell and the Great Fairy Rescue,NULL,NULL,NULL,NULL,NULL
+674,Your Friend the Rat,NULL,NULL,NULL,NULL,NULL
+675,Avalon High,5.6 (5k),"Fantasy , Drama , Kids & Family ",1h 31min,G,Stuart Gillard 
+676,The Little Mermaid: Ariel's Beginning,NULL,NULL,NULL,NULL,NULL
+677,Belle's Magical World,NULL,NULL,NULL,NULL,NULL
+678,Boat Builders,NULL,NULL,NULL,NULL,NULL
+679,Piper,NULL,NULL,NULL,NULL,NULL
+680,Three Little Wolves,NULL,NULL,NULL,NULL,NULL
+681,Growing Fangs,NULL,NULL,NULL,NULL,NULL
+682,Bugged,NULL,NULL,NULL,NULL,NULL
+683,The Book of Manning,8.1,"Documentary , Sport ",2h 0min,NULL,Rory Karpf 
+684,Beverly Hills Chihuahua 2,NULL,NULL,NULL,NULL,NULL
+685,Mike's New Car,NULL,NULL,NULL,NULL,NULL
+686,Penguins,7.1 (1k),"Kids & Family , Documentary ",1h 16min,G,Jeff Wilson 
+687,Santa Paws 2: The Santa Pups,4.7 (1k),"Fantasy , Kids & Family ",1h 28min,G,Robert Vince 
+688,Partysaurus Rex,NULL,NULL,NULL,NULL,NULL
+689,La luna,NULL,NULL,NULL,NULL,NULL
+690,A Muppets Christmas: Letters to Santa,6.4 (2k),"Comedy , Kids & Family , Music & Musical ",55min,G,Kirk R. Thatcher 
+691,Disneyland Around the Seasons,NULL,NULL,NULL,NULL,NULL
+692,The Even Stevens Movie,6.1 (7k),"Comedy , Kids & Family ",2h 0min,G,Sean McNamara 
+693,Pompeii: Secrets of the Dead,NULL,NULL,NULL,NULL,NULL
+694,The Lost City Of Machu Picchu,7.1,"History , Documentary ",44min,PG-13,NULL
+695,For the Birds,NULL,NULL,NULL,NULL,NULL
+696,Read It and Weep,5.5 (5k),"Comedy , Drama , Kids & Family , Romance , Animation ",1h 30min,G,Paul Hoen 
+697,The Day the Series Stopped,NULL,NULL,NULL,NULL,NULL
+698,The Giant Robber Crab,NULL,NULL,NULL,NULL,NULL
+699,MARS: Inside SpaceX,7.3,Documentary ,46min,PG,Julia Reagan 
+700,Return from Witch Mountain,5.7 (5k),"Fantasy , Science-Fiction , Kids & Family ",1h 35min,G,John Hough 
+701,Tin Toy,NULL,NULL,NULL,NULL,NULL
+702,Jordan Rides the Bus,NULL,NULL,NULL,NULL,NULL
+703,Air Mater,NULL,NULL,NULL,NULL,NULL
+704,Girl vs. Monster,5.3 (3k),"Science-Fiction , Fantasy , Action & Adventure , Comedy , Kids & Family ",1h 29min,PG,Stuart Gillard 
+705,Monkey Kingdom,7.2 (3k),Documentary ,1h 21min,G,Mark Linfield 
+706,Marvel Rising: Secret Warriors,5.3 (1k),"Science-Fiction , Animation , Action & Adventure , Comedy , Fantasy ",1h 20min,NULL,Alfred Gimeno 
+707,Boundin',NULL,NULL,NULL,NULL,NULL
+708,College Road Trip,4.3 (16k),"Comedy , Kids & Family , Drama ",1h 19min,G,Roger Kumble 
+709,Jonas Brothers: The Concert Experience,1.6 (17k),"Documentary , Music & Musical , Kids & Family ",1h 16min,G,Bruce Hendricks 
+710,One Magic Christmas,6.4 (3k),"Fantasy , Kids & Family ",1h 28min,G,Phillip Borsos 
+711,Hiccups,NULL,NULL,NULL,NULL,NULL
+712,Christmas ...Again?!,NULL,NULL,NULL,NULL,NULL
+713,Dolphin Reef,6.6,"Documentary , Kids & Family ",1h 17min,G,Keith Scholey 
+714,The Story of Robin Hood and His Merrie Men,6.6 (1k),"Action & Adventure , Kids & Family ",1h 23min,NULL,Ken Annakin 
+715,Mickey's Twice Upon a Christmas,NULL,NULL,NULL,NULL,NULL
+716,The Cheetah Girls 2,4.9 (6k),"Drama , Comedy , Music & Musical , Kids & Family ",1h 36min,G,Kenny Ortega 
+717,Presto,NULL,NULL,NULL,NULL,NULL
+718,The Search for Santa Paws,NULL,NULL,NULL,NULL,NULL
+719,Meet the Deedles,4.0 (2k),"Comedy , Kids & Family , Sport ",1h 33min,PG,Steve Boyum 
+720,Time Travel Mater,NULL,NULL,NULL,NULL,NULL
+721,I Hate Christian Laettner,NULL,NULL,NULL,NULL,NULL
+722,Tiger Cruise,5.9 (1k),"Drama , Kids & Family ",1h 28min,NULL,Duwayne Dunham 
+723,"Up, Up, and Away",5.4 (1k),"Kids & Family , Fantasy , Science-Fiction , Comedy ",1h 17min,G,Robert Townsend 
+724,Stitch! The Movie,NULL,NULL,NULL,NULL,NULL
+725,Rescue Squad Mater,NULL,NULL,NULL,NULL,NULL
+726,The Cheetah Girls: One World,4.5 (4k),"Romance , War & Military , Animation , Comedy , Drama , Kids & Family ",1h 30min,G,Paul Hoen 
+727,Ghost of the Mountains,7.0,Documentary ,1h 18min,G,Ben Wallis 
+728,Croc That Ate Jaws,NULL,NULL,NULL,NULL,NULL
+729,Lost Tombs of the Pyramids,6.0,Documentary ,44min,PG,NULL
+730,Born in China,7.2 (3k),Documentary ,1h 16min,G,Lu Chuan 
+731,Kitbull,NULL,NULL,NULL,NULL,NULL
+732,Rip Girls,5.9 (1k),"Drama , Kids & Family , Romance ",1h 27min,G,Joyce Chopra 
+733,The Shaggy D.A.,5.8 (3k),"Fantasy , Made in Europe , Kids & Family , Comedy ",1h 31min,G,Robert Stevenson 
+734,Jingle All the Way 2,NULL,NULL,NULL,NULL,NULL
+735,Titanic: 20 Years Later with James Cameron,7.1,Documentary ,47min,PG,Thomas C. Grane 
+736,Sea of Hope: America's Underwater Treasures,7.7,Documentary ,1h 0min,NULL,Robert Nixon 
+737,The Living Desert,7.4 (1k),"Documentary , Kids & Family ",1h 6min,G,James Algar 
+738,Iron Man & Hulk: Heroes United,NULL,NULL,NULL,NULL,NULL
+739,Piglet's Big Movie,6.1 (7k),"Animation , Comedy , Kids & Family ",1h 15min,G,Francis Glebas 
+740,The Castaway Cowboy,5.8,"Western , Comedy , Kids & Family ",1h 31min,G,Vincent McEveety 
+741,Drain The Ocean: WWII,6.9,"Documentary , History ",45min,PG,NULL
+742,Tokyo Mater,NULL,NULL,NULL,NULL,NULL
+743,The Tigger Movie,6.3 (18k),"Comedy , Drama , Kids & Family , Animation ",1h 17min,G,Jun Falkenstein 
+744,Knick Knack,NULL,NULL,NULL,NULL,NULL
+745,Invisible Sister,5.9 (3k),"Fantasy , Comedy , Kids & Family ",1h 17min,G,Paul Hoen 
+746,Growing Up Wild,7.2,Documentary ,1h 17min,G,Keith Scholey 
+747,Phineas and Ferb: Mission Marvel,NULL,NULL,NULL,NULL,NULL
+748,Survive and Advance,NULL,NULL,NULL,NULL,NULL
+749,Teen Spirit,5.4 (7k),"Drama , Fantasy , Comedy ",1h 21min,PG-13,Gil Junger 
+750,Squanto: A Warrior's Tale,6.0 (1k),"Action & Adventure , Drama , Kids & Family ",1h 42min,PG,Xavier Koller 
+751,Doc & Darryl,NULL,NULL,NULL,NULL,NULL
+752,The Apple Dumpling Gang Rides Again,6.0 (2k),"Comedy , Western , Kids & Family ",1h 28min,G,Vincent McEveety 
+753,Sanjay's Super Team,NULL,NULL,NULL,NULL,NULL
+754,Donald's Golf Game,NULL,NULL,NULL,NULL,NULL
+755,Riley's First Date?,NULL,NULL,NULL,NULL,NULL
+756,Descendants: The Royal Wedding,NULL,NULL,NULL,NULL,NULL
+757,Egypt's Treasure Guardians,6.2,History ,44min,NULL,NULL
+758,Wendy Wu: Homecoming Warrior,5.3 (6k),"Action & Adventure , Science-Fiction , Kids & Family , Fantasy , Romance ",1h 30min,G,John Laing 
+759,The Radiator Springs 500½,NULL,NULL,NULL,NULL,NULL
+760,Stonehenge: Decoded,6.3,"Documentary , History ",1h 32min,PG,Christopher Spencer 
+761,Into the Okavango,7.6,Documentary ,1h 34min,PG,Neil Gelinas 
+762,Hawaiian Vacation,NULL,NULL,NULL,NULL,NULL
+763,Santa Buddies,NULL,NULL,NULL,NULL,NULL
+764,Unidentified Flying Mater,NULL,NULL,NULL,NULL,NULL
+765,Mater the Greater,NULL,NULL,NULL,NULL,NULL
+766,Doug's 1st Movie,4.9 (3k),"Animation , Drama , Kids & Family , Fantasy , Science-Fiction , Comedy ",1h 17min,G,Maurice Joyce 
+767,Minutemen,5.8 (5k),"Science-Fiction , Mystery & Thriller , Comedy , Kids & Family , Romance ",1h 31min,G,Lev L. Spiro 
+768,Winnie the Pooh: Springtime with Roo,NULL,NULL,NULL,NULL,NULL
+769,Luxo Jr.,NULL,NULL,NULL,NULL,NULL
+770,LEGO Start Wars: The New Yoda Chronicles: Duel of the Skywalkers,NULL,NULL,NULL,NULL,NULL
+771,Almost Angels,6.5,"Comedy , Kids & Family , Music & Musical ",1h 33min,NULL,Steve Previn 
+772,Mater and the Ghostlight,NULL,NULL,NULL,NULL,NULL
+773,Cesar Millan: The Real Story,6.8,Documentary ,45min,NULL,Doug Shultz 
+774,Chip an' Dale,NULL,NULL,NULL,NULL,NULL
+775,Partly Cloudy,NULL,NULL,NULL,NULL,NULL
+776,Treasure of Matecumbe,6.1,"Western , Kids & Family ",1h 57min,G,Vincent McEveety 
+777,Winnie the Pooh: A Very Merry Pooh Year,6.6 (2k),"Animation , Comedy , Drama , Kids & Family , Fantasy ",1h 5min,G,Gary Katona 
+778,The Adventures of André and Wally B.,NULL,NULL,NULL,NULL,NULL
+779,Moon Mater,NULL,NULL,NULL,NULL,NULL
+780,Lifted,NULL,NULL,NULL,NULL,NULL
+781,The Ghosts of Buxley Hall,5.7,"Fantasy , Kids & Family , Horror , Comedy ",2h 0min,NULL,Bruce Bilson 
+782,Greyfriars Bobby: The True Story of a Dog,7.2 (1k),"Drama , Kids & Family ",1h 27min,PG,Don Chaffey 
+783,Sharpay's Fabulous Adventure,4.2,"Music & Musical , Kids & Family , Horror , Drama , Sport ",1h 30min,G,Michael Lembeck 
+784,Jane Goodall: The Hope,8.0,"Action & Adventure , Documentary ",1h 28min,NULL,Elizabeth Leiter 
+785,Olaf's Frozen Adventure,NULL,NULL,NULL,NULL,NULL
+786,Twenty Something,NULL,NULL,NULL,NULL,NULL
+787,Mickey's Once Upon a Christmas,NULL,NULL,NULL,NULL,NULL
+788,The Little Mermaid II: Return to the Sea,NULL,NULL,NULL,NULL,NULL
+789,Miracle at Midnight,NULL,NULL,NULL,NULL,NULL
+790,The Little Prince(ss),NULL,NULL,NULL,NULL,NULL
+791,The Suite Life Movie,5.1 (3k),"Comedy , Crime , Drama , Kids & Family , Science-Fiction ",1h 20min,G,Sean McNamara 
+792,Spinning,NULL,NULL,NULL,NULL,NULL
+793,Mr. Duck Steps Out,NULL,NULL,NULL,NULL,NULL
+794,Canine Caddy,NULL,NULL,NULL,NULL,NULL
+795,Once Upon a Snowman,NULL,NULL,NULL,NULL,NULL
+796,Expedition Mars,7.5,Documentary ,1h 29min,NULL,Mark Davis 
+797,The Wizards Return: Alex vs. Alex,6.3 (6k),"Drama , Fantasy , Romance , Animation , Action & Adventure , Comedy , Kids & Family ",1h 0min,PG,Victor Gonzalez 
+798,Lady and the Tramp II: Scamp's Adventure,NULL,NULL,NULL,NULL,NULL
+799,Mr. Boogedy,NULL,NULL,NULL,NULL,NULL
+800,Maggie Simpson in The Longest Daycare,NULL,NULL,NULL,NULL,NULL
+801,Cheetah,5.9 (1k),"Drama , Kids & Family ",1h 23min,G,Jeff Blyth 
+802,Den Brother,5.2 (2k),"Kids & Family , Romance , Sport ",1h 29min,NULL,Mark L. Taylor 
+803,Tugboat Mickey,NULL,NULL,NULL,NULL,NULL
+804,Pluto's Surprise Package,NULL,NULL,NULL,NULL,NULL
+805,Get a Horse!,NULL,NULL,NULL,NULL,NULL
+806,The Fox and the Hound 2,NULL,NULL,NULL,NULL,NULL
+807,The Blue Umbrella,NULL,NULL,NULL,NULL,NULL
+808,Going to the Mat,6.7 (1k),"Drama , Kids & Family , Sport ",1h 36min,NULL,Stuart Gillard 
+809,Donald's Dog Laundry,NULL,NULL,NULL,NULL,NULL
+810,Mickey Down Under,NULL,NULL,NULL,NULL,NULL
+811,The Prince and the Pauper,6.3,Action & Adventure ,1h 33min,NULL,Don Chaffey 
+812,Sea Scouts,NULL,NULL,NULL,NULL,NULL
+813,The Boys: The Sherman Brothers' Story,7.7 (1k),"Documentary , Music & Musical ",1h 41min,PG,Gregory V. Sherman 
+814,Beverly Hills Chihuahua 3: Viva la Fiesta!,NULL,NULL,NULL,NULL,NULL
+815,A Tale of Two Critters,6.0,"Action & Adventure , Kids & Family , Documentary ",48min,G,Jack Speirs 
+816,Double Dribble,NULL,NULL,NULL,NULL,NULL
+817,LEGO Star Wars: The New Yoda Chronicles - Clash of the Skywalkers,NULL,NULL,NULL,NULL,NULL
+818,The Little Whirlwind,NULL,NULL,NULL,NULL,NULL
+819,The Mistle-Tones,6.4 (2k),"Comedy , Romance , Music & Musical , Kids & Family ",1h 30min,NULL,Paul Hoen 
+820,The Legend of Mor'du,NULL,NULL,NULL,NULL,NULL
+821,Winnie the Pooh: A Valentine for You,7.2,"Kids & Family , Animation , Comedy , Drama ",22min,G,Keith Ingham 
+822,Expedition Amelia,7.2,"Documentary , History ",1h 35min,NULL,Chad Cohen 
+823,Mark Twain and Me,6.9,Drama ,1h 33min,NULL,Daniel Petrie 
+824,Beauty and the Beast: The Enchanted Christmas,NULL,NULL,NULL,NULL,NULL
+825,LEGO Star Wars: The New Yoda Chronicles - Escape from the Jedi Temple,NULL,NULL,NULL,NULL,NULL
+826,Lend a Paw,NULL,NULL,NULL,NULL,NULL
+827,The Vanishing Prairie,7.3,"Documentary , Kids & Family ",1h 11min,G,James Algar 
+828,Can of Worms,5.0 (1k),"Comedy , Kids & Family , Science-Fiction ",1h 30min,PG,Paul Schneider 
+829,The Wonderful Winter of Mickey Mouse,NULL,NULL,NULL,NULL,NULL
+830,Gender Revolution: A Journey with Katie Couric,5.8,Documentary ,1h 30min,PG,Katie Couric 
+831,Marvel Rising: Chasing Ghosts,5.2,"Animation , Action & Adventure , Kids & Family ",22min,NULL,Alfred Gimeno 
+832,The Biscuit Eater,5.8,"Drama , Kids & Family ",1h 32min,G,Vincent McEveety 
+833,Paris to Pittsburgh,6.5,Documentary ,1h 17min,NULL,Michael Bonfiglio 
+834,Wizards of Waverly Place: The Movie,6.2 (18k),"Drama , Fantasy , Comedy , Action & Adventure , Kids & Family , Animation ",1h 34min,PG,Lev L. Spiro 
+835,Shark vs. Whale,5.3,Documentary ,45min,NULL,NULL
+836,Bambi II,NULL,NULL,NULL,NULL,NULL
+837,Pluto's Purchase,NULL,NULL,NULL,NULL,NULL
+838,Survivre à la catastrophe du Mont St. Helens,7.6,"Documentary , History ",45min,NULL,Sophie Elwin-Harris 
+839,Yellowstone Cubs,6.8,"Comedy , Kids & Family ",48min,G,Charles L Draper 
+840,Sharkcano,NULL,NULL,NULL,NULL,NULL
+841,The Story of the Faithful Wookiee,NULL,NULL,NULL,NULL,NULL
+842,The Wonderful Spring of Mickey Mouse,NULL,NULL,NULL,NULL,NULL
+843,How to Play Baseball,NULL,NULL,NULL,NULL,NULL
+844,Amy,6.5,"Drama , Kids & Family ",1h 40min,G,Vincent McEveety 
+845,Richie Rich's Christmas Wish,NULL,NULL,NULL,NULL,NULL
+846,Shark Attack Investigation: The Paige Winter Story,NULL,NULL,NULL,NULL,NULL
+847,Wind,NULL,NULL,NULL,NULL,NULL
+848,'Twas the Night,5.2 (1k),"Kids & Family , Comedy ",1h 24min,G,Nick Castle 
+849,Embrace the Panda: Making Turning Red,NULL,NULL,NULL,NULL,NULL
+850,Red's Dream,NULL,NULL,NULL,NULL,NULL
+851,Whispers: An Elephant's Tale,5.0,"Drama , Kids & Family ",1h 12min,G,Dereck Joubert 
+852,Under Wraps,NULL,NULL,NULL,NULL,NULL
+853,Drain Alcatraz,6.0,Documentary ,45min,NULL,Wayne Abbott 
+854,Drain the Bermuda Triangle,6.4,Documentary ,50min,NULL,Crispin Sadler 
+855,Destino,NULL,NULL,NULL,NULL,NULL
+856,Cloud 9,6.3 (4k),"Drama , Kids & Family , Sport , Action & Adventure ",1h 30min,G,Paul Hoen 
+857,The Secret of the Magic Gourd,5.1,"Fantasy , Kids & Family , Drama ",1h 25min,G,Frankie Chung 
+858,Float,NULL,NULL,NULL,NULL,NULL
+859,Treasure Buddies,NULL,NULL,NULL,NULL,NULL
+860,Lou,NULL,NULL,NULL,NULL,NULL
+861,The Bears and I,6.2,"Drama , Kids & Family ",1h 29min,G,Bernard McEveety 
+862,LEGO Star Wars: The New Yoda Chronicles - Race For The Holocrons,NULL,NULL,NULL,NULL,NULL
+863,Stuck in the Suburbs,5.5 (4k),"Comedy , Music & Musical , Kids & Family ",1h 16min,G,Savage Steve Holland 
+864,Heavy Metal Mater,NULL,NULL,NULL,NULL,NULL
+865,Jump In!,5.3 (7k),"Comedy , Romance , Drama , Kids & Family , Sport ",1h 21min,NULL,Paul Hoen 
+866,Mater Private Eye,NULL,NULL,NULL,NULL,NULL
+867,The Ballad of Nessie,NULL,NULL,NULL,NULL,NULL
+868,Lost Cities: The Great Flood,NULL,NULL,NULL,NULL,NULL
+869,Mickey's Delayed Date,NULL,NULL,NULL,NULL,NULL
+870,The Art of Skiing,NULL,NULL,NULL,NULL,NULL
+871,The Real Black Panther,NULL,NULL,NULL,NULL,NULL
+872,Perri,6.8,"Fantasy , Kids & Family , Romance ",1h 15min,G,Paul Kenworthy 
+873,Genius,6.0 (1k),"Comedy , Drama , Documentary , Science-Fiction , Kids & Family , Romance ",1h 22min,G,Rod Daniel 
+874,Phantom of the Megaplex,6.3 (3k),"Action & Adventure , Mystery & Thriller , Horror , Comedy , Kids & Family ",1h 29min,G,Blair Treu 
+875,Stuntman,6.6,Documentary ,1h 27min,PG-13,Kurt Mattila 
+876,Stepsister from Planet Weird,5.7 (1k),"Science-Fiction , Comedy , Kids & Family ",1h 25min,G,Steve Boyum 
+877,The Hidden Kingdoms of China,6.9,Documentary ,1h 28min,PG,Ben Wallis 
+878,Motocrossed,6.5 (5k),"Comedy , Drama , Romance , Action & Adventure , Kids & Family , Sport ",1h 31min,G,Steve Boyum 
+879,How to Build a Better Boy,5.3 (3k),"Science-Fiction , Comedy , Kids & Family ",1h 30min,G,Paul Hoen 
+880,Morning Light,5.7,"Documentary , Sport , Drama ",1h 37min,PG,Mark Monroe 
+881,Those Calloways,6.6,"Drama , Kids & Family ",2h 11min,PG,Norman Tokar 
+882,Bear Witness,7.3,Documentary ,1h 23min,G,Alastair Fothergill 
+883,The Scream Team,6.3 (1k),"Fantasy , Comedy , Kids & Family , Horror ",1h 28min,NULL,Stuart Gillard 
+884,Geri's Game,NULL,NULL,NULL,NULL,NULL
+885,The Jungle Book 2,5.3 (16k),"Animation , Comedy , Kids & Family , Fantasy ",1h 9min,G,Steve Trenbirth 
+886,How to Fish,NULL,NULL,NULL,NULL,NULL
+887,Silly Little Game,NULL,NULL,NULL,NULL,NULL
+888,The Adventures of Bullwhip Griffin,6.4 (1k),"Western , Romance , Action & Adventure , Comedy , Kids & Family ",1h 48min,NULL,James Neilson 
+889,Tangled: Before Ever After,6.6 (2k),"Animation , Comedy , Kids & Family , Fantasy , Action & Adventure ",55min,G,Stephen Sandoval 
+890,Rescue Dog,NULL,NULL,NULL,NULL,NULL
+891,Rogue Shark,6.9,Documentary ,44min,PG-13,Mark Woodward 
+892,Orca Vs. Great White,5.3,Documentary ,44min,PG-13,Sigmund Spath Jr. 
+893,The Real Right Stuff,7.2,"Documentary , History ",1h 30min,PG,Tom Jennings 
+894,Spooky Buddies,NULL,NULL,NULL,NULL,NULL
+895,Winter Storage,NULL,NULL,NULL,NULL,NULL
+896,The Last of the Chupacabras,NULL,NULL,NULL,NULL,NULL
+897,George & A.J.,NULL,NULL,NULL,NULL,NULL
+898,Dragon Around,NULL,NULL,NULL,NULL,NULL
+899,Hacksaw,5.8,Kids & Family ,1h 29min,PG,Larry Lansburgh 
+900,700 Sharks,6.9,Documentary ,1h 32min,NULL,Luc Marescot 
+901,Purl,NULL,NULL,NULL,NULL,NULL
+902,Hannah Montana & Miley Cyrus: Best of Both Worlds Concert,2.5 (12k),"Documentary , Music & Musical ",1h 22min,G,Bruce Hendricks 
+903,You Wish!,6.0 (1k),"Kids & Family , Comedy , Fantasy , Drama ",1h 27min,NULL,Paul Hoen 
+904,Miracle Landing on the Hudson,6.5,"Documentary , Drama ",1h 30min,NULL,George Simon 
+905,Pocahontas II: Journey to a New World,NULL,NULL,NULL,NULL,NULL
+906,Skyrunners,5.0 (1k),"Comedy , Action & Adventure , Drama , Kids & Family , Science-Fiction ",1h 32min,G,Ralph Hemecker 
+907,Young Black Stallion,5.4 (1k),"Drama , Kids & Family ",49min,G,Simon Wincer 
+908,Marvel Studios: Expanding the Universe,NULL,NULL,NULL,NULL,NULL
+909,Hatching Pete,5.3 (2k),"Comedy , Kids & Family ",1h 30min,NULL,Stuart Gillard 
+910,A Ring of Endless Light,5.8 (1k),"Drama , Kids & Family , Romance ",1h 28min,NULL,Greg Beeman 
+911,Adventure Thru the Walt Disney Archives,7.9,Documentary ,1h 0min,PG,John Gleim 
+912,Now You See It...,6.1 (2k),"Drama , Kids & Family , Fantasy ",1h 23min,G,Duwayne Dunham 
+913,Full-Court Miracle,5.7 (1k),"Kids & Family , Drama , Sport ",1h 30min,NULL,Stuart Gillard 
+914,Monster Truck Mater,NULL,NULL,NULL,NULL,NULL
+915,Early to Bed,NULL,NULL,NULL,NULL,NULL
+916,Nona,NULL,NULL,NULL,NULL,NULL
+917,The New Neighbor,NULL,NULL,NULL,NULL,NULL
+918,Bad Hair Day,5.8 (3k),"Comedy , Kids & Family ",1h 30min,NULL,Erik Canuel 
+919,Food for Feudin',NULL,NULL,NULL,NULL,NULL
+920,The Small One,NULL,NULL,NULL,NULL,NULL
+921,The Poof Point,4.5,"Comedy , Kids & Family , Science-Fiction ",1h 19min,PG,Neal Israel 
+922,Trailer Horn,NULL,NULL,NULL,NULL,NULL
+923,Earth Live,5.2,Documentary ,2h 0min,PG,Glenn Weiss 
+924,One Day at Disney,7.0,Documentary ,59min,NULL,Fritz Mitchell 
+925,Johnny Kapahala: Back on Board,5.4 (2k),"Drama , Kids & Family , Sport , Comedy ",1h 30min,NULL,Eric Bross 
+926,Breaking2,7.3,"Documentary , Reality TV ",55min,PG,Martin Desmond Roe 
+927,The African Lion,7.2,"Kids & Family , Documentary ",1h 15min,G,James Algar 
+928,Marvel Rising: Heart of Iron,5.2 (1k),"Science-Fiction , Animation , Action & Adventure ",44min,NULL,Alfred Gimeno 
+929,Dadnapped,4.7 (3k),"Action & Adventure , Comedy , Crime , Kids & Family ",1h 24min,G,Paul Hoen 
+930,Eddie's Million Dollar Cook Off,6.0 (2k),"Comedy , Kids & Family , Sport ",1h 25min,G,Paul Hoen 
+931,Cow Belles,5.2 (6k),"Romance , Comedy , Kids & Family ",1h 30min,G,Francine McDougall 
+932,Dug's Special Mission,NULL,NULL,NULL,NULL,NULL
+933,How to Swim,NULL,NULL,NULL,NULL,NULL
+934,Mission to the Sun,6.6,Documentary ,44min,PG,Daniel M. Smith 
+935,The Crimson Wing: Mystery of the Flamingos,7.3 (1k),Documentary ,1h 18min,G,Matthew Aeberhard 
+936,Roving Mars,NULL,NULL,NULL,NULL,NULL
+937,Fernando Nation,NULL,NULL,NULL,NULL,NULL
+938,One Man Band,NULL,NULL,NULL,NULL,NULL
+939,Horse Sense,6.1 (1k),"Drama , Kids & Family ",1h 32min,G,Greg Beeman 
+940,Myth: A Frozen Tale,NULL,NULL,NULL,NULL,NULL
+941,Sharks of Lost Island,5.6,Documentary ,45min,PG,Neil Gelinas 
+942,Bone Bandit,NULL,NULL,NULL,NULL,NULL
+943,Pixel Perfect,5.6 (3k),"Science-Fiction , Kids & Family , Comedy , Fantasy , Music & Musical ",1h 25min,NULL,Mark A.Z. Dippé 
+944,Smash and Grab,NULL,NULL,NULL,NULL,NULL
+945,Kingdom of the Apes: Battle Lines,NULL,NULL,NULL,NULL,NULL
+946,The Jungle Book: Mowgli's Story,NULL,NULL,NULL,NULL,NULL
+947,Under the Sea: A Descendants Story,5.3,Fantasy ,10min,NULL,Hasraf Dulull 
+948,All in a Nutshell,NULL,NULL,NULL,NULL,NULL
+949,Day & Night,NULL,NULL,NULL,NULL,NULL
+950,The Million Dollar Duck,5.7 (2k),"Comedy , Science-Fiction , Kids & Family ",1h 29min,G,Vincent McEveety 
+951,How to Play Football,NULL,NULL,NULL,NULL,NULL
+952,A Spark Story,6.5,"Documentary , Animation ",1h 27min,NULL,Leanne Dare 
+953,Wild Portugal,6.9,Documentary ,44min,PG-13,Christian Baumeister 
+954,Quints,5.5 (2k),"Comedy , Drama , Kids & Family ",1h 23min,G,Bill Corcoran 
+955,Mickey's Tale of Two Witches,6.8,"Animation , Action & Adventure , Comedy , Kids & Family , Fantasy ",46min,G,Phil Weinstein 
+956,The Magic Maker,4.2,,43min,PG,Adam Trent 
+957,Frozen Fever,NULL,NULL,NULL,NULL,NULL
+958,Go Figure,5.6 (3k),"Drama , Comedy , Action & Adventure , Kids & Family , Romance , Sport ",1h 28min,G,Francine McDougall 
+959,Snowglobe,5.8 (2k),"Science-Fiction , Fantasy , Comedy , Kids & Family , Romance ",2h 0min,NULL,Ron Lagomarsino 
+960,Pluto and the Gopher,NULL,NULL,NULL,NULL,NULL
+961,Life Is Ruff,4.8 (1k),"Comedy , Kids & Family ",1h 24min,PG,Charles Haid 
+962,Mickey and the Seal,NULL,NULL,NULL,NULL,NULL
+963,"Good Luck Charlie, It's Christmas!",6.3 (6k),"Comedy , Drama , Kids & Family ",1h 25min,NULL,Arlene Sanford 
+964,Pluto's Party,NULL,NULL,NULL,NULL,NULL
+965,Pluto's Christmas Tree,NULL,NULL,NULL,NULL,NULL
+966,Prep & Landing,7.6 (3k),"Fantasy , Kids & Family , Animation , Comedy ",22min,G,NULL
+967,The Dominican Dream,7.7,"Documentary , Sport ",1h 17min,NULL,Jonathan Hock 
+968,Chef Donald,NULL,NULL,NULL,NULL,NULL
+969,White Fang 2: Myth of the White Wolf,5.4 (2k),"Action & Adventure , Kids & Family ",1h 46min,PG,Ken Olin 
+970,Chasing the Equinox,6.4,Documentary ,45min,NULL,Kenny Scott 
+971,Dory's Reef Cam,3.5,"Comedy , Kids & Family , Animation ",3h 2min,G,Michal Makarewicz 
+972,Sultan And The Rock Star,NULL,NULL,NULL,NULL,NULL
+973,Don's Fountain of Youth,NULL,NULL,NULL,NULL,NULL
+974,Mars: One Day on the Red Planet,6.9,Documentary ,1h 28min,NULL,Martin Johnson 
+975,You Lucky Dog,4.5,"Fantasy , Comedy , Kids & Family ",1h 28min,NULL,Paul Schneider 
+976,The Flood,7.6,Documentary ,1h 28min,PG,NULL
+977,Us Again,NULL,NULL,NULL,NULL,NULL
+978,There's No Place Like Home,NULL,NULL,NULL,NULL,NULL
+979,A Knight for a Day,NULL,NULL,NULL,NULL,NULL
+980,Corn Chips,NULL,NULL,NULL,NULL,NULL
+981,Casebusters,NULL,NULL,NULL,NULL,NULL
+982,Big Sur-Wild California,NULL,NULL,NULL,NULL,NULL
+983,World's Most Dangerous Shark?,NULL,NULL,NULL,NULL,NULL
+984,Zenon: The Zequel,5.7 (3k),"Science-Fiction , Comedy , Kids & Family ",1h 40min,G,Manny Coto 
+985,Marvel Rising: Playing with Fire,5.1,"Action & Adventure , Animation , Kids & Family , Science-Fiction ",44min,NULL,Sol Choi 
+986,Bearly Asleep,NULL,NULL,NULL,NULL,NULL
+987,Lost Temple of The Inca,6.8,"Mystery & Thriller , Documentary , History ",42min,PG,Jim Aikman 
+988,Marvel's Behind the Mask,6.4,Documentary ,1h 4min,PG-13,Mike Jacobs 
+989,The Little Matchgirl,NULL,NULL,NULL,NULL,NULL
+990,Diving with Dolphins,7.0,Documentary ,1h 19min,G,Keith Scholey 
+991,How Dogs Got Their Shapes,6.7,Documentary ,44min,NULL,NULL
+992,Pixar 2021 Disney+ Day Special,NULL,NULL,NULL,NULL,NULL
+993,Pluto's Sweater,NULL,NULL,NULL,NULL,NULL
+994,The Story of the Animated Drawing,NULL,NULL,NULL,NULL,NULL
+995,Recess: Taking the Fifth Grade,NULL,NULL,NULL,NULL,NULL
+996,Ready to Run,5.4,"Kids & Family , Sport ",1h 28min,NULL,Duwayne Dunham 
+997,Beezy Bear,NULL,NULL,NULL,NULL,NULL
+998,Mom's Got a Date with a Vampire,5.8 (4k),"Fantasy , Comedy , Kids & Family , Horror ",1h 25min,NULL,Steve Boyum 
+999,The Scariest Story Ever: A Mickey Mouse Halloween Spooktacular,NULL,NULL,NULL,NULL,NULL
+1000,Mickey's Birthday Party,NULL,NULL,NULL,NULL,NULL
+1001,Mail Dog,NULL,NULL,NULL,NULL,NULL
+1002,Inner Workings,NULL,NULL,NULL,NULL,NULL
+1003,Jungle Cat,7.2,"Kids & Family , Documentary ",1h 9min,PG,James Algar 
+1004,Tru Confessions,7.4 (3k),"Kids & Family , Drama , Comedy ",1h 23min,G,Paul Hoen 
+1005,Kingdom of the Blue Whale,6.7,Documentary ,1h 36min,PG,NULL
+1006,Recess: All Growed Down,NULL,NULL,NULL,NULL,NULL
+1007,Marvel Rising: Battle of the Bands,5.2,"Science-Fiction , Kids & Family , Animation , Action & Adventure ",22min,NULL,Chris Rutkowski 
+1008,Duck the Halls: A Mickey Mouse Christmas Special,NULL,NULL,NULL,NULL,NULL
+1009,Sacred Planet,NULL,NULL,NULL,NULL,NULL
+1010,Snowball Express,6.3 (1k),"Comedy , Kids & Family ",1h 33min,G,Norman Tokar 
+1011,Let's Be Tigers,NULL,NULL,NULL,NULL,NULL
+1012,America's Heart and Soul,5.0,"Documentary , Kids & Family ",1h 24min,PG,Louis Schwartsberg 
+1013,The Simple Things,NULL,NULL,NULL,NULL,NULL
+1014,Zenon: Z3,5.2 (2k),"Science-Fiction , Comedy , Kids & Family ",1h 35min,NULL,Steve Rash 
+1015,Tick Tock Tale,NULL,NULL,NULL,NULL,NULL
+1016,Donald's Tire Trouble,NULL,NULL,NULL,NULL,NULL
+1017,The Pre-Opening Report from Disneyland,NULL,NULL,NULL,NULL,NULL
+1018,Soul of a Nation Presents: Screen Queens Rising,NULL,NULL,NULL,NULL,NULL
+1019,Buffalo Dreams,5.6,Kids & Family ,1h 30min,NULL,David Jackson 
+1020,Disney Princess Remixed: An Ultimate Princess Celebration,5.0,"Music & Musical , Documentary , Fantasy ",22min,NULL,NULL
+1021,Jumping Ship,6.0 (1k),"Drama , Kids & Family , Comedy ",1h 32min,G,Michael Lange 
+1022,Deion's Double Play,NULL,NULL,NULL,NULL,NULL
+1023,High School Musical: The Musical: The Holiday Special,5.5,"Music & Musical , Documentary , Comedy , Drama ",45min,NULL,Tim Federle 
+1024,Big Cat Games,NULL,NULL,NULL,NULL,NULL
+1025,Soul of a Nation Presents: X / o n e r a t e d – The Murder of Malcolm X and 55 Years to Justice,NULL,NULL,NULL,NULL,NULL
+1026,Miracle in Lane 2,6.0 (2k),"Drama , Kids & Family , Sport , Comedy ",1h 29min,G,Greg Beeman 
+1027,Brothers in Exile,NULL,NULL,NULL,NULL,NULL
+1028,The Christmas Star,6.3,"Drama , Kids & Family ",1h 34min,NULL,Alan Shapiro 
+1029,The Undefeated Presents: Hamilton In-Depth,NULL,NULL,NULL,NULL,NULL
+1030,The Ultimate Christmas Present,5.7 (1k),"Kids & Family , Comedy ",1h 25min,G,Greg Beeman 
+1031,The Kangaroo King,8.0,Documentary ,50min,NULL,Bettina Dalton 
+1032,Super Rhino,NULL,NULL,NULL,NULL,NULL
+1033,Man vs. Shark,6.2,Documentary ,44min,PG,NULL
+1034,Arendelle Castle Yule Log,7.9,"Drama , Animation ",3h 0min,G,NULL
+1035,Beaver Valley,NULL,NULL,NULL,NULL,NULL
+1036,101 Dalmatians II: Patch's London Adventure,NULL,NULL,NULL,NULL,NULL
+1037,Planet of the Birds,NULL,NULL,NULL,NULL,NULL
+1038,The Boy Who Talked to Badgers,5.4,Kids & Family ,1h 40min,NULL,Gary Nelson 
+1039,"Sammy, the Way-Out Seal",NULL,NULL,NULL,NULL,NULL
+1040,Bob Ballard: An Explorer's Life,6.8,Documentary ,44min,PG,NULL
+1041,Out of Scale,NULL,NULL,NULL,NULL,NULL
+1042,Man in Space,NULL,NULL,NULL,NULL,NULL
+1043,Grand Canyonscope,NULL,NULL,NULL,NULL,NULL
+1044,Expedition China,6.7,Documentary ,1h 18min,G,Ben Wallis 
+1045,World's Greatest Dogs,NULL,NULL,NULL,NULL,NULL
+1046,Being the Queen,6.2,Documentary ,45min,PG-13,Tom Jennings 
+1047,Built for Mars: The Perseverance Rover,6.8,Documentary ,1h 28min,PG-13,Mark Davis 
+1048,Nature's Half Acre,NULL,NULL,NULL,NULL,NULL
+1049,Trail of the Panda,6.3,Kids & Family ,1h 28min,G,Yu Zhong 
+1050,Water Birds,NULL,NULL,NULL,NULL,NULL
+1051,Oil Spill of The Century,NULL,NULL,NULL,NULL,NULL
+1052,Fuzzbucket,NULL,NULL,NULL,NULL,NULL
+1053,Maggie Simpson in Playdate with Destiny,NULL,NULL,NULL,NULL,NULL
+1054,Smoky Mountain Park Rangers,NULL,NULL,NULL,NULL,NULL
+1055,Forky Asks A Question: What Is A Pet?,NULL,NULL,NULL,NULL,NULL
+1056,Mars and Beyond,NULL,NULL,NULL,NULL,NULL
+1057,Mega Hammerhead,6.5,Documentary ,1h 0min,NULL,Brandon Hill 
+1058,Disney Illuminations Firework Show Disneyland Paris,NULL,NULL,NULL,NULL,NULL
+1059,Three Days,6.8 (1k),"Drama , Kids & Family , Fantasy ",1h 31min,NULL,Michael Switzer 
+1060,Trick or Treat,NULL,NULL,NULL,NULL,NULL
+1061,Decorating Disney: Holiday Magic,6.7,"Documentary , Music & Musical , Reality TV ",58min,PG,NULL
+1062,Let's Stick Together,NULL,NULL,NULL,NULL,NULL
+1063,Secrets of Life,7.3,"Documentary , Kids & Family ",1h 10min,G,James Algar 
+1064,Doc McStuffins: The Doc Is In,NULL,NULL,NULL,NULL,NULL
+1065,The Olympic Champ,NULL,NULL,NULL,NULL,NULL
+1066,Own the Room,6.4,Documentary ,1h 31min,PG,Cristina Costantini 
+1067,The Phantom Cat,NULL,NULL,NULL,NULL,NULL
+1068,Buried Truth of the Maya,5.5,"Documentary , History , Mystery & Thriller ",47min,PG,Bengt Anderson 
+1069,Walt & El Grupo,6.4,"Kids & Family , Documentary ",1h 46min,PG,Theodore Thomas 
+1070,Prep & Landing: Naughty vs. Nice,7.3 (1k),"Comedy , Kids & Family , Fantasy , Animation ",22min,G,Stevie Wermers 
+1071,Journey to Shark Eden,NULL,NULL,NULL,NULL,NULL
+1072,Justin Morgan Had a Horse,6.7,"Western , Kids & Family , Drama ",1h 28min,G,Hollingsworth Morse 
+1073,World's Biggest Bull Shark?,6.1,Documentary ,44min,PG-13,David S. Falcone 
+1074,Prep & Landing Stocking Stuffer: Operation: Secret Santa,6.8 (1k),"Kids & Family , Animation , Fantasy , Comedy ",7min,G,Kevin Deters 
+1075,The Liberty Story,NULL,NULL,NULL,NULL,NULL
+1076,Secrets of the King Cobra,NULL,NULL,NULL,NULL,NULL
+1077,Winged Seduction: Birds of Paradise,6.5,Documentary ,45min,NULL,Molly Hermann 
+1078,Incredible! The Story of Dr. Pol,NULL,NULL,NULL,NULL,NULL
+1079,Shark Gangs,6.6,Documentary ,44min,PG-13,Jacob Cobi Benattia 
+1080,The Mouseketeers at Walt Disney World,8.2,Kids & Family ,56min,NULL,John Tracy 
+1081,American Eid,NULL,NULL,NULL,NULL,NULL
+1082,Man Among Cheetahs,6.8,Documentary ,44min,PG,Richard Slater-Jones 
+1083,Russia's Wild Tiger,NULL,NULL,NULL,NULL,NULL
+1084,Texas Storm Squad,NULL,NULL,NULL,NULL,NULL
+1085,The Plausible Impossible,NULL,NULL,NULL,NULL,NULL
+1086,Forky Asks A Question: What Is Money?,NULL,NULL,NULL,NULL,NULL
+1087,In the Footsteps of Elephant,7.2,"Documentary , Kids & Family ",1h 28min,G,Vanessa Berlowitz 
+1088,Secrets Of Christ's Tomb,6.3,"Documentary , History ",46min,NULL,NULL
+1089,My Dog the Thief,NULL,NULL,NULL,NULL,NULL
+1090,Bride of Boogedy,NULL,NULL,NULL,NULL,NULL
+1091,The Queen Family Singalong,5.7,Music & Musical ,41min,NULL,Hamish Hamilton 
+1092,Mickey and Minnie Wish Upon a Christmas,6.2,"Animation , Comedy , Kids & Family ",47min,G,Broni Likomanov 
+1093,Petra: Secrets of the Ancient Builders,NULL,NULL,NULL,NULL,NULL
+1094,America's Greatest Animals,NULL,NULL,NULL,NULL,NULL
+1095,Shark vs. Surfer,6.8,Documentary ,44min,NULL,Phil Stebbing 
+1096,Killer Shark vs. Killer Whale,6.4,Documentary ,44min,PG-13,NULL
+1097,A Celebration of the Music from Coco,7.0,"Documentary , Music & Musical ",47min,NULL,Ron de Moraes 
+1098,Flooded Tombs of the Nile,6.5,"History , Documentary ",44min,PG,Katie Bauer Murdock 
+1099,Trail Mix-Up,NULL,NULL,NULL,NULL,NULL
+1100,Big Sharks Rule,NULL,NULL,NULL,NULL,NULL
+1101,Hounded,4.9 (1k),"Comedy , Drama , Kids & Family ",1h 31min,NULL,Neal Israel 
+1102,The Last Ice,7.4,Documentary ,1h 23min,NULL,NULL
+1103,Sharks of the Bermuda Triangle,6.1,Documentary ,43min,NULL,NULL
+1104,India's Wild Leopards,NULL,NULL,NULL,NULL,NULL
+1105,Viking Warrior Women,5.6,"Documentary , History ",45min,PG,Stuart Strickson 
+1106,Tree Climbing Lions,NULL,NULL,NULL,NULL,NULL
+1107,High School Musical: The Musical: The Series: The Special,6.7,"Music & Musical , Documentary , Drama , Comedy ",23min,NULL,Clayton Cogswell 
+1108,Secrets of the Bull Shark,5.7,Documentary ,44min,NULL,NULL
+1109,Hamilton: History Has Its Eyes On You,6.3,Documentary ,46min,PG,Thomas Kail 
+1110,Buried Secrets of Keros,NULL,NULL,NULL,NULL,NULL
+1111,Prowlers of the Everglades,NULL,NULL,NULL,NULL,NULL
+1112,Phi Slama Jama,NULL,NULL,NULL,NULL,NULL
+1113,What the Shark?,NULL,NULL,NULL,NULL,NULL
+1114,Great Shark Chow Down,NULL,NULL,NULL,NULL,NULL
+1115,Most Wanted Sharks,NULL,NULL,NULL,NULL,NULL
+1116,Shanghai Disney Resort Grand Opening Gala,NULL,NULL,NULL,NULL,NULL
+1117,The Disney Holiday Singalong,5.8,"Comedy , Kids & Family , Music & Musical ",45min,NULL,Hamish Hamilton 
+1118,Betty White Goes Wild,7.3,Documentary ,44min,PG,James Reed 
+1119,The Olympic Elk,NULL,NULL,NULL,NULL,NULL
+1120,Wild Uganda,NULL,NULL,NULL,NULL,NULL
+1121,Dinner Is Served,NULL,NULL,NULL,NULL,NULL
+1122,Tummy Trouble,NULL,NULL,NULL,NULL,NULL
+1123,Disney’s Fairy Tale Weddings: Holiday Magic,NULL,NULL,NULL,NULL,NULL
+1124,The Incredible Dr. Pol Blue Ribbon Kids,NULL,NULL,NULL,NULL,NULL
+1125,The Incredible Dr. Pol: Jingle Pols,NULL,NULL,NULL,NULL,NULL
+1126,A Very Boy Band Holiday,6.2,Music & Musical ,42min,NULL,Ashley S Gorman 
+1127,Captain Sparky vs. The Flying Saucers,NULL,NULL,NULL,NULL,NULL
+1128,Women of Impact: Changing the World,NULL,NULL,NULL,NULL,NULL
+1129,Ultimate Viking Sword,NULL,NULL,NULL,NULL,NULL
+1130,Disney Holiday Magic Quest,6.3,,45min,G,NULL
+1131,Born Wild: The Next Generation,7.9,Documentary ,1h 0min,G,NULL
+1132,Disney My Music Story: Perfume,6.0,"Music & Musical , Documentary ",1h 11min,NULL,NULL
+1133,From Our Family to Yours,NULL,NULL,NULL,NULL,NULL
+1134,My Music Story: Sukimaswitch,NULL,NULL,NULL,NULL,NULL
+1135,Epic Holiday Showdown,4.4,,49min,NULL,NULL
+1136,Okavango: River of Dreams,NULL,NULL,NULL,NULL,NULL
+1137,Disney Channel Holiday House Party,4.2,Comedy ,25min,G,NULL
+1138,My Music Story: Yoshiki,7.3,"Documentary , Music & Musical ",47min,NULL,NULL
+1139,Disney Channel Halloween House Party,6.1,"Comedy , Kids & Family ",23min,NULL,Trevor Moore 
+1140,Jade Eyed Leopard,NULL,NULL,NULL,NULL,NULL
+1141,Far From Raven's Home,5.4,"Animation , Comedy ",11min,G,NULL

@@ -9,9 +9,9 @@ browser = webdriver.Chrome("webscraping/chromedriver")
 
 browser.maximize_window()
 
-browser.get('https://www.justwatch.com/us/provider/netflix/movies')
+browser.get('https://www.justwatch.com/us/provider/netflix/tv-shows')
 
-html = browser.page_source 
+html = browser.page_source
 
 soup = BeautifulSoup(html, "lxml")
 
@@ -47,7 +47,7 @@ for elem in elems:
 browser.close()
 
 # The first 221 and last 34 links are not useful
-links = links[221:len(links)-34]
+links = links[249:len(links)-34]
 
 # Creating lists to store movie data
 movie_name = []
@@ -137,4 +137,4 @@ df['Age rating'] = movie_age_rating
 df['Director'] = movie_director
 
 print(df.head(20))
-df.to_csv('Movie_Data.csv')
+df.to_csv('Netflix_tv_shows.csv')
